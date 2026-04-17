@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot Escolar</title>
+    <!-- Usa una fuente amigable como en el diseño -->
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Iconos para el menú y el avatar -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <!-- Supabase SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="https://js.puter.com/v2/"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar izquierda -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <span class="sidebar-text header-text">Esconder</span>
+                <button class="icon-btn menu-btn" id="menu-btn"><i class="ph ph-list"></i></button>
+            </div>
+            
+            <div class="sidebar-nav">
+                <button class="nav-btn" id="new-chat-btn">
+                    <i class="ph-bold ph-plus"></i>
+                    <span class="sidebar-text">Nueva conversacion</span>
+                </button>
+                
+                <div class="history-list" id="history-list">
+                    <!-- Dinamicamente se agregarán las conversaciones previas -->
+                </div>
+            </div>
+
+            <div class="spacer"></div>
+            
+            <div class="sidebar-footer">
+                <button class="nav-btn" id="config-btn">
+                    <i class="ph-fill ph-gear"></i>
+                    <span class="sidebar-text">Configuracion</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- Contenido principal -->
+        <main class="main-content">
+            <!-- Barra superior de colores de Google -->
+            <div class="google-top-bar"></div>
+            
+            <!-- Header superior -->
+            <header class="top-header">
+                <div class="brand">ChatBot Escolar</div>
+                
+                <!-- Perfil Normal -->
+                <div class="profile-container" id="normal-profile">
+                    <span id="student-name-display" class="hidden" style="font-size: 18px; font-weight: 600; color: #FFFFFF;"></span>
+                    <i class="ph-fill ph-user-circle profile-icon"></i>
+                </div>
+                
+                <!-- Perfil Modo Admin -->
+                <div class="profile-container hidden" id="admin-profile">
+                    <span id="admin-header-name-display" style="font-size: 24px; font-weight: 600; margin-right: 15px;">Acceso Administrativo</span>
+                    <i class="ph ph-user-circle profile-icon" style="font-size: 52px;"></i>
+                </div>
+                
+                <!-- Minipanel de opciones del perfil -->
+                <div id="profile-dropdown" class="profile-dropdown hidden">
+                    <button id="nav-btn-admin-login">Acceso Administrativo</button>
+                    <button id="nav-btn-student-login">Ingresar</button>
+                    <button id="nav-btn-logout" class="hidden" style="color: #FF5252; border-top: 1px solid #333;">Cerrar sesión</button>
+                </div>
+            </header>
+
+            <!-- Vista de Inicio (Botones y Saludo) -->
+            <div id="home-view" class="home-view">
+                <div class="welcome-section">
+                    <div class="bot-glow-container">
+                        <svg viewBox="0 0 200 200" class="bot-avatar" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(100, 100) rotate(-15)">
+                                <!-- Right leg -->
+                                <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(25, 55) rotate(-20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <!-- Left leg -->
+                                <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(-25, 55) rotate(20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <!-- Leaves on top -->
+                                <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                <!-- Left floating hand -->
+                                <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                <circle cx="70" cy="12" r="14" fill="#a0a0a0" id="robot-hand-right" />
+                                <!-- Body joints & Body -->
+                                <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                <!-- Screen Focus -->
+                                <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" id="robot-screen" />
+                                <circle cx="-12" cy="0" r="5" fill="#ffffff" id="eye-left" style="transition: fill 0.6s ease, transform 0.1s ease;" />
+                                <circle cx="12" cy="0" r="5" fill="#ffffff" id="eye-right" style="transition: fill 0.6s ease, transform 0.1s ease;" />
+                                <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" id="robot-mouth" style="transition: d 0.6s ease, stroke 0.6s ease;" />
+                            </g>
+                        </svg>
+                    </div>
+                    <div class="welcome-text">
+                        <h1>Hola</h1>
+                        <h2>¿En que podemos ayudarte?</h2>
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button class="pill-btn">Consultas Académicas de Informática</button>
+                    <button class="pill-btn">Orientación para Estudiantes de Nuevo Ingreso</button>
+                </div>
+
+                <div class="home-chat-container">
+                    <div class="chat-input-area home-bar">
+                        <input type="text" id="home-chat-input" placeholder="Hazme cualquier pregunta sobre la carrera...">
+                        <button id="home-send-btn" class="send-btn"><i class="ph-fill ph-paper-plane-right"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vista de Chat (Oculta por defecto, para la navegación) -->
+            <div id="chat-view" class="chat-view hidden">
+                <div class="chat-history" id="chat-history"></div>
+                <div class="chat-input-area">
+                    <input type="text" id="chat-input" placeholder="Escribe un mensaje aquí...">
+                    <button id="send-btn" class="send-btn"><i class="ph-fill ph-paper-plane-right"></i></button>
+                </div>
+            </div>
+
+            <!-- Vista de Acceso Administrativo (Oculta por defecto) -->
+            <div id="admin-view" class="admin-view hidden">
+                <div class="docente-layout">
+                    <div class="docente-left">
+                        <div class="docente-greeting">
+                            <h1 class="dynamic-bg-color">¿Que vamos a hacer</h1>
+                            <h2 class="docente-hoy">Hoy?</h2>
+                        </div>
+                        <div class="bot-admin-container bot-glow-container">
+                            <svg viewBox="0 0 200 200" class="bot-avatar admin-robot" xmlns="http://www.w3.org/2000/svg">
+                                <g transform="translate(100, 100) rotate(-15)">
+                                    <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                    <g transform="translate(25, 55) rotate(-20)">
+                                        <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                        <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                    </g>
+                                    <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                    <g transform="translate(-25, 55) rotate(20)">
+                                        <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                        <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                    </g>
+                                    <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                    <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                    <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                    <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                    <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                    <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                    <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                    <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                    <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                    <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                    <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                    <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                    <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+                                </g>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <div class="docente-right">
+                        <button class="docente-action-btn" id="docente-nav-add-btn">Agregar nuevas preguntas y respuestas.</button>
+                        <button class="docente-action-btn" id="docente-nav-edit-btn">Editar contenido existente.</button>
+                        <button class="docente-nav-delete-btn docente-action-btn" id="docente-nav-delete-btn">Eliminar información obsoleta.</button>
+                        <button class="docente-action-btn" id="admin-nav-migrate-btn" style="background-color: #FBBC05; border: none; color: #000; font-weight: bold;">
+                            <i class="ph ph-lightning"></i> Migrar TXT a Base de Datos SQL
+                        </button>
+                        <button class="docente-action-btn hidden" id="coordinador-nav-updates-btn" style="background: linear-gradient(135deg, #4285F4, #34A853); border: none;">Actualizaciones pendientes.</button>
+                        <button class="docente-action-btn hidden" id="admin-nav-users-btn" style="background-color: #EA4335; border: none;">Administrar usuarios.</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Nueva Vista: Actualizaciones Pendientes (Coordinador) -->
+            <div id="coordinador-updates-view" class="admin-view hidden">
+                <div class="docente-add-wrapper" style="max-width: 600px;">
+                    <div class="docente-add-header">
+                        <h1 class="dynamic-bg-color" style="background-color: #4285F4;">Historial de Versiones</h1>
+                        <p>Estado actual del sistema y actualizaciones del núcleo.</p>
+                    </div>
+
+                    <div class="version-panel">
+                        <div class="version-robot-container">
+                            <!-- Robot volador -->
+                            <svg viewBox="0 0 200 200" class="bot-avatar flying-robot" xmlns="http://www.w3.org/2000/svg">
+                                <g class="flying-group">
+                                    <!-- Lineas de movimiento -->
+                                    <g class="wind-lines">
+                                        <line x1="20" y1="50" x2="40" y2="50" stroke="#FFF" stroke-width="2" opacity="0.4" />
+                                        <line x1="160" y1="120" x2="180" y2="120" stroke="#FFF" stroke-width="2" opacity="0.4" />
+                                        <line x1="30" y1="150" x2="60" y2="150" stroke="#FFF" stroke-width="2" opacity="0.4" />
+                                    </g>
+
+                                    <g transform="translate(100, 100) rotate(-5)">
+                                        <!-- Piernas recogidas para el vuelo -->
+                                        <g transform="translate(20, 30) rotate(40)">
+                                            <rect x="-8" y="0" width="16" height="15" rx="4" fill="#f0f0f0" />
+                                        </g>
+                                        <g transform="translate(-20, 30) rotate(-40)">
+                                            <rect x="-8" y="0" width="16" height="15" rx="4" fill="#f0f0f0" />
+                                        </g>
+
+                                        <!-- Hojas que se mueven con el viento -->
+                                        <g class="windy-leaves">
+                                            <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                            <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill leaf-sway-1" />
+                                            <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill leaf-sway-2" />
+                                        </g>
+
+                                        <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                        <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                        <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                        <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                        <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                        <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                        <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                        <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                        <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+                                    </g>
+                                </g>
+                            </svg>
+                        </div>
+                        
+                        <div class="version-info">
+                            <span class="version-tag">Actualización disponible</span>
+                            <h2 class="version-number">CBpbp-1.00</h2>
+                            <p class="version-desc">Consistencia de base de datos local y sincronización de conocimiento dinámico activada.</p>
+                        </div>
+                    </div>
+
+                    <div class="docente-add-footer">
+                        <button id="updates-volver-btn" class="footer-btn btn-volver-minimal" style="width: 100%;">
+                            <i class="ph ph-caret-left"></i> Volver al menú primordial
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Nueva Vista: Agregar Preguntas (Docente) -->
+            <div id="docente-add-view" class="admin-view hidden">
+                <div class="docente-add-wrapper">
+                    <div class="docente-add-header">
+                        <h1 class="dynamic-bg-color">Nueva Consulta</h1>
+                        <p>Completa los campos para alimentar mi conocimiento base.</p>
+                    </div>
+
+                    <div class="docente-add-main">
+                        <div class="add-card green-border">
+                            <div class="card-badge green-badge">Pregunta</div>
+                            <div class="card-content">
+                                <input type="text" id="add-pregunta-input" class="docente-input-line" placeholder="¿Qué preguntarán los estudiantes?">
+                            </div>
+                        </div>
+
+                        <div class="docente-mascot-mid">
+                            <div class="bot-glow-container small-bot">
+                                <svg viewBox="0 0 200 200" class="bot-avatar admin-robot" xmlns="http://www.w3.org/2000/svg">
+                                    <g transform="translate(100, 100) rotate(-15)">
+                                        <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                        <g transform="translate(25, 55) rotate(-20)">
+                                            <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                            <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                        </g>
+                                        <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                        <g transform="translate(-25, 55) rotate(20)">
+                                            <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                            <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                        </g>
+                                        <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                        <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                        <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                        <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                        <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                        <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                        <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                        <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                        <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                        <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                        <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                        <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                        <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+
+                        <div class="add-card blue-border">
+                            <div class="card-badge blue-badge">Respuesta</div>
+                            <div class="card-content">
+                                <textarea id="add-respuesta-input" class="docente-input-box" placeholder="Escribe la respuesta experta aquí..."></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="docente-add-footer">
+                        <div class="footer-actions">
+                            <button id="add-volver-btn" class="footer-btn btn-volver-minimal">
+                                <i class="ph ph-caret-left"></i> Volver a opciones
+                            </button>
+                            <button id="add-publicar-btn" class="footer-btn btn-publicar-premium">
+                                Publicar Respuesta <i class="ph ph-paper-plane-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Nueva Vista: Editar Contenido (Docente) -->
+            <div id="docente-edit-view" class="admin-view hidden">
+                <div class="docente-add-wrapper docente-edit-wrapper">
+                    <div class="docente-add-header">
+                        <h1 class="dynamic-bg-color" style="background-color: #EA4335;">Editar Contenido</h1>
+                        <p>Gestiona y corrige las preguntas y respuestas guardadas.</p>
+                    </div>
+
+                    <div class="docente-add-main">
+                        <div class="add-card red-border">
+                            <button id="edit-load-preguntas-btn" class="card-badge red-badge btn-edit-trigger">Buscar pregunta</button>
+                            <div class="card-content">
+                                <div id="edit-preguntas-list" class="edit-list-container">
+                                    <p class="empty-list-msg">Haz clic en el botón rojo para buscar...</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="docente-mascot-mid">
+                            <div class="bot-glow-container small-bot">
+                                <svg viewBox="0 0 200 200" class="bot-avatar edit-robot" xmlns="http://www.w3.org/2000/svg">
+                                    <g transform="translate(100, 100) rotate(-10)">
+                                        <!-- Piernas y cuerpo base (igual que otros) -->
+                                        <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                        <g transform="translate(25, 55) rotate(-20)">
+                                            <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                            <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                        </g>
+                                        <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                        <g transform="translate(-25, 55) rotate(20)">
+                                            <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                            <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                        </g>
+                                        <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                        <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                        <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                        
+                                        <!-- Mano izquierda con Lápiz -->
+                                        <g transform="translate(-70, 12)">
+                                            <circle cx="0" cy="0" r="14" fill="#a0a0a0" />
+                                            <g transform="rotate(-45) translate(-10, -20)">
+                                                <rect x="0" y="0" width="8" height="30" fill="#FBBC05" />
+                                                <path d="M 0 0 L 8 0 L 4 -6 Z" fill="#333" />
+                                                <rect x="0" y="30" width="8" height="4" fill="#FF8A8A" />
+                                            </g>
+                                        </g>
+
+                                        <!-- Mano derecha -->
+                                        <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                        
+                                        <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                        <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                        <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                        <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                        
+                                        <!-- Pantalla/Cara -->
+                                        <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                        <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                        <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                        <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+
+                                        <!-- Lentes tiernos -->
+                                        <g stroke="#ffffff" stroke-width="2" fill="none" style="opacity: 0.8;">
+                                            <circle cx="-12" cy="0" r="10" />
+                                            <circle cx="12" cy="0" r="10" />
+                                            <path d="M -2 0 L 2 0" />
+                                            <path d="M -22 0 L -28 -5" />
+                                            <path d="M 22 0 L 28 -5" />
+                                        </g>
+                                    </g>
+                                </svg>
+                            </div>
+                        </div>
+
+                        <div class="add-card yellow-border">
+                            <button id="edit-load-respuestas-btn" class="card-badge yellow-badge btn-edit-trigger">Respuestas</button>
+                            <div class="card-content">
+                                <div id="edit-respuestas-list" class="edit-list-container">
+                                    <p class="empty-list-msg">Haz clic en el botón amarillo...</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="docente-add-footer">
+                        <div class="footer-actions">
+                            <button id="edit-volver-btn" class="footer-btn btn-volver-minimal">
+                                <i class="ph ph-caret-left"></i> Volver a opciones
+                            </button>
+                            <button id="edit-publicar-btn" class="footer-btn btn-publicar-premium">
+                                Guardar todo <i class="ph ph-floppy-disk"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vista de Login (Oculta por defecto) -->
+            <div id="login-view" class="login-view hidden">
+                <div class="login-left">
+                    <div class="login-welcome">
+                        <h1>Hola</h1>
+                        <div class="red-badge dynamic-bg-color">Bienvenido de nuevo.</div>
+                    </div>
+                    <div class="login-robot-container bot-glow-container">
+                        <svg viewBox="0 0 200 200" class="bot-avatar login-robot" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(100, 100) rotate(-15)">
+                                <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(25, 55) rotate(-20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(-25, 55) rotate(20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+                            </g>
+                        </svg>
+                    </div>
+                </div>
+                
+                <div class="login-right">
+                    <div class="login-card">
+                        <div class="login-card-header">
+                            <h3>Iniciar seccion</h3>
+                        </div>
+                        <form class="login-form">
+                            <div class="input-group">
+                                <input type="text" id="admin-user" placeholder="Usuario" required>
+                            </div>
+                            <div class="input-group">
+                                <input type="password" id="admin-pass" placeholder="Contraseña" required>
+                            </div>
+                            <div class="input-group">
+                                <select id="admin-role" required>
+                                    <option value="" disabled selected>Rol</option>
+                                    <option value="Docente">Docente</option>
+                                    <option value="Coordinador(a)">Coordinador(a)</option>
+                                    <option value="Administrador del sistema">Administrador del sistema</option>
+                                </select>
+                            </div>
+                            <button type="button" id="admin-submit-btn" class="login-submit-btn">Ingresar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Vista de Login Estudiante (Oculta por defecto) -->
+            <div id="student-login-view" class="login-view hidden">
+                <div class="login-left">
+                    <div class="login-welcome">
+                        <h1>Hola</h1>
+                        <div class="red-badge dynamic-bg-color">Bienvenido estudiante.</div>
+                    </div>
+                    <div class="login-robot-container bot-glow-container">
+                        <svg viewBox="0 0 200 200" class="bot-avatar login-robot" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(100, 100) rotate(-15)">
+                                <line x1="15" y1="30" x2="25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(25, 55) rotate(-20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <!-- Aletas -->
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <line x1="-15" y1="30" x2="-25" y2="55" stroke="#111" stroke-width="5" stroke-linecap="round" />
+                                <g transform="translate(-25, 55) rotate(20)">
+                                    <rect x="-8" y="0" width="16" height="22" rx="4" fill="#f0f0f0" />
+                                    <path d="M -8 15 L 8 15 L 8 18 Q 8 22 4 22 L -4 22 Q -8 22 -8 18 Z" class="dynamic-fill" />
+                                </g>
+                                <line x1="0" y1="-30" x2="5" y2="-45" stroke="#4a5022" stroke-width="3" stroke-linecap="round" />
+                                <!-- Hojas -->
+                                <path d="M 3 -40 Q -15 -42 -10 -55 Q 0 -55 3 -40" class="dynamic-fill" />
+                                <path d="M 5 -45 Q 25 -45 35 -60 Q 25 -65 5 -45" class="dynamic-fill" />
+                                <circle cx="-70" cy="12" r="14" fill="#a0a0a0" />
+                                <circle cx="70" cy="12" r="14" fill="#a0a0a0" />
+                                <circle cx="-40" cy="0" r="22" fill="#a0a0a0" />
+                                <circle cx="40" cy="0" r="22" fill="#a0a0a0" />
+                                <rect x="-55" y="-35" width="110" height="70" rx="25" fill="#F3F4F6" />
+                                <path d="M 35 30 A 25 25 0 0 0 55 5 L 55 -5 A 25 25 0 0 1 25 25 Z" fill="#D1D5DB" />
+                                <rect x="-35" y="-18" width="70" height="42" rx="10" fill="#0a0a0a" />
+                                <circle cx="-12" cy="0" r="5" fill="#ffffff" />
+                                <circle cx="12" cy="0" r="5" fill="#ffffff" />
+                                <path d="M -4 8 Q 0 16 4 8" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" />
+                            </g>
+                        </svg>
+                    </div>
+                </div>
+                
+                <div class="login-right">
+                    <div class="login-card">
+                        <div class="login-card-header" style="background-color: #0A0A0A;">
+                            <h3>Ingresar</h3>
+                        </div>
+                        <form class="login-form student-form">
+                            <div class="input-group">
+                                <input type="text" id="student-nombre" placeholder="Nombre" required>
+                            </div>
+                            <div class="input-group">
+                                <input type="number" id="student-edad" placeholder="Edad" required>
+                            </div>
+                            <div class="input-group">
+                                <select id="student-curso" required style="width: 100%; padding: 12px; border-radius: 8px; background: rgba(255,255,255,0.05); color: white; border: 1px solid rgba(255,255,255,0.1); outline: none;">
+                                    <option value="" disabled selected>Selecciona tu curso</option>
+                                    <option value="4TOD">4TOD</option>
+                                    <option value="5TOD">5TOD</option>
+                                    <option value="6TOD">6TOD</option>
+                                </select>
+                            </div>
+                            <button type="button" id="student-submit-btn" class="login-submit-btn" style="background-color: #000000;">Ingresar</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- Nueva Vista: Gestión de Usuarios (Administrador del Sistema) -->
+            <div id="admin-users-view" class="admin-view hidden">
+                <div class="docente-add-wrapper users-management-wrapper">
+                    <div class="docente-add-header">
+                        <h1 class="dynamic-bg-color" style="background-color: #EA4335;">Gestión de Usuarios</h1>
+                        <p>Administra los accesos y roles de todo el personal institucional.</p>
+                    </div>
+
+                    <div class="users-main-content">
+                        <div class="users-table-container">
+                            <table class="users-table" id="users-table">
+                                <thead>
+                                    <tr>
+                                        <th>Usuario</th>
+                                        <th>Contraseña</th>
+                                        <th>Rol</th>
+                                        <th style="width: 80px;">Acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="users-table-body">
+                                    <!-- Filas generadas dinámicamente -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="docente-add-footer">
+                        <div class="footer-actions">
+                            <button id="users-volver-btn" class="footer-btn btn-volver-minimal">
+                                <i class="ph ph-caret-left"></i> Volver
+                            </button>
+                            <button id="users-add-btn" class="footer-btn" style="background-color: #34A853; border: none; color: white;">
+                                <i class="ph ph-plus"></i> Añadir Usuario
+                            </button>
+                            <button id="users-save-btn" class="footer-btn btn-publicar-premium" style="background-color: #EA4335;">
+                                Guardar cambios <i class="ph ph-floppy-disk"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Nueva Vista: Eliminar Contenido (Docente) -->
+            <div id="docente-delete-view" class="admin-view hidden">
+                <div class="docente-add-wrapper docente-delete-wrapper">
+                    <div class="docente-add-header">
+                        <h1 class="dynamic-bg-color" style="background-color: #5F6368;">Eliminar Información Obsoleta</h1>
+                        <p>Selecciona la información que ya no es necesaria para el sistema.</p>
+                    </div>
+
+                    <div class="docente-delete-main">
+                        <div class="delete-controls">
+                            <button id="delete-search-btn" class="card-badge grey-badge btn-delete-trigger">
+                                <i class="ph ph-magnifying-glass"></i> Buscar información
+                            </button>
+                            <button id="delete-execute-btn" class="card-badge red-badge btn-delete-trigger hidden">
+                                <i class="ph ph-trash"></i> Eliminar contenido
+                            </button>
+                        </div>
+                        
+                        <div id="delete-info-list" class="delete-list-container">
+                            <p class="empty-list-msg">Haz clic en "Buscar información" para comenzar...</p>
+                        </div>
+                    </div>
+
+                    <div class="docente-add-footer">
+                        <div class="footer-actions">
+                            <button id="delete-volver-btn" class="footer-btn btn-volver-minimal">
+                                <i class="ph ph-caret-left"></i> Volver a opciones
+                            </button>
+                            <button id="delete-save-btn" class="footer-btn btn-publicar-premium" style="background-color: #5F6368;">
+                                Guardar cambios <i class="ph ph-floppy-disk"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal de Configuración -->
+    <div id="settings-modal" class="settings-modal hidden">
+        <div class="settings-content">
+            <div class="settings-header">
+                <h3>Configuración</h3>
+                <button id="close-settings-btn" class="icon-btn"><i class="ph ph-x"></i></button>
+            </div>
+            <div class="settings-options">
+                <div class="setting-item">
+                    <span>Tema Claro</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggle-theme">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <span>Alto Contraste</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggle-contrast">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <span>Desactivar Animaciones</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggle-animations">
+                        <span class="slider round"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Confirmación de Cierre de Sesión -->
+    <div id="logout-modal" class="settings-modal hidden">
+        <div class="settings-content" style="max-width: 350px; text-align: center;">
+            <div style="margin-bottom: 25px;">
+                <i class="ph ph-warning-circle" style="font-size: 48px; color: #FF5252;"></i>
+                <h3 style="margin: 15px 0 10px 0; font-size: 20px; font-weight: 600;">¿Cerrar Sesión?</h3>
+                <p style="color: #AAAAAA; font-size: 14px; margin: 0;">¿Realmente deseas cerrar tu sesión? Perderás tu contexto actual.</p>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <button id="logout-cancel-btn" style="flex: 1; padding: 12px; background-color: #333; color: white; border: none; border-radius: 8px; cursor: pointer; font-family: inherit; font-weight: 600;">Cancelar</button>
+                <button id="logout-confirm-btn" style="flex: 1; padding: 12px; background-color: #FF5252; color: white; border: none; border-radius: 8px; cursor: pointer; font-family: inherit; font-weight: 600;">Sí, deseo continuar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <!-- Modal de Confirmación de Borrado Especial -->
+    <div id="delete-confirm-modal" class="modal hidden">
+        <div class="modal-content glass-confirm">
+            <h2 class="dynamic-bg-color" style="background-color: #EA4335; padding: 10px 20px; border-radius: 10px;">¿Eliminar elemento?</h2>
+            <p>Esta acción quitará el contenido de la lista temporal. Deberás "Guardar todo" para aplicar los cambios permanentemente.</p>
+            
+            <div class="checkbox-container">
+                <input type="checkbox" id="no-show-delete-again">
+                <label for="no-show-delete-again">No volver a mostrar esta advertencia</label>
+            </div>
+
+            <div class="modal-actions">
+                <button id="btn-cancel-delete" class="modal-btn cancel">Conservar</button>
+                <button id="btn-confirm-delete" class="modal-btn delete-final">Eliminar</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

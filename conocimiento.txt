@@ -1,0 +1,4523 @@
+BACHILLERATO TÉCNICO EN DESARROLLO Y ADMINISTRACIÓN DE APLICACIONES 
+INFORMÁTICAS 
+1. IDENTIFICACIÓN DEL TÍTULO 
+Denominación: Desarrollo y Administración de Aplicaciones Informáticas 
+Familia Profesional: Informática y Comunicaciones 
+Nivel: 3_Bachiller Técnico 
+Código: IFC006_3 
+2. PERFIL PROFESIONAL 
+Competencia General 
+Analizar, diseñar, desarrollar, administrar e implementar aplicaciones informáticas, sistemas de bases de 
+datos, aplicaciones web y recursos de sistemas de información, a fin de apoyar las funciones productivas 
+de las organizaciones. 
+Unidades de Competencia 
+UC_053_3: Realizar las fases de análisis, especificación de requerimientos y diseño de sistemas en el 
+proceso de desarrollo de aplicaciones y sistemas informáticos. 
+UC_054_3: Desarrollar aplicaciones y sistemas de información para automatizar los procesos del negocio 
+dentro de la gestión empresarial.  
+UC_055_3: Aplicar los procesos de prueba, implementación, mantenimiento preventivo y correctivo a las 
+aplicaciones informáticas y sistemas desarrollados para garantizar el ciclo de vida de desarrollo de 
+software. 
+UC_056_3: Diseñar y desarrollar bases de datos modelando la arquitectura requerida por las aplicaciones 
+y sistemas de información. 
+UC_057_3: Administrar las bases de datos para soportar de manera eficiente los sistemas de información. 
+UC_058_3: Analizar, diseñar y producir reportes empresariales haciendo uso de herramientas 
+informáticas a fin de apoyar las funciones productivas de las organizaciones. 
+UC_059_3: Diseñar portales web y recursos multimedia haciendo uso de herramientas informáticas de 
+acuerdo con las necesidades presentadas por el cliente o negocio. 
+UC_060_3: Desarrollar e implementar soluciones web y recursos multimedia haciendo uso de 
+herramientas informáticas que respondan a las necesidades del cliente o negocio. 
+Entorno profesional  
+Ámbito profesional 
+Ejerce eficientemente su profesión de manera independiente o dentro de una organización, sin importar 
+el tamaño y sector productivo, que requiera de la automatización de procesos a través de sistemas de 
+información  para su gestión. Se puede desempeñar en departamentos de desarrollo de aplicaciones y 
+sistemas de información, administración de bases de datos, implementación de soluciones empresariales, 
+entre otros. 
+Sectores productivos - 
+Este profesional tiene un amplio rango de acción: 
+Página 1 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+- 
+En empresas o entidades de cualquier tamaño que utilizan sistemas informáticos para su 
+gestión y que pueden estar enmarcadas en los  sectores de servicio, industrial y agropecuario. - - - - - - - 
+En empresas o entidades que se dedican al desarrollo, comercialización, mantenimiento e 
+implementación de sistemas de información. 
+En empresas que prestan servicios de asistencia técnica a sistema de información. 
+En las diferentes instituciones públicas y privadas, como parte del soporte a sistemas de 
+información.  
+Como profesional independiente, en tanto puede desarrollar, comercializar, mantener e 
+implementar sistemas de información, así como brindar asistencia técnica a varios sistemas. 
+En las áreas laborales, donde puede analizar e interpretar los requerimientos de información 
+de los diversos usuarios y producir reportes que cumplan dichas necesidades. 
+Produciendo soluciones técnicas en forma de sistemas de información ante problemas 
+planteados desde distintos ámbitos. 
+Desarrollando aplicaciones para integrar y comunicar distintos interfaces. 
+Ocupaciones y puestos de trabajo relevantes 
+o Referente Internacional (Clasificación Internacional Uniforme de Ocupaciones (CIUO) 2008 - 
+2511 Analistas de sistemas. - - - - - - - - 
+2512 Desarrolladores de software. 
+2513 Desarrolladores web y multimedia. 
+2514 Programadores de aplicaciones.  
+2519 Desarrolladores y analistas de software y multimedia y analistas no clasificados bajo 
+otros epígrafes.  
+2521 Diseñadores y administradores de bases de datos.  
+2523 Profesionales en redes de computadores.  
+2529 Especialistas en bases de datos y en redes de computadores no clasificados bajo otros 
+epígrafes.  
+3514 Técnicos de la web.  
+o Otras ocupaciones - 
+Analista programador.  - - - - - - - - - - - 
+Programador. 
+Programador sénior. 
+Encargado de sistema. 
+Desarrollador de aplicaciones .net. 
+Implementador de software. 
+Diseñador de base de datos. 
+Programador de base de datos. 
+Administrador de base de datos. 
+Diseñador de página web. 
+Diseñador gráfico y de animación flash. 
+Programador web. 
+Página 2 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+3. FORMACIÓN ASOCIADA AL TÍTULO 
+PLAN DE ESTUDIOS 
+Las asignaturas y módulos formativos que conforman el Plan de Estudio del Bachillerato Técnico en 
+Desarrollo y Administración de Aplicaciones Informáticas, se especifican a continuación. 
+MÓDULOS FORMATIVOS ASOCIADOS A UNIDADES DE COMPETENCIA 
+MF_053_3: Análisis y diseño de sistemas informáticos. 
+MF_054_3: Desarrollo de aplicaciones y sistemas de información. 
+MF_055_3: Implementación y mantenimiento de aplicaciones y sistemas informáticos. 
+MF_056_3: Diseño y desarrollo de base de datos. 
+MF_057_3: Administración de base de datos. 
+MF_058_3: Análisis y diseño de reporte. 
+MF_059_3: Diseño de portales web y recursos multimedia. 
+MF_060_3: Desarrollo e implementación de soluciones web y multimedia. 
+MF_061_3: Formación en centros de trabajo. 
+MÓDULOS COMUNES 
+MF_002_3: Ofimática. 
+MF_004_3: Emprendimiento. 
+MF_006_3: Formación y Orientación Laboral. 
+ASIGNATURAS 
+Lengua Española 
+Matemática 
+Ciencias Sociales 
+Ciencias de la Naturaleza  
+Formación Integral Humana y Religiosa 
+Educación Física 
+Educación Artística  
+Lenguas Extranjeras (Ingles) 
+Ingles Técnico  
+4. PERFIL DEL (DE LA) DOCENTE DE LOS MÓDULOS FORMATIVOS 
+5. REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO. 
+6. CRÉDITOS 
+COMISIÓN TÉCNICA COORDINADORA GENERAL 
+GRUPO DE TRABAJO DE LA FAMILIA PROFESIONAL DE INFORMÁTICA Y COMUNICACIONES 
+ORGANIZACIONES QUE HAN PARTICIPADO EN LA VALIDACIÓN EXTERNA DE LOS TÍTULOS DE 
+LA FAMILIA PROFESIONAL DE INFORMÁTICA Y COMUNICACIONES 
+Página 3 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 4 
+ 
+UNIDADES DE COMPETENCIA 
+ 
+Unidad de Competencia 1: Realizar las fases de análisis, especificación de requerimientos y diseño de 
+sistemas en el proceso de desarrollo de aplicaciones y sistemas informáticos. 
+Código UC_053_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC1.1: Planificar las 
+actividades de análisis 
+para el ciclo de desarrollo 
+de aplicaciones, 
+siguiendo parámetros 
+establecidos. 
+ 
+CR1.1.1 Analiza y evalúa los procesos que se realizan dentro de una 
+organización e identifica las características de la misma. 
+CR1.1.2 Identifica la estructura organizacional, sus dependencias, 
+departamentos y sucursales partiendo de las características de ellas. 
+CR1.1.3 Clasifica las actividades que se realizan según los niveles directivos 
+y  procesos productivos de la organización.  
+CR1.1.4 Selecciona el método de análisis a implementar, tales como: - Ciclo de vida clásico del sistema. - Análisis estructurado. - Prototipo del sistema. 
+CR1.1.5 Identifica las técnicas de recolección de datos a implementar, tales 
+como: - Entrevistas. - Cuestionarios. - Revisión de documentos. - Observación directa. 
+EC1.2: Aplicar técnicas de 
+investigación para 
+recolectar los datos de 
+mayor relevancia, según 
+los requerimientos del 
+usuario. 
+CR1.2.1 Aplica las técnicas seleccionadas y usa un lenguaje de acuerdo con 
+el entorno de trabajo del usuario. Especifica algunas técnicas: entrevistas, 
+cuestionarios, revisión de documentos, observación directa. 
+CR1.2.2 Recolecta los datos (fecha, lógicos, numéricos, textos) resultantes 
+de la aplicación de las técnicas seleccionadas con el fin de tabularlas. 
+CR1.2.3 Tabula los resultados (datos de entradas, procesos y salidas), hasta 
+obtener los datos de mayor relevancia para el análisis y diseño del sistema. 
+EC1.3: Analizar y diseñar 
+los diagramas, 
+estructuras e interfaces 
+del sistema de 
+información, según los  
+datos arrojados por la 
+investigación.  
+CR1.3.1 Analiza los resultados de la investigación para determinar los 
+requerimientos de los usuarios (acceso al sistema, ingreso de datos, 
+reportes, consultas, impresión, gráficos, confiabilidad de los resultados). 
+CR1.3.2 Usa los requerimientos obtenidos para seleccionar los diferentes 
+diagramas de procesos del sistema. 
+CR1.3.3 Realiza el proceso de diseño de sistemas: - Las interfaces gráficas. - Las entradas. - Las salidas. - Las estructuras de las bases de datos del sistema. 
+Contexto profesional 
+Medios de producción: 
+Equipos tecnológicos: computadora en redes, impresora, generador de base de datos, aplicaciones 
+informáticas, lenguaje de programación y acceso a internet. 
+Productos y resultados: 
+Codificación de los  procesos del sistema y de la base de datos. 
+Información utilizada o generada: 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 5 
+ 
+Documentación de los diagramas de procesos del sistema, documentación del diseño de las interfaces 
+gráficas, las entradas, las salidas y las estructuras de la base de datos del sistema. Códigos del sistema, 
+código, estructura  y objetos de datos. 
+ 
+Unidad de Competencia 2: Desarrollar aplicaciones y sistemas de información para automatizar los 
+procesos del negocio dentro de la gestión empresarial.  
+Código UC_054_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC2.1: Seleccionar el 
+lenguaje de programación 
+y el motor de base de 
+datos de acuerdo con los 
+parámetros establecidos 
+para desarrollar las 
+aplicaciones informáticas. 
+CR2.1.1 Identifica los lenguajes de programación, tomando en cuenta el 
+licenciamiento que posee la organización. 
+CR2.1.2 Selecciona el lenguaje de programación que se adapte a los 
+requerimientos del sistema. 
+CR2.1.3 Selecciona los motores de base de datos según los requerimientos 
+del sistema, tomando en cuenta el licenciamiento que posee la 
+organización. 
+EC2.2: Desarrollar la 
+estructura  general de las 
+aplicaciones informáticas, 
+según lo establecido en el 
+proceso de análisis y 
+diseño. 
+CR2.2.1 Utiliza las salidas del sistema de acuerdo con el diseño establecido 
+en la fase de análisis y diseño del sistema. 
+CR2.2.2 Manipula las entradas del sistema de acuerdo con el diseño 
+establecido en la fase de análisis y diseño del sistema.  
+CR2.2.3 Elabora los menús del sistema de acuerdo con el diseño establecido 
+en la fase de análisis y diseño del sistema.                                 
+CR2.2.4 Desarrolla las estructuras del sistema de acuerdo con el diseño 
+establecido en la fase de análisis y diseño del sistema. 
+EC2.3: Crear las 
+estrategias de acceso a 
+los distintos módulos de 
+la aplicación, según lo 
+establecido en el proceso 
+de análisis y diseño, para 
+la implementación de los 
+criterios de acceso. 
+CR2.3.1 Reconoce los criterios de acceso y las credenciales a usar en los 
+distintos módulos para las aplicaciones informáticas. 
+CR2.3.2 Desarrolla las aplicaciones informáticas que permitan la 
+implementación de los criterios de acceso. 
+CR2.3.3 Codifica las sentencias de programación que permitan la 
+implementación de los criterios de acceso. 
+EC2.4: Aplicar las distintas 
+excepciones dadas o 
+producidas en el 
+ambiente de desarrollo 
+tomando en cuenta el 
+lenguaje de 
+programación 
+seleccionado, para la 
+realización del manejo de 
+las excepciones, según  
+los requerimientos 
+establecidos por la 
+organización. 
+CR2.4.1 Ejecuta la aplicación para identificar y organizar las excepciones en 
+los diferentes módulos, tales como captura de datos, reportes, proceso de 
+cálculos y consultas. 
+CR2.4.2 Desarrolla las aplicaciones informáticas que permitan la 
+implementación del manejo de excepciones. 
+CR2.4.3 Codifica las sentencias de programación que permitan la 
+implementación del manejo de excepciones. 
+Contexto profesional 
+Medios de producción: 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 6 
+ 
+Equipos tecnológicos: computadora en redes, impresora, generador de base de datos, aplicaciones 
+informáticas, lenguaje de programación y acceso a internet. 
+Productos y resultados: 
+Codificación de los  procesos  del sistema. 
+Información utilizada o generada: 
+Documentación de los diagramas de procesos del sistema, documentación del diseño de las interfaces 
+gráficas, las entradas, las salidas y las estructuras de la base de datos del sistema. Códigos del sistema, 
+código, estructura  y objetos de datos. 
+ 
+Unidad de Competencia 3: Aplicar los procesos de prueba, implementación, mantenimiento 
+preventivo y correctivo a las aplicaciones informáticas y sistemas desarrollados, para garantizar el 
+ciclo de vida de desarrollo de software. 
+Código UC_055_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC3.1: Aplicar procesos y 
+técnicas de prueba de la 
+aplicación o el sistema 
+desarrollado para 
+asegurar su calidad y 
+funcionalidad, según el 
+tipo de prueba 
+seleccionada. 
+CR3.1.1 Reconoce los parámetros que rigen la calidad de la organización. 
+CR3.1.2 Selecciona el tipo de pruebas (códigos, unitarias, integración, 
+sistemas, aceptación, caja blanca y caja negra) que se realizarán al sistema. 
+CR3.1.3 Implementa la prueba seleccionada (códigos, unitarias, 
+integración, sistemas, aceptación, caja blanca y caja negra)  cumpliendo los 
+criterios de calidad.  
+EC3.2: Determinar el tipo 
+de implementación a 
+ejecutar para la puesta en 
+marcha de la aplicación o 
+el sistema desarrollado, 
+según las políticas 
+establecidas en la 
+organización. 
+CR3.2.1 Selecciona el tipo de instalación (directa, en paralelo, de 
+localidades individuales, por fases) de acuerdo con los parámetros 
+establecidos. 
+CR3.2.2 Realiza la instalación seleccionada (directa, en paralelo, de 
+localidades individuales, por fases) de acuerdo con las políticas de la 
+organización. 
+CR3.2.3 Realiza la recepción de los entregables de los procesos de 
+codificación, prueba e instalación.   
+EC3.3: Identificar y 
+corregir   posibles errores  
+para asegurar el 
+funcionamiento de la 
+aplicación y realizar copia 
+de respaldo,  según las 
+políticas establecidas por 
+la organización.  
+CR3.3.1 Realiza las pruebas diagnósticas  al sistema según los parámetros 
+establecidos por el departamento de desarrollo. 
+CR3.3.2 Analiza los resultados de las pruebas diagnósticas e identifica 
+posibles errores del sistema. 
+CR3.3.3 Notifica posibles errores encontrados en el sistemas de acuerdo 
+con los procedimientos del departamento de desarrollo.                 
+CR3.3.4 Corrige los  errores (sintaxis, tamaño del campo, tipos de variables) 
+encontrados en el sistema de acuerdo con los procedimientos establecidos 
+por el departamento de desarrollo. 
+CR3.3.5 Realiza copias  de seguridad (completa, incremental y diferencial) 
+de acuerdo con las políticas de la empresa. 
+Contexto profesional 
+Medios de producción: 
+Equipos tecnológicos: computadora en redes, impresora, acceso a internet, documentación de las 
+políticas de respaldo y seguridad del sistema, y dispositivos de almacenamiento masivo. 
+Productos y resultados: 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 7 
+ 
+Copias de respaldo, sistema de mantenimiento y control preventivo, sistema de mantenimiento 
+correctivo, políticas de protocolo y respaldo de la organización. 
+Información utilizada o generada: 
+Documentación o conocimientos del mantenimiento correctivo y preventivo. 
+ 
+Unidad de Competencia 4: Diseñar y desarrollar bases de datos modelando la arquitectura requerida 
+por las aplicaciones y sistemas de información. 
+Código UC_056_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC4.1: Diseñar bases de 
+datos para responder a 
+los requerimientos de 
+desarrollo bajo un 
+modelo establecido, 
+aplicando criterios de 
+normalización de datos. 
+CR4.1.1 Establece el modelo de datos seleccionado para la resolución del 
+problema planteado. Entre los más comunes conocidos podemos 
+encontrar: - Modelo relacional. - Modelo entidad-relación. - Modelo de datos jerárquico. - Modelo de datos en red. 
+CR4.1.2 Diseña la definición de las  entidades, atributos, relaciones y demás 
+objetos relacionados de acuerdo con las características establecidas. 
+CR4.1.3 Propone la configuración de los dispositivos, procesos y espacio 
+físico de acuerdo con las características del Sistema de Gestión de Base 
+Datos, Sistema Operativo, Hardware, necesidades de almacenamiento y 
+requerimientos de servicio.  
+CR4.1.4 Aplica las reglas de normalización en el modelo de base datos de 
+las entidades definidas (preferiblemente hasta el tercer nivel),  a fin de: - Evitar la redundancia de los datos. - Evitar problemas de actualización de los datos en las tablas. - Proteger la integridad de los datos. 
+CR4.1.5 Produce los recursos para crear la base de datos y los objetos 
+definidos de acuerdo con las  características establecidas en el motor de 
+base de datos indicado. Estos objetos son:  - Tablas. - Vistas. - Índices. - Consultas. - Funciones. - Disparadores (Triggers). - Procedimientos almacenados. - Entre otros. 
+EC4.2: Elaborar el 
+diccionario de datos y la 
+documentación general, 
+para apoyar la gestión de 
+la administración de bases 
+de datos, de acuerdo con 
+el modelo establecido. 
+CR4.2.1 Provee documentación de las propiedades de la base de datos, así 
+como de los distintos objetos y elementos que la componen según las  
+características y  datos, de acuerdo con el modelo establecido. 
+CR4.2.2 Documenta las definiciones de los objetos y elementos de datos 
+creados en la base de datos según las  características y los datos, de 
+acuerdo con el modelo establecido. 
+CR4.2.3 Documenta las funciones, los procedimientos almacenados y las 
+vistas creadas en la base de datos según las características y los datos, de 
+acuerdo con el modelo establecido. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 8 
+ 
+EC4.3: Crear consultas 
+(Queries) de datos para 
+apoyar el desarrollo de las 
+aplicaciones, de acuerdo 
+con los requerimientos 
+del diseño establecidos. 
+CR4.3.1 Determina el objetivo de las consultas (Queries) y sus relaciones 
+con los datos (tablas, vistas), según los requerimientos establecidos en el 
+diseño  del modelo de datos asociado a la aplicación y al sistema de 
+información. 
+CR4.3.2 Describe las consultas (Queries) necesarias de acuerdo con los  
+requerimientos  establecidos en el diseño del modelo de datos asociado a 
+la aplicación y al sistema de información establecidos. 
+CR4.3.3 Crea las consultas (Queries), las funciones y los procedimientos 
+almacenados que se operarán para el uso de los reportes o análisis de datos 
+del sistema. 
+EC4.4: Proponer 
+estrategia de alta 
+disponibilidad de los 
+servicios de bases de 
+datos  para asegurar la 
+continuidad del negocio, 
+cumpliendo con los 
+requerimientos 
+establecidos. 
+CR4.4.1 Determina el alcance de la alta disponibilidad y tolerancia a fallos 
+de los servicios de bases de datos, de acuerdo con los requerimientos 
+establecidos y a los recursos presentes. 
+CR4.4.2 Describe la estrategia de alta disponibilidad de base de datos según 
+los recursos disponibles y los requerimientos definidos, tales como:  - Failover Clustering. - Real Aplication Clustering. - Database Mirroring. - Database Replication. 
+CR4.4.3 Propone la estrategia adecuada al escenario planteado de acuerdo 
+con los requerimientos establecidos y recursos presentes.   
+Contexto profesional 
+Medios de producción: 
+Herramientas de diseño, aplicaciones para el manejo de gestión de bases de datos, procesadores de 
+textos y hojas de cálculo. 
+Productos y resultados: 
+Propuesta de cronograma, plan de implementación de la herramienta y reportes de funcionamiento. 
+Información utilizada o generada: 
+Manuales de procedimientos, reportes de estados, estadísticas y sitios web. 
+ 
+Unidad de Competencia 5: Administrar las bases de datos para soportar de manera eficiente los 
+sistemas de información. 
+Código UC_057_3 Nivel: 3 Familia profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC5.1: Establecer 
+parámetros de acceso y 
+seguridad  para apoyar 
+la gestión de 
+administración de bases 
+de datos que cumplan 
+con los requerimientos 
+establecidos. 
+CR5.1.1 Describe los métodos de acceso que se utilizarán para acceder a las 
+bases de datos (ODBC, ADO, JDBC). 
+CR5.1.2 Crea roles con los permisos a los objetos de la base de datos de 
+acuerdo con los perfiles de los usuarios que utilizarán las aplicaciones. 
+CR5.1.3 Describe la configuración de la seguridad para los usuarios (políticas 
+de contraseñas, duración cambio de contraseñas, reintentos de acceso).  
+CR5.1.4  Crea usuarios de bases de datos para las aplicaciones y para los 
+usuarios de las aplicaciones. Después de crear los usuarios se les aplican los 
+roles y la configuración de la seguridad previamente definida. 
+EC5.2: Ejecutar el 
+respaldo de datos 
+(Backup),para asegurar 
+la continuidad del 
+CR5.2.1 Describe el esquema y la frecuencia de los respaldos más apropiado 
+(respaldos completo, respaldos del Log, respaldos diferenciales y respaldos 
+incrementales). 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 9 
+ 
+negocio, cumpliendo los 
+requerimientos 
+establecidos. 
+CR5.2.2 Implementa la estrategia de respaldo con base en la definición ya 
+realizada. 
+CR5.2.3 Describe y crea alertas y notificaciones que envíen mensajes para dar 
+seguimiento a la realización de los respaldos. 
+EC5.3: Implementar el  
+almacenamiento 
+adecuado para apoyar la 
+gestión de 
+administración de bases 
+de datos, de acuerdo 
+con lo establecido. 
+CR5.3.1 Crea los arreglos de discos que serán utilizados según el diseño 
+realizado. 
+CR5.3.2 Asigna al servidor de bases de datos los arreglos de discos creados. 
+CR5.3.3 Configura la base de datos para que utilice los arreglos de discos. Se 
+colocan los archivos de data en el disco de data, los log files se colocan en el 
+disco de log y los temporales se colocan en el disco de temporal. 
+CR5.3.4 Configura la base de datos para que realice los respaldos en el disco 
+de respaldo. 
+EC5.4: Monitorear y 
+controlar el 
+funcionamiento de las 
+bases de datos para 
+asegurar la continuidad 
+del negocio, cumpliendo 
+con los requerimientos 
+establecidos. 
+CR5.4.1 Establece alertas para las notificaciones del comportamiento de las 
+bases de datos. Se deben notificar los eventos del porcentaje de espacio libre 
+en los archivos de datos y el log, bloqueos en las transacciones, falta de 
+espacio en los discos, alto uso de recursos del sistema (CPU, Memoria), 
+servicio del motor de bases de datos no disponible. 
+CR5.4.2 Monitorea las bases de datos utilizando las herramientas de manejo 
+de las mismas: revisar las consultas de larga duración, consultas que causan 
+bloqueos, utilización de los recursos del sistema, espacio en disco. 
+CR5.4.3 Automatiza procesos que respondan a las alertas generadas para 
+minimizar los tiempos de respuestas del monitoreo. Estos procesos incluyen 
+el crecimiento automático de los archivos de datos, la ejecución de limpieza 
+de archivos de respaldo viejos, envío de alertas por correo electrónico o 
+minimensajes. 
+EC5.5: Aplicar 
+mantenimiento y 
+actualizaciones de las 
+base de datos para 
+asegurar la continuidad 
+del negocio, cumpliendo 
+los requerimientos 
+establecidos. 
+CR5.5.1 Revisa periódicamente las actualizaciones disponibles del motor de 
+bases de datos y del sistema operativo. 
+CR5.5.2 Realiza pruebas de actualizaciones y parchos al motor de bases de 
+datos y del sistema operativo en ambientes de pruebas para asegurar el 
+correcto funcionamiento de las bases de datos y las aplicaciones que acceden 
+a ellas. 
+CR5.5.3 Realiza las actualizaciones y parchos al motor de bases de datos y del 
+sistema operativo en ambientes de producción. 
+EC5.6: Realizar 
+mantenimiento 
+preventivo y correctivo 
+a las  base de datos  para 
+asegurar la continuidad 
+del negocio, cumpliendo 
+los requerimientos 
+establecidos. 
+CR5.6.1 Crea planes de mantenimientos para la ejecución del proceso de 
+reindexación/recreación de los índices, actualización de estadísticas y 
+ejecución de revisión de consistencia interna de las tablas. Estos planes de 
+mantenimientos se programan para que sean ejecutados automáticamente 
+de manera periódica para un mantenimiento preventivo. 
+CR5.6.2 Ejecuta comandos de recuperación de tablas, eliminación de 
+bloqueos, actualización de estadísticas, recuperación de data en un punto en 
+el tiempo, verificación de la consistencia de las tablas. Estos comandos se 
+ejecutan de manera reactiva cuando se presentan problemas en la base de 
+datos. 
+CR5.6.3 Realiza revisiones de la comunicación entre los servidores de 
+aplicación y los servidores de bases de datos para asegurar que no existan 
+fallas en las redes. También se verifican los tiempos de respuestas entre los 
+servidores para asegurar que la calidad de la comunicación entre los 
+servidores sea óptima. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 10 
+ 
+Contexto profesional 
+Medios de producción: 
+Herramientas de administración, aplicaciones de monitoreo de bases de datos y recursos del sistema, 
+procesadores de textos y hojas de cálculos (SQL Server Management Studio, ORACLE Enterprise 
+Manager, MySQL WorkBench).   
+Productos y resultados: 
+Bases de datos relacionadas.  
+Información utilizada o generada: 
+Manuales de procedimientos, reportes de estados, estadísticas y sitios web. 
+ 
+Unidad de Competencia 6: Analizar, diseñar y producir reportes empresariales haciendo uso de 
+herramientas informáticas a fin de apoyar las funciones productivas de las organizaciones. 
+Código UC_058_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC6.1: Analizar los 
+requerimientos de 
+información de los 
+diversos usuarios  a fin 
+de estructurar 
+correctamente  los 
+reportes empresariales, 
+siguiendo los 
+parámetros 
+establecidos por la 
+organización. 
+ 
+CR6.1.1 Clasifica reportes empresariales funcionales, ajustados a la 
+dimensión de tiempo y espacio, según las necesidades de información de los 
+distintos usuarios.  
+CR6.1.2  Clasifica las informaciones requeridas para determinar: - El tipo del reporte, que pueden ser internos o externos. - Los métodos o tecnologías del reporte, que pueden ser impresos en 
+diferentes tipos y tamaños de papel, información desplegada en 
+diversos tipos de pantallas, audio para almacenamiento. - El orden de las informaciones, que puede ser alfabético, cronológico 
+y por costos. - La estructura general del reporte, los títulos, líneas de detalles o 
+valores repetitivos, grupos de totales y subtotales y pie de páginas. 
+CR6.1.3 Identifica las distintas herramientas de diseño de reportes, 
+identificando potencialidades y opciones principales, a fin de seleccionar e 
+instalar la más adecuada. 
+EC6.2: Generar 
+reportes empresariales 
+funcionales y 
+oportunos, según 
+requerimientos del 
+usuario, siguiendo 
+parámetros 
+establecidos para 
+garantizar la gestión y 
+flujo de la información 
+en la organización. 
+CR6.2.1 Determina el mecanismo a implementar para la conexión a la base 
+de datos y elegir uno, dentro de los más comunes: ActiveX Data Objects 
+(ADO), Data Access Object (DAO) y Object Linking and Embedding for 
+Databases (OLE/DB). 
+CR6.2.2  Realiza el proceso de creación y estructuración del proyecto de 
+reportes. 
+CR6.2.3 Clasifica las informaciones según las especificaciones y 
+requerimientos establecidos, y crea las secciones de: - Encabezado de reporte. - Encabezados de páginas. - Línea de detalles. - Pie de páginas. - Pie de reportes. - Encabezados de grupos. - Pie de grupos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 11 
+ 
+EC6.3: Presentar o 
+entregar reportes que 
+cumplan los 
+requerimientos de 
+información, según 
+criterios definidos por 
+la organización, para 
+garantizar la 
+portabilidad de la 
+información contenida. 
+CR6.3.1  Crea los mecanismos que permitan el acceso a los reportes desde los 
+diversos medios disponibles en la organización, tales como impresión, 
+presentación, almacenamiento, publicación y grabación en discos compactos. 
+CR6.3.2 Establece la realización de la salida apropiada, ya sea para imprimirlo, 
+mostrarlo por pantalla, publicarlo en la web o almacenarlo. 
+Contexto profesional 
+Medios de producción: 
+Equipos tecnológicos informáticos: servidores, computadoras, impresoras, reproductora de cd, 
+proyector,  equipos de multimedia. 
+Programas: sistema operativo, programa de diseño y desarrollo de reportes (Crystal Report, Report 
+Viewer, Quick Report), aplicaciones de desarrollo de software, programa gestor de bases de datos, 
+acceso a internet,  herramientas de ofimática y navegadores web. 
+Productos y resultado: 
+Presentación de reportes. 
+Información utilizada o generada: 
+Documentación informativa sobre las actividades que realiza la empresa, organización o individuo, 
+cronograma de las actividades para el desarrollo de reportes, documentación sobre los medios de 
+almacenamiento o estructura de almacenamiento. 
+ 
+Unidad de Competencia 7: Diseñar portales web y recursos multimedia haciendo uso de herramientas 
+informáticas de acuerdo con las necesidades presentadas por el cliente o negocio. 
+Código UC_059_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia (EC) 
+Criterios de Realización (CR) 
+EC7.1: Seleccionar las 
+herramientas de 
+desarrollo web  para el  
+diseño de la aplicación, 
+según metodologías 
+definidas y 
+requerimientos de la 
+institución. 
+CR7.1.1 Identifica las necesidades del cliente, manejo y seguridad de la 
+información, actualización de los datos,  con base en el diseño y el 
+levantamiento de la información. 
+CR7.1.2 Clasifica los objetivos para los que está diseñando la página web, las 
+imágenes y los elementos que contendrá el diseño, según la naturaleza de la 
+organización o empresa.  
+CR7.1.3  Reconoce la capacidad de los equipos tecnológicos que servirán 
+como base para el manejo de las informaciones, según la magnitud de la 
+información. 
+CR7.1.4 Sugiere las herramientas adecuadas para el diseño web, tales como 
+software y hardware, según requerimientos de los usuarios. 
+EC7.2: Realizar trabajos 
+para medios impresos, 
+audiovisuales y 
+digitales, según 
+criterios técnicos y 
+requerimientos de la 
+institución. 
+CR7.2.1  Reconoce y diseña la apariencia de los elementos visuales o 
+impresos, tales como pantallas, documentos y formularios, de acuerdo con 
+los requerimientos establecidos. 
+CR7.2.2 Identifica y diseña las dimensiones de pantalla e impresos, colores, 
+márgenes y tipografía, de acuerdo con los parámetros establecidos para el 
+diseño.  
+CR7.2.3 Edita las imágenes y animaciones adecuándolas a la utilidad para el 
+diseño, según la propuesta presentada. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 12 
+ 
+EC7.3: Jerarquizar y 
+diseñar la aplicación 
+web, para definir el 
+orden de inicio de la 
+aplicación, según los 
+requerimientos de la 
+institución. 
+CR7.3.1 Elabora diagrama de navegación entre pantallas y accesos a las 
+mismas que permita el enlace entre los elementos de la web, según los 
+requerimientos del cliente. 
+CR7.3.2  Determina la jerarquía de las ventanas del diseño, acceso, utilidades 
+e información,  según prioridad establecida o iniciación. 
+CR7.3.3: Diseña aplicaciones web, según los requerimientos de la institución. 
+Contexto profesional 
+Medios de producción: 
+Equipos de computadora: impresora, redes, programas de diseño web, aplicaciones informáticas, 
+equipos de multimedia, escáner, proyector, acceso a internet. 
+Productos y resultados: 
+Estructura del diseño y ventanas que componen la web, manual de usuario para la empresa.  
+Información utilizada o generada: 
+Documentación informativa sobre las actividades que realiza la empresa, organización o individuo; 
+cronograma de las actividades para el desarrollo del sitio web; documentación sobre los medios de 
+almacenamiento o estructuras de almacenamiento. 
+ 
+Unidad de Competencia 8: Desarrollar e implementar soluciones web y recursos multimedia haciendo 
+uso de herramientas informáticas que respondan a las necesidades del cliente o negocio.  
+Código UC_060_3 Nivel: 3 Familia Profesional: Informática y Comunicaciones  
+Elementos de 
+Competencia 
+Criterios de Realización 
+C8.1: Seleccionar e 
+instalar  herramientas 
+de desarrollo web para 
+facilitar el 
+funcionamiento de la 
+aplicación, según 
+requerimientos  de la 
+institución. 
+CR8.1.1  Selecciona el lenguaje de programación  web, de acuerdo con las 
+especificaciones del diseño. 
+CR8.1.2  Realiza pruebas de compatibilidad entre el sistema y el software, 
+según las indicaciones del desarrollador.  
+CR8.1.3 Instala las aplicaciones necesarias para el correcto funcionamiento 
+de la aplicación, según las prescripciones del autor.  
+EC8.2: Desarrollar 
+aplicaciones web y 
+multimedia para 
+satisfacer las 
+necesidades del cliente, 
+según requerimientos 
+establecidos. 
+CR8.2.1 Integra los elementos del diseño web, consultas, búsquedas y  base 
+de datos, de acuerdo con el diseño propuesto. 
+CR8.2.2  Confirma la compatibilidad  del diseño utilizando navegadores según 
+requerimientos de los usuarios. 
+CR8.2.3  Programa o configura los elementos del sitio web, enlazando cada 
+uno según el diseño propuesto y los requerimientos del cliente.  
+CR8.2.4 Verifica el funcionamiento de los componentes añadidos al diseño, 
+de acuerdo con las especificaciones del diseño y el software utilizado. 
+EC8.3: Ejecutar las 
+soluciones web 
+propuestas según los 
+procedimientos 
+técnicos y de la 
+institución, para 
+cumplir con la etapa 
+final del desarrollo. 
+CR8.3.1 Instala en el servidor el diseño web, según los criterios y 
+determinaciones acordados entre el cliente y el diseñador. 
+CR8.3.2  Ejecuta el diseño web y realiza las pruebas de funcionamiento y 
+almacenamiento de la información en la base de datos, según los parámetros 
+establecidos. 
+CR8.3.3  Realiza entrenamiento o da las instrucciones al personal competente 
+o usuario final del diseño para los fines de ejecución, de acuerdo con los 
+requerimientos de la institución. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 13 
+ 
+EC8.4: Proponer 
+soluciones basadas en 
+las nuevas tecnologías,  
+adecuadas a la gestión 
+empresarial. 
+CR8.4.1 Identifica las características en la gestión empresarial (meta, visión y 
+objetivos institucionales), así como las del área que requiere de una solución 
+informática para automatizar sus procesos. 
+CR8.4.2 Investiga en  distintos medios de actualización tecnológica acerca  del 
+desarrollo de aplicaciones y sistemas de información procurando encontrar  
+nuevas tendencias  adecuadas a la gestión empresarial. Estos medios o 
+fuentes pueden ser: - Manuales. - Búsquedas en Internet. - Participación en conferencias, charlas o talleres. - Entrevistas a otras organizaciones con experiencia. - Consultas a expertos. 
+CR8.4.3 Identifica o reconoce debilidades y amenazas en la implementación 
+tecnológica de la actual gestión empresarial, y de manera puntual en el área 
+que requiere de la  solución informática. 
+CR8.4.4 Analiza  nuevas tecnologías en el área de desarrollo de aplicaciones 
+y sistemas de información  adecuadas o relacionadas con la gestión 
+empresarial en el área que haya requerido  de la solución informática. 
+EC8.5: Proponer 
+mejoras o nuevas 
+soluciones basadas en 
+tendencias de usos de la 
+innovación tecnológica,  
+adecuadas a la gestión 
+empresarial. 
+CR8.5.1 Participa en foros de intercambios sobre nuevas tecnologías,   en el 
+área de desarrollo de aplicaciones y sistemas de información, y evalúa sus 
+aportes a la gestión empresarial. 
+CR8.5.2 Plantea escenarios donde las nuevas tecnologías,  en el área de 
+desarrollo de aplicaciones y sistemas de información,  agregarían valor a una 
+mejor gestión empresarial. 
+CR8.5.3 Propone la implementación de nuevas tecnologías,  en el área de 
+desarrollo de aplicaciones y sistemas de información,  que agregan valor a 
+una mejor gestión empresarial. 
+EC8.6: Implementar las 
+soluciones tecnológicas  
+requeridas en la gestión 
+empresarial, siguiendo 
+los procesos del 
+negocio. 
+CR8.6.1 Propone cronograma de implementación de la solución  informática 
+según los recursos requeridos, a fin de asegurar su correcta implementación. 
+CR8.6.2 Participa de la instalación y de la implementación de las herramientas 
+tecnológicas seleccionadas para la gestión de los procesos de negocio. 
+CR8.6.3 Mantiene contacto con el proveedor y los demás relacionados con la 
+aplicación o el sistema de información, siempre que sea necesario para 
+garantizar el buen funcionamiento de esta herramienta. 
+Contexto profesional 
+Medios de producción:  
+Equipos tecnológicos, servidores, impresora, programas de diseño web, aplicaciones informáticas, 
+equipos de multimedia,  escáner, proyector, acceso a internet. Navegadores (Mozilla, Chrome, Explorer) 
+y Java, adds y plugins. 
+Productos y resultados: 
+Página web con aplicaciones multimedia diseñada y enlazada a los servidores. Manual de usuarios para 
+la empresa. 
+Información utilizada o generada: 
+Documentación informativa sobre las actividades que realiza la empresa, organización o individuo, datos 
+de los usuarios de la web, documentación de almacenamiento de las bases de datos o estructura de 
+almacenamiento. 
+ 
+  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 14 
+ 
+PLAN DE ESTUDIOS BACHILLERATO TÉCNICO EN DESARROLLO Y ADMINISTRACIÓN DE APLICACIONES 
+INFORMÁTICAS 
+ 
+CUARTO  QUINTO  SEXTO    
+Asignaturas/ 
+Módulos 
+horas/ 
+Semana 
+horas/ 
+Año 
+Asignaturas/ 
+Módulos 
+horas/ 
+Semana 
+horas/ 
+Año 
+Asignaturas/ 
+Módulos 
+horas/ 
+Semana 
+horas/ 
+Año 
+Duración 
+total 
+Lengua Española 3 135 Lengua Española 3 135 Lengua Española 3 135 405 
+Lenguas Extranjeras 4 180 Inglés Técnico 4 180 Inglés Técnico 4 180 540 
+Matemática 3 135 Matemática 3 135 Matemática 3 135 405 
+Ciencias Sociales 2 90 Ciencias Sociales 2 90 Ciencias Sociales 2 90 270 
+Ciencias de la 
+Naturaleza  3 135 Ciencias de la 
+Naturaleza  3 135 Ciencias de la 
+Naturaleza  3 135 405 
+Formación Integral 
+Humana y Religiosa 1 45 Formación Integral 
+Humana y Religiosa 1 45 
+Formación Integral 
+Humana y 
+Religiosa 
+1 45 135 
+Educación Física 1 45 Educación Física 1 45 Educación Física 1 45 135 
+Educación Artística 1 45 Educación Artística 1 45 Educación Artística 1 45 135 
+MF_002_3: 
+Ofimática 3 135 MF_005_3: Formación 
+y Orientación Laboral 2 90 MF_004_3: 
+Emprendimiento  3 135 360 
+MF_053_3:Análisis y 
+diseño de sistemas 
+informáticos. 
+6 270 
+MF_054_3:Desarrollo 
+de aplicaciones y 
+sistemas de 
+información.   
+8 360 
+MF_055_3: 
+Implementación y 
+mantenimiento de 
+aplicaciones y 
+sistemas 
+informáticos. 
+3 135 765 
+MF_056_3:Diseño y 
+desarrollo de base 
+de datos. 
+7 315 
+MF_057_3: 
+Administración de base 
+de datos. 
+9 405 
+MF_060_3: 
+Desarrollo e 
+implementación 
+de soluciones web 
+y multimedia. 
+8 360 1080 
+MF_059_3: Diseño 
+de portales web y 
+recursos multimedia. 
+6 270 MF_058_3: Análisis y 
+diseño de reporte  3 135 
+MF_061_3: 
+Formación en 
+centros de trabajo 
+8 360 765 
+Total de Horas 40 1800 Total de Horas 40 1800 Total de Horas 40 1800 5400 
+  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 15 
+ 
+MÓDULOS FORMATIVOS ASOCIADOS A UNIDADES DE COMPETENCIA 
+ 
+MÓDULO 1: ANÁLISIS Y DISEÑO DE SISTEMAS INFORMÁTICOS 
+Nivel: 3 
+Código: MF_053_3 
+Duración: 270 horas 
+Asociada a la Unidad de Competencia: UC_053_3 Realizar las fases de análisis, especificación de 
+requerimientos y diseño de sistemas, en el proceso de desarrollo de aplicaciones y sistemas informáticos. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA1.1: Planear las 
+actividades de análisis 
+para el ciclo de desarrollo 
+de aplicaciones, siguiendo 
+parámetros establecidos. 
+ 
+CE1.1.1 Analizar los procesos que se realizan dentro de una organización e 
+identificar las características de la misma. 
+CE1.1.2 Identificar la estructura organizacional, sus dependencias, 
+departamentos y sucursales partiendo de las características de ellas. 
+CE1.1.3 Clasificar las actividades que se realizan según sus niveles directivos 
+y  procesos productivos de la organización.  
+CE1.1.4 Analizar la disponibilidad de los recursos necesarios para llevar a 
+cabo los objetivos o metas  señaladas: factibilidad económica, factibilidad 
+técnica o tecnológica y factibilidad humana u operacional. 
+CE1.1.5 Seleccionar el método de análisis a implementar: - Ciclo de vida clásico del sistema. - Análisis estructurado. - Prototipo del sistema. 
+CE1.1.6 Identificar las técnicas de recolección de datos a implementar: - Entrevistas. - Cuestionarios. - Revisión de documentos. - Observación directa. 
+RA1.2: Planificar las 
+técnicas de investigación 
+para recolectar los datos 
+de mayor relevancia, 
+según los requerimientos 
+del usuario. 
+CE1.2.1 Reconocer las técnicas de investigación, usando un lenguaje de 
+acuerdo con el  entorno de trabajo del usuario.  
+CE1.2.2 En un supuesto práctico de análisis de sistemas, realizar lo 
+siguiente: - Describir cuestionario. - Describir entrevista. - Aplicar  entrevista. - Realizar revisión de documentos. - Realizar observación directa. 
+ CE1.2.3 En un supuesto práctico, debidamente caracterizado, recolectar 
+los siguientes datos: - Fechas. - Valores lógicos. - Numéricos. - Textos.  
+CE1.2.4  En un supuesto práctico, tabular los resultados de: - Datos de entradas. - Procesos.  - Salidas. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 16 
+ 
+RA1.3: Analizar y diseñar 
+los diagramas, estructuras 
+e interfaces del sistema 
+de información, según los  
+datos arrojados por la 
+investigación.  
+CE1.3.1 Comprender los resultados de la investigación para determinar los 
+requerimientos de los usuarios (acceso al sistema, ingreso de datos, 
+reportes, consultas, impresión, gráficos, confiabilidad de los resultados). 
+CE1.3.2 Distinguir los elementos que componen los algoritmos 
+computacionales,  enumerar las fases de los algoritmos.  
+CE1.3.3 Explicar operadores y distinguir los tipos de operadores, así como 
+su utilidad. 
+CE1.3.4 En un supuesto práctico, identificar los requerimientos obtenidos 
+para seleccionar los diferentes diagramas, tales como: de caso, de uso, de 
+clases, de comportamiento, de objetos, de interacción, de procesos del 
+sistema. 
+CE1.3.5  En casos prácticos, debidamente caracterizados, en los que se 
+requiere la lógica de la programación, de acuerdo con unos estándares de 
+calidad:  - Identificar los tipos de expresiones.  - Utilizar la jerarquización de archivo.  - Identificar registro.  - Generar reportes. - Verificar secuencia. - Depurar registros. - Reconocer arreglo. - Identificar características. - Describir vectores. - Identificar tipos de arreglos. - Reconocer clases, objetos, interfaces. 
+CE1.3.6 En un supuesto práctico, debidamente caracterizado, aplicar el 
+proceso de diseño de sistemas: - Las interfaces gráficas. - Las entradas. - Las salidas. - Las estructuras básicas de las bases de datos del sistema. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Estructura organizacional. 
+ 
+Niveles y funciones de una      directivos 
+en una organización. 
+ 
+Funciones del analista de sistemas. 
+Objetivos de la entidad. 
+Gestión de recursos en las 
+organizaciones. 
+Gestión de procesos en las 
+organizaciones. 
+Mediciones, análisis y mejora de los 
+procesos. 
+Identificación de la estructura 
+interna  y los procesos de una 
+organización. 
+Relación de los niveles directivos  y 
+su función dentro de las 
+organizaciones. 
+Organización de los objetivos de la 
+entidad que servirán de punto de 
+partida para el desarrollo del 
+sistema. 
+Identificación de los tipos de 
+sistemas en los diferentes niveles 
+productivos del país. 
+Valoración de normas 
+de seguridad y 
+prevención de riesgos 
+laborales.  
+ 
+Disposición al 
+desarrollo de la 
+capacidad de análisis y 
+de síntesis.  
+ 
+ Valoración de la 
+importancia que tiene 
+en un sistema 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 17 
+ 
+Interpretación de análisis de 
+sistemas determinando las 
+necesidades del mismo. 
+Identificación de los usuarios y tipos 
+de usuarios dentro  y fuera  de la 
+organización. 
+Realización de estudio de 
+factibilidad técnica, económica y 
+operacional. 
+informático la 
+integridad y seguridad 
+de los datos.  
+ 
+Valoración de los juicios 
+emitidos por sus 
+compañeros. 
+ 
+Sensibilización por la 
+consecución de un 
+medio de recopilación  
+no contaminado.  
+ 
+Valoración de los 
+instrumentos en la 
+recopilación de 
+información.  
+ 
+ 
+Gestión de sistemas. - Sistemas de información. 
+ 
+Tipos y clasificación. - Características y enfoque 
+ 
+Análisis de sistemas. - Usuarios.              - Tipos de usuarios. 
+ 
+Estudios de factibilidad. 
+ 
+Tipos de factibilidad. 
+ 
+Recopilación de información. - Fuentes de Información externa 
+y interna 
+Identificación de las fuentes de 
+información internas y externas que 
+influyen de manera directa en el 
+sistema. 
+Identificación de muestra de datos 
+sacando las variables que influyen  
+en el sistema. 
+Utilización de entrevista  como 
+técnica de recolección de  datos 
+para el sistema. 
+Aplicación de cuestionario como 
+técnica de recolección de  datos 
+para el sistema. 
+Aplicación de observación directa 
+como técnica de recolección de  
+datos para el sistema. 
+Medios de recopilación de 
+Información. - Muestreo. - Encuesta. - Entrevistas.    - Cuestionario. - Observación directa. - Revisión de documentos 
+Datos. - Tipos de datos. - Clasificación de datos. - Algoritmo.  - Elementos.  - Fase.  - Operadores.  - Tipos.  
+Realización de revisión de 
+documentos como técnica de 
+recolección de  datos para el 
+sistema. 
+Identificación de los tipos de datos 
+que serán utilizados en el desarrollo 
+del sistema. 
+Recolección y tabulación de datos 
+que serán utilizados en el desarrollo 
+del sistema. 
+Identificación de los elementos de 
+algoritmos para el desarrollo del 
+sistema.  
+Enumeración de la fase de 
+algoritmos para el desarrollo del 
+sistema.  
+Identificación de los tipos de 
+operadores que serán utilizados en 
+el desarrollo del sistema. 
+Diagramas. - Tipos. - Usos.  
+Enumeración de los tipos de 
+símbolos para agilizar la actividad 
+del programador.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 18 
+ - Símbolos.  - Instrucciones.  - Expresiones.  
+ 
+Archivo.  - Arreglos.  - Características.  - Vectores. - Clases. 
+  
+Métodos de análisis  de sistemas de 
+información. - Ciclo de vida clásico de desarrollo 
+de sistemas. - Método del prototipo. - Análisis estructurado. - Modelo orientado a objetos. 
+ 
+Identificación de los tipos de 
+instrucciones que se van a 
+desarrollar en el sistema.  
+Utilización de los de tipos de 
+expresiones que se van a 
+desarrollar en el sistema.  
+Utilización de la jerarquización de 
+archivos para agilizar los procesos 
+en el desarrollo de sistemas.  
+Identificación de los registros que 
+se van a desarrollar en el sistema.  
+Diagramación de los archivos que se 
+van a desarrollar en el sistema.  
+Generación de reportes que se van 
+a desarrollar en el sistema.  
+Verificación de secuencias para 
+agilizar los procesos en el desarrollo 
+de sistemas.  
+Depuración de registros para 
+agilizar los procesos en el desarrollo 
+de sistemas.  
+Utilización de arreglos  que se van a 
+desarrollar en el sistema.  
+Diagramación de las clases que se 
+van a desarrollar en el sistema.  
+Identificación de las características 
+que se van a realizar en el sistema 
+dentro de la organización.  
+Interpretación de vectores que se 
+van a desarrollar en el sistema.  
+Identificación de tipos de arreglos 
+que se van a desarrollar en el 
+sistema.  
+Elaboración del árbol de decisión 
+que se va a desarrollar en el 
+sistema.  
+Realización de tablas de decisión 
+que se van a desarrollar en el 
+sistema.  
+Elaboración de diagramas de 
+procesos, flujos, clases, 
+distribución, objetos y uso. 
+Selección des método(s) de análisis 
+de sistemas de información. 
+Realización de análisis del sistema  
+dentro de las organizaciones. 
+ 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 19 
+ 
+Estrategias Metodológicas: 
+ Explicación previa sobre analisis y el diseño de sistemas informaticos.  
+ Realización de ponencias basado en el ciclo de desarrollo de aplicaciones, tomando en cuanto 
+en cuenta parámetros establecidos. 
+ Realización de prácticas relacionadas con las técnicas de investigación para recopilación de  
+datos. 
+ Realización de proyecto en el laboratorio de informática, en donde expliquen el analisis y el 
+diseño de diagramas, estructuras e interfaces del sistema de información. 
+ Retroalimentación positiva en cada sección de clase.   
+ 
+MÓDULO 2: DESARROLLO DE APLICACIONES Y SISTEMAS DE INFORMACIÓN 
+Nivel: 3 
+Código: MF_054_3 
+Duración: 360 horas 
+Asociada a la Unidad de Competencia: UC_054_3 Desarrollar aplicaciones y sistemas de información para 
+automatizar los procesos del negocio dentro de la gestión empresarial. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA2.1:   Evaluar y 
+aplicar los lenguajes de 
+programación y los 
+motores de base de 
+datos de acuerdo con 
+los parámetros 
+establecidos para 
+desarrollar  aplicaciones 
+informáticas. 
+CE2.1.1 Identificar los lenguajes de programación, tomando en cuenta el 
+licenciamiento que posee la organización. 
+CE2.1.2 Seleccionar el lenguaje de programación que se adapte a los 
+requerimientos del sistema. 
+CE2.1.3 Seleccionar los motores de base de datos según los requerimientos 
+del sistema, tomando en cuenta el licenciamiento que posee la 
+organización. 
+CE2.1.4 En un supuesto práctico,  elaborar aplicaciones para distintas 
+plataformas, como son: - Herramientas de sistemas. - Aplicaciones de escritorio. - Para la web. 
+RA2.2: Construir la 
+estructura  general de la 
+aplicación informática, 
+según lo establecido en 
+el proceso de análisis y 
+diseño. 
+CE2.2.1 Utilizar las salidas del sistema de acuerdo con el diseño establecido 
+en la fase de análisis y diseño del sistema. 
+CE2.2.2 Manipular las entradas del sistema de acuerdo con el diseño 
+establecido en la fase de análisis y diseño del sistema.  
+CE2.2.3 En un supuesto práctico, debidamente caracterizado, elaborar:   - Menú desplegable. - Menú en cascada. - Menú con botones de chequeo. - Menú flotante. - Menú de navegación. - Menú contextual. - Menú emergente. - Menú de opciones y barra de acción. - Otros. 
+CE2.2.4  Aplicar las estructuras básicas de base de datos del sistema. 
+RA2.3: Crear las 
+estrategias de acceso a 
+CE2.3.1 Reconocer los criterios de accesos y las credenciales a usar en los 
+distintos módulos de las bases de datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 20 
+ 
+los distintos módulos de 
+la aplicación, según lo 
+establecido en el 
+proceso de análisis y 
+diseño, para 
+implementación de los 
+criterios de acceso. 
+ CE2.3.2 Desarrollar las estructuras básicas de base de datos implementando 
+los criterios de acceso. 
+CE2.3.3 Codificar las sentencias de programación implementado los criterios 
+de acceso. 
+CE2.3.4  Aplicar las mejores prácticas y los patrones de diseño empleados 
+para el desarrollo del sistema. 
+RA2.4: Desarrollar 
+soluciones para las 
+distintas excepciones 
+dadas o producidas en el 
+ambiente de desarrollo.  
+CE2.4.1 En un supuesto práctico, ejecutar la aplicación e identificar y 
+organizar las excepciones en los diferentes módulos, tales como: - Captura de datos. - Producción de reportes. - Procesos de cálculos. - Comunicación. - Consultas. 
+CE2.4.2 Desarrollar las estructuras básicas de bases de datos implementando 
+el  manejo de excepciones. 
+CE2.4.3 Codificar las sentencias de programación que permitan la 
+implementación de manejo de excepciones. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Diseño de sistemas de información. - Tipos y características. - Entradas, salidas y procesos. - Dispositivos de entrada  y de 
+salida. - Reportes de salida del sistema. - Datos de entrada. - Método de entrada. - Formato de entrada. - Registros. - Procesos. - Tipos de procesos. - Actualización de procesos. - Consultas. - Reportes. - Validación. - Patrones de diseño. 
+Utilización de dispositivos y sus 
+características que serán diseñados 
+en el sistema. 
+Salida de un sistema para un mejor 
+análisis del proceso. 
+Realización del diseño de las salidas 
+del sistema de información. 
+Comparación de dispositivos de 
+entrada y sus características. 
+Identificación de datos de entrada, 
+métodos y formatos que serán 
+diseñados para el desarrollo del 
+sistema. 
+Identificación de los registros que 
+serán diseñados para el desarrollo 
+del sistema. 
+Elaboración de diseño de las 
+entradas  del sistema de 
+información que serán utilizados 
+para el desarrollo del sistema. 
+Diseño de registros que serán 
+utilizados para el desarrollo del 
+sistema. 
+Identificación de tipos de procesos 
+que serán utilizados para el 
+desarrollo del sistema. 
+Valoración de la 
+importancia de 
+documentar 
+procedimientos técnicos 
+complejos. 
+  
+Valoración de la 
+importancia de compartir 
+información como 
+fundamento sinérgico del 
+trabajo colectivo.  
+ 
+Interés por el 
+conocimiento y 
+adiestramiento en 
+herramientas 
+metodológicas basadas en 
+NTIC. 
+ 
+Orientación a clientes y a 
+resultados. 
+ 
+Realización de trabajo en 
+equipo y pensamiento 
+crítico. 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 21 
+ 
+Realización de diseño de los 
+procesos del sistema de 
+información que serán utilizados 
+para el desarrollo del sistema. 
+Estructura básica de la base de 
+datos  que será utilizada para el 
+desarrollo del sistema. 
+Diseño de la estructura básica de  
+las bases de datos que serán 
+utilizadas para el desarrollo del 
+sistema. 
+Aplicación de distintos patrones de 
+diseño que serán utilizados para el 
+desarrollo del sistema. 
+Aplicación de mejores prácticas que 
+serán utilizadas para el desarrollo 
+del sistema. 
+Realización de reportes que serán 
+utilizados para el desarrollo del 
+sistema. 
+Validación de las entradas, las 
+salidas y los procesos que serán 
+utilizados para el desarrollo del 
+sistema. 
+Realización de consultas que serán 
+utilizadas para el desarrollo del 
+sistema. 
+Disposición al desarrollo 
+de la capacidad de análisis 
+y de síntesis.  
+ 
+Valoración de la 
+importancia que tiene en 
+un sistema informático la 
+integridad y seguridad de 
+los datos.  
+ 
+Sensibilización por la 
+consecución de un medio 
+de recopilación  no 
+contaminado.  
+ 
+Valoración de los 
+instrumentos en la 
+recopilación de 
+información.  
+ 
+Lenguajes de programación. - Origen, evolución y 
+características. - Clasificación. - Tipos de programación. - Fundamentos. - Entornos. - Ambiente. - Elementos. - Librerías y componentes. - Principios y patrones. - Recursos. 
+Identificación de los distintos 
+lenguajes de programación que 
+serán utilizados para el desarrollo 
+del sistema. 
+Comparación de los lenguajes de 
+programación y sus características. 
+ 
+Modularidad. - Funciones y métodos. - Interfaces. 
+Bloques. - Condiciones. - Iteraciones. - Recursividad. 
+Acceso. - Criterios. 
+Desarrollo de las salidas del 
+sistema. 
+Identificación de reportes de salidas 
+del sistema. 
+Desarrollo de las entradas del 
+sistema, los procesos y  reportes. 
+Desarrollo de programa de forma 
+estructurada. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 22 
+ - Credenciales. - Niveles. 
+Programación periféricos. - Tipos. - Características. - Comunicación. 
+Elaboración de programas de forma 
+modular. 
+Desarrollo de los menús 
+(desplegable, en cascada, con 
+botones de chequeo, flotante, de 
+navegación, contextual, emergente, 
+de opciones y barra de acción, 
+otros). 
+Elaboración de aplicaciones 
+utilizando lenguaje de 
+programación orientado a objeto. 
+Criterios de acceso. - Estructura tecnológica. - Identificación y autentificación. - Control de acceso. - Credenciales. - Registro de acceso. - Copias de respaldo. 
+Excepciones. - Manejo. 
+Identificación y creación de 
+controles de acceso. 
+Elaboración de los registros de 
+acceso que definen las entradas a 
+los distintos módulos del sistema. 
+Elaboración de las credenciales del 
+sistema para mayor seguridad del 
+mismo. 
+Aplicación de proceso de respaldo 
+de datos para asegurar la 
+información dentro de las 
+organizaciones. 
+Identificación  y desarrollo de las 
+excepciones del sistema. 
+ 
+Estrategias Metodológicas:  
+ Detección de conocimientos en relacion con los lenguajes de programación y los motores de 
+base de datos. 
+ Realización de ponencias sobre la elaboracion de una estructura general de aplicaciones 
+informática. 
+ Realización de proyecto basado en las estrategias de acceso a los distintos módulos de la 
+aplicación, según parametros establecidos en el proceso de análisis y diseños. 
+ Realización de proyecto en el laboratorio de informática, en la codificación de las sentencias 
+de programación.  
+ Retroalimentación positiva en cada sección de clase.   
+ 
+MÓDULO 3: IMPLEMENTACIÓN Y MANTENIMIENTO DE APLICACIONES Y SISTEMAS INFORMÁTICOS 
+Nivel: 3 
+Código: MF_055_3 
+Duración: 135 horas.  
+Asociada a la Unidad de Competencia: UC_055_3 Aplicar los procesos de prueba, implementación, 
+mantenimiento preventivo y correctivo a las aplicaciones informáticas y sistemas desarrollados para 
+garantizar el ciclo de vida de desarrollo de software. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 23 
+ 
+RA3.1 Aplicar procesos y 
+técnicas de prueba de la 
+aplicación o sistema 
+desarrollado para 
+asegurar su calidad y 
+funcionalidad, según el 
+tipo de prueba 
+seleccionada. 
+CE3.1.1 Reconocer los parámetros que rigen la calidad de la organización. 
+CE3.1.2 Seleccionar el tipo de prueba (de códigos, unitarias, integración, 
+sistemas, aceptación, caja blanca y caja negra) que se realizarán al sistema.                   
+CE3.1.3 En un supuesto práctico, implementar la prueba seleccionada de: - Códigos. - Unitarias. - Integración. - Sistemas. - Aceptación. - Caja blanca y caja negra, cumpliendo los criterios de calidad. 
+RA3.2: Analizar el tipo 
+de implementación a 
+ejecutar, para la puesta 
+en marcha de la 
+aplicación o sistema 
+desarrollado. 
+CE3.2.1 Seleccionar el tipo de instalación (directa, en paralelo, en localidades 
+individuales, por fases) de acuerdo con los parámetros establecidos. 
+CE3.2.2 Realizar la instalación seleccionada (directa, en paralelo, en 
+localidades individuales, por fases) de acuerdo con las políticas de la 
+organización. 
+CE3.2.3 Realizar la recepción de los entregables de los procesos de 
+codificación, prueba e instalación.   
+RA3.3: Analizar    errores  
+para asegurar el 
+funcionamiento de la 
+aplicación y realizar 
+copia de respaldo. 
+CE3.3.1 Realizar las pruebas diagnósticas al sistema según los parámetros 
+establecidos por el departamento de desarrollo. 
+ CE3.3.2 Verificar los resultados de las pruebas diagnósticas e identificar 
+posibles errores del sistema. 
+CE3.3.3 Citar los errores encontrados en el sistema de acuerdo con los 
+procedimientos del departamento de desarrollo.                 
+CE3.3.4 Corregir los  errores (sintaxis, tamaño del campo, tipos de variables, 
+desbordamiento, referencias) encontrados en el sistema de acuerdo con los 
+procedimientos establecidos por el departamento de desarrollo. 
+CE3.3.5 Aplicar copias  de seguridad (completa, incremental y diferencial) de 
+acuerdo con políticas  de la empresa. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Técnicas de pruebas. - Gestión de la calidad. - Calidad de los servicios. - Medición de la calidad. - Conceptos, principios, niveles   y  
+sistema. - Pruebas y tipos. 
+Identificación de los parámetros de 
+calidad de las organizaciones públicas 
+y privadas. 
+Identificación de las diferentes 
+técnicas de prueba de sistemas. 
+ 
+ 
+Valoración de normas 
+de seguridad y 
+prevención de riesgos 
+laborales.  
+Disposición al 
+desarrollo de la 
+capacidad de análisis y 
+de síntesis.  
+ 
+ Valoración de la 
+importancia que tiene 
+en un sistema 
+informático la 
+integridad y seguridad 
+de los datos.  
+Tipos de implementación.  - Instalaciones. 
+Tipos de instalaciones. - Entregables.  
+Tipos de entregables.          - Documentación. 
+ 
+Aplicación de prueba de caja negra 
+dentro de las organizaciones. 
+Realización de prueba de caja blanca 
+dentro de las organizaciones. 
+Implementación de prueba de código 
+dentro de las organizaciones. 
+Realización de prueba unitaria dentro 
+de las organizaciones. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 24 
+ 
+Aplicación de prueba de integración 
+al sistema dentro de las 
+organizaciones. 
+Aplicación de pruebas al sistema 
+dentro de las organizaciones. 
+Realización de prueba de aceptación 
+dentro de las organizaciones. 
+Identificación de tipos de 
+instalaciones dentro de las 
+organizaciones. 
+Realización de fase de 
+implementación dentro de las 
+organizaciones. 
+Valoración de los juicios 
+emitidos por sus 
+compañeros. 
+ 
+Sensibilización por la 
+consecución de un 
+medio de recopilación  
+no contaminado.  
+ 
+Valoración de los 
+instrumentos en la 
+recopilación de 
+información.  
+ 
+ 
+Corrección de errores  y copia de 
+respaldo al sistema.  - Prueba diagnóstica.        - Errores de sintaxis.  - Error de tamaño del campo. - Errores de tipos de variables. 
+ 
+Copias de seguridad (backup). - Completa. - Incremental. - Diferencial,  de acuerdo con la 
+política de la organización. 
+Explicación de los entregables y la 
+documentación que utiliza el sistema. 
+Elaboración de los entregables para 
+los usuarios  que utilizan de forma 
+directa el sistema de Información. 
+Realización de la recepción de los 
+entregables  del sistema. 
+Identificación de los errores  que se 
+presenten en el sistema de 
+información. 
+Implementación de la corrección de 
+errores que se adapte a la 
+organización. 
+Selección del tipo de protección que 
+utiliza la empresa. 
+ 
+Estrategias Metodológicas:  
+ 
+ Explicación previa relacionado con procesos y técnicas de prueba de la aplicación o sistema 
+desarrollado.  
+  Realización de proyecto basado en el tipo de implementación a ejecutar, para la puerta en 
+marcha de una aplicación o sistema desarollado. 
+ Estudio de casos en el análisis de errores  para asegurar el funcionamiento de la aplicación. 
+ Realización de prácticas en el laboratorio de informática para manipular los diferentes tipos 
+de copias de seguridad. 
+ Retroalimentación positiva en cada sección de clase. 
+ 
+MÓDULO 4: DISEÑO Y DESARROLLO DE BASE DE DATOS 
+Nivel: 3 
+Código: MF_056_3 
+Duración: 315 horas  
+Asociada a la Unidad de Competencia: UC_056_3 Diseñar y desarrollar bases de datos modelando la 
+arquitectura requerida por las aplicaciones y sistemas de información. 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 25 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA4.1: Diseñar bases de 
+datos para responder a 
+los requerimientos de 
+desarrollo bajo un 
+modelo establecido, 
+aplicando criterios de 
+normalización de datos. 
+CE4.1.1 Describir los diferentes tipos de sistemas de base de datos. 
+CE4.1.2 Distinguir la diferencia entre registros, campos y datos. 
+CE4.1.3 Describir el modelo Entidad-Relación. 
+CE4.1.4 Utilizar el modelo Entidad-Relación. 
+CE4.1.5 Describir gestores de base de datos. 
+CE4.1.6 Establecer modelo de datos seleccionado para la resolución del 
+problema planteado. Entre los más comunes conocidos podemos encontrar: - Modelo relacional. - Modelo entidad-relación.  - Modelo de datos jerárquico. - Modelo de datos en red. 
+CE4.1.7 Describir el Lenguaje de Marcas Extendido (XML). 
+CE4.1.8 Describir las reglas de normalización en el modelo de base de datos 
+de las entidades definidas (Forma Normal de Boice Codd - FNBC). - Evitar la redundancia de los datos. - Evitar problemas de actualización de los datos en las tablas. - Proteger la integridad de los datos. 
+CE4.1.9 Describir SQL.  
+CE4.1.10 Describir las características del lenguaje de consultas SQL: - Tipos de datos. - Transact-SQL. - Lenguaje de Definición de Datos (DDL). - Lenguaje de Manipulación de Datos (DML). - Lenguaje de Control de Datos (DCL). 
+CE4.1.11 Entender el álgebra relacional. 
+CE4.1.12 Aplicar las reglas de normalización en el modelo de base de datos 
+de las entidades definidas (preferiblemente hasta el tercer nivel). - Evitar la redundancia de los datos. - Evitar problemas de actualización de los datos en las tablas. - Proteger la integridad de los datos.  
+CE4.1.13 En un supuesto práctico, debidamente caracterizado: - Utilizar los diferentes tipos de datos que se aplican en una base de 
+datos numéricos, carácter, fecha, lógico, etc. - Crear la base de datos. - Crear los objetos (tablas, índices o claves, consultas, formularios, 
+funciones, procedimientos almacenados, disparador, etc.). - Realizar  inserción de una o varias filas usando insert into. - Modificar una o varias filas usando Update. - Eliminar una o varias filas usando Delete. - Crear o eliminar índice utilizando  create index o drop index. - Relacionar las tablas. - Eliminar  objetos. 
+CE4.1.14 Determinar la configuración de los dispositivos, procesos y espacio 
+físico de acuerdo con las características del Sistema de Gestión de Base de 
+Datos, Sistema Operativo, Hardware, necesidades de almacenamiento y 
+requerimientos de servicio. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 26 
+ 
+RA4.2: Diseñar 
+diccionario de datos y 
+documentación general 
+para apoyar la gestión 
+de administración de 
+bases de datos, de 
+acuerdo con el modelo 
+establecido. 
+CE4.2.1 Fundamentar documentación de las propiedades de la base de 
+datos. 
+CE4.2.2 Describir las funciones, los procedimientos almacenados y las vistas 
+creadas en la base de datos según las características y datos de acuerdo con 
+el modelo establecido. 
+CE4.2.3 Explicar las funciones, los procedimientos almacenados y las vistas 
+creadas en la base de datos según las características y los datos, de acuerdo 
+con el modelo establecido. 
+CE4.2.4 Diseñar la estructura del diccionario de datos. 
+CE4.2.5 En un supuesto práctico, debidamente caracterizado: - Crear los diccionarios de datos a cada una de las entidades de la base 
+de datos. - Explicar los diccionarios de datos creados. - Elaborar la documentación necesaria a cada diccionario de datos, con 
+las descripciones de lugar. 
+RA4.3: Crear consultas 
+(Queries) de datos  para 
+apoyar el desarrollo de 
+las aplicaciones, de 
+acuerdo con los 
+requerimientos del 
+diseño establecido. 
+CE4.3.1 Determinar el objetivo de las consultas (Queries) y sus relaciones con 
+los datos (tablas, vistas), según los requerimientos establecidos en el diseño  
+del modelo de datos asociado a la aplicación y al sistema de información. 
+CE4.3.2 Describir las consultas (Queries) necesarias de acuerdo con los  
+requerimientos  establecidos en el diseño del modelo de datos asociado a la 
+aplicación y al sistema de información establecidos. 
+CE4.3.3 Definir las consultas (Queries), funciones y los procedimientos 
+almacenados que se operarán para el uso de los reportes o análisis de datos 
+del sistema. 
+CE4.3.4 Describir select y su sintaxis. 
+CE4.3.5 Describir cada una de las clausulas (order by, distinct/all, top, where, 
+group by). 
+CE4.3.6 Crear consultas utilizando la sentencia select combinada con las 
+clausulas (from, order by, distinct/all, top, where, group by). 
+CE4.3.7 En un supuesto práctico, debidamente caracterizado, en la creación 
+de consultas: - Crear consultas usando diferentes criterios de selección (filtrar, 
+organizar). - Crear consultas usando diferentes criterios de acción (creación, 
+eliminación, actualización). - Crear consultas multitablas mediante el operador unión. - Crear consultas para apoyar la toma de decisiones. 
+RA4.4: Proponer 
+estrategia de alta 
+disponibilidad de los 
+servicios de bases de 
+datos  para asegurar la 
+continuidad del negocio, 
+cumpliendo con los 
+requerimientos 
+establecidos. 
+CE4.4.1 Determinar el alcance de la alta disponibilidad y tolerancia a fallos 
+de los servicios de bases de datos de acuerdo con los requerimientos 
+establecidos y los recursos presentes. 
+CE4.4.2 Describir la estrategia de alta disponibilidad de base datos, según los 
+recursos disponibles y los requerimientos establecidos:  - Failover Clustering. - Real Application Clustering.  - Database Mirroring.  - Database Replication. - Log Shipping. - Always On Availability Groups. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 27 
+ 
+CE4.4.3 Determinar la estrategia adecuada al escenario planteado de 
+acuerdo con los requerimientos establecidos y recursos presentes.  Los 
+valores comunes de disponibilidad, típicamente enunciado como número de 
+"nueves" para sistemas altamente disponibles, son: - 99,9% = 43.8 minutos/mes u 8,76 horas/año ("tres nueves"). - 99,99% = 4.38 minutos/mes o 52.6 minutos/año ("cuatro nueves"). - 99,999% = 0.44 minutos/mes o 5.26 minutos/año ("cinco nueves"). 
+CE4.4.4 En un supuesto práctico, debidamente caracterizado en la gestión de 
+alta disponibilidad: - Analizar y determinar estrategia a utilizar según  requerimientos de 
+alta disponibilidad, hardware y software. - Aplicar estrategia de alta disponibilidad según selección y 
+requerimiento. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Base de datos. - Tipos de bases de datos. - Gestores de bases de datos. - Modelo entidad/relación. 
+Archivo. - Registro. - Campos. - Datos (tipos de datos). 
+Información. 
+Tablas. - Índice y clave. - Vistas. - Consultas (query). - Funciones. - Relaciones. 
+SQL. - Transact-SQL (DML, DDL, DCL). - Sentencias o comandos. - Cláusulas. - Sentencia de definición de datos 
+(DDL). 
+Identificación de tipos de bases de  
+datos. 
+Identificación de los gestores de 
+bases de datos para su 
+implementación. 
+Diferenciación y funcionalidad de 
+gestores de bases de datos. 
+Determinación de factibilidad 
+dependiendo de la necesidad y 
+configuración de los dispositivos. 
+Utilización del modelo 
+entidad/relación. 
+Comparación de diferentes tipos 
+de datos que conforman la 
+información. 
+Estructura básica de una base de 
+datos. 
+Clasificación de los comandos o 
+sentencias (DML, DDL, DCL). 
+ 
+Valoración de la utilidad 
+de un sistema gestor de 
+bases de datos.   
+ 
+Valoración y 
+reconocimiento y de las 
+técnicas de organización 
+y gestión. 
+ 
+Valoración de la utilidad 
+de las bases de datos 
+distribuidas.  
+ 
+Asimilación para 
+adaptarse a nuevas 
+situaciones.  
+ 
+Interés por el 
+cumplimiento de los 
+requisitos de seguridad.  
+ 
+Valoración de las 
+ventajas e 
+inconvenientes de las 
+distintas opciones válidas 
+para llevar a cabo una 
+consulta determinada.  
+ 
+Valoración de normas de 
+seguridad y prevención 
+de riesgos laborales.  
+ 
+Sentencias de manipulación de datos 
+(DML). - Insert. - Select. - Update. - Delete. 
+ 
+Comparación entre sentencias y 
+cláusulas. 
+Creación de bases de datos, 
+tablas, índices, funciones, 
+procedimientos. 
+Realización de cambios en la 
+estructura de la base de datos 
+(modificar, agregar, eliminar). 
+Sigue las reglas de normalización 
+para evitar la redundancia de 
+datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 28 
+ 
+Creación de los diferentes objetos 
+que se manipularán en la base de 
+datos (tablas, relación, vistas y 
+formularios). 
+Aplicación de mantenimiento a los 
+datos en la base de datos (agregar, 
+modificar, eliminar, visualizar). 
+Disposición al desarrollo 
+de la capacidad de 
+análisis y de síntesis.  
+ 
+ Valoración de la 
+importancia que tiene en 
+un sistema informático la 
+integridad y seguridad de 
+los datos.  
+ 
+Valoración de los 
+instrumentos en la 
+recopilación de 
+información.  
+ 
+ 
+Consultas (query). - Procedimientos almacenados. - Disparadores (Triggers). - Funciones. 
+Diccionario de datos. - Nombre. - Tipo de datos. - Tamaño del campo. - Alias. - Contenido. - Organización. 
+ 
+Consultas de selección. - Filtrar (operadores: de relación, 
+lógicos, aritméticos, etc.). - Organizar (order bye, distinct/all, 
+Group by, Having). 
+ 
+Criterios de acceso a datos. 
+Consultas de acción. 
+ 
+Identificación de los criterios 
+necesarios para desarrollar y 
+diseñar una base de datos de 
+gestión documental.  
+Procesos institucionales, sus 
+principales necesidades y 
+propuestasde uso de bases de 
+datos.  
+Tipo de consulta a crear según la 
+información solicitada. 
+Determinación del objetivo de las 
+consultas.  
+Organización de los datos a partir 
+de un criterio específico o 
+solicitud de información. 
+Aplicación de mantenimiento a la 
+base de datos según los resultados 
+de la consulta (update, insert, 
+delete, select). 
+Creación o eliminación de tablas 
+(Create, drop). 
+Eliminación de registros. 
+Aplicación de los criterios de 
+acceso a datos: - Creación usuarios y roles. - Login. - Niveles de acceso. - Seguridad de acceso. 
+Aplicación de consultas de acción: - Create, drop, delete. - Actualización (Update). - De unión interna (Select … 
+from … inner join … on …) - De unión externa (select … 
+from … where … union select … 
+.from … where). - Referencias cruzadas (join, 
+Inner join, union, group by). 
+Alta disponibilidad. - Failover Clustering. - Real Application Clustering.  
+Alta disponibilidad y tolerancia a 
+fallos de los servicios de la base de 
+datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 29 
+ - Database Mirroring.  - Database Replication. - Log shipping. - Always On Availability Groups. 
+Características. Confiabilidad. 
+Ventajas y desventajas. 
+Selección de la estrategia a utilizar 
+según los recursos disponibles y 
+los requerimientos definidos. 
+Demostración de la factibilidad de 
+la estrategia seleccionada y 
+explicación de por qué descarta a 
+las demás. 
+Aplicación de la estrategia 
+seleccionada según  los recursos 
+disponibles y requerimientos 
+establecidos. 
+ 
+Estrategias Metodológicas: 
+  Detección de conocimientos, capacidades y competencias del estudiante sobre programa de 
+aplicación relacionada con base de datos. 
+ Realización de prácticas en grupos reducidos, en donde el estudiante crea diccionarios de 
+datos a cada una de las entidades de la base de datos. 
+ Realización proyecto sobre la elaboración y modificación de bases de datos y los diferentes 
+objetos que la componen. 
+ Visita del estudiante a empresas de su entorno para  que analicen sus necesidades y diseñen 
+bases de datos. 
+  Realización de prácticas en el laboratorio de informática relacionado con programa de 
+aplicación de base de datos. 
+ Utilización del internet para la investigación, con el entorno de base de datos, tanto en el 
+diseño como para la implementación.  
+ 
+MÓDULO 5: ADMINISTRACIÓN DE BASE DE DATOS 
+Nivel: 3 
+Código: MF_057_3 
+Duración: 405 horas.  
+ Asociada a la Unidad de Competencia: UC_057_3 Administrar las bases de datos para soportar de manera 
+eficiente los sistemas de información. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA5.1 Describir las 
+funciones y objetivos de 
+la administración de la  
+base de datos. 
+ 
+ 
+CE5.1.1 Definir Administrador de Base de Datos (ABD - DBA). 
+CE5.1.2 Describir las funciones del DBA. - Administrar la estructura de la base de datos. - Administrar la actividad de los datos. - Administrar el sistema manejador de base de datos. - Establecer el Diccionario de Datos. - Asegurar la confiabilidad de la base de datos. - Confirmar la seguridad de la base de datos. 
+CE5.1.3 Describir la documentación necesaria que debe recibir y entregar un 
+DBA. - Estructura de una base de datos. - Creación de una base de datos. - Creación de diccionario de datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 30 
+ - Creación de usuarios y privilegios. 
+CE5.1.4 Identificar los recursos o herramientas necesarias para la 
+administración de base de datos. - Medios de almacenamientos. - Sistema operativo. - Gestor de base de datos. - Conectividad (Internet, Intranet, Red de Área Local (LAN), Red de Área 
+Amplia (WAN)). 
+RA5.2 Crear los 
+parámetros de acceso y 
+seguridad  para apoyar 
+la gestión de 
+administración de 
+bases de datos, que 
+cumplan con los 
+requerimientos 
+establecidos. 
+CE5.2.1 Describir los mecanismos de acceso que se utilizan para entrar a las 
+bases de datos: - Conectividad abierta de bases de datos (Open Data Base Connectivity 
+(ODBC)). - Objetos de datos activos (ActiveX Data Objects (ADO)). - Conectividad de base de datos Java (Java Data Base Connectivity 
+(JDBC)). - Etc. 
+CE5.2.2 Analizar  o modificar la estructura de la base de datos. - Tablas. - Vistas o consultas. - Procedimientos almacenados. - Disparadores. - Esquema conceptual. 
+CE5.2.3 Generar los documentos necesarios de la base de datos creada o 
+modificada. 
+CE5.2.4 Administrar las actividades de los datos para garantizar que los 
+usuarios trabajen en forma cooperativa y complementaria al procesar 
+informaciones en la base de datos. - Proporciona estándar de los datos. - Guía de acción. - Procedimientos de control. - Documentación de los datos. 
+CE5.2.5 Crear roles con los permisos a los objetos de la base de datos de 
+acuerdo con los perfiles de los usuarios que utilizarán las aplicaciones. 
+CE5.2.6 Describir la configuración de la seguridad para los usuarios (políticas 
+de contraseñas, duración cambio de contraseñas, reintentos de accesos).  
+CE5.2.7 En un supuesto práctico, debidamente caracterizado: - Crear una base de datos. - Crear los roles con los permisos a los objetos. - Crear usuarios de bases de datos para las aplicaciones y para los 
+usuarios de las aplicaciones.  - Aplicar los roles y la configuración de la seguridad previamente 
+definida. - Ejecutar prácticas de migración de datos. 
+RA5.3 Ejecutar el 
+respaldo de datos 
+(Backup)  para asegurar 
+la continuidad del 
+negocio, cumpliendo 
+CE5.3.1 identificar el esquema y la frecuencia de los respaldos más 
+apropiados (respaldos completos, respaldos del log, respaldos diferenciales y 
+respaldos incrementales). 
+CE5.3.2 Describir y crear alertas de notificaciones que envíen mensajes para 
+dar seguimiento a la realización de los respaldos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 31 
+ 
+los requerimientos 
+establecidos. 
+CE5.3.3 En un supuesto práctico, debidamente caracterizado: - Implementar la estrategia de respaldo (Backup). - Implementar la estrategia de restauración  de datos. 
+RA5.4 Implementar el  
+almacenamiento 
+adecuado para apoyar 
+la gestión de 
+administración de 
+bases de datos, de 
+acuerdo con lo 
+establecido. 
+CE5.4.1 Crear los arreglos de discos que serán utilizados según el diseño 
+realizado. 
+CE5.4.2 Aplicar al servidor de bases de datos los arreglos de discos creados. 
+CE5.4.3 Configurar la base de datos para que utilice los arreglos de discos. - Colocar los archivos de data en el disco de data. - Colocar los archivos log en el disco de log. - Colocar los archivos temporales en el disco de temporal. 
+CE5.4.4 Configurar la base de datos para que realice los respaldos en el disco 
+o en los discos de respaldo. 
+RA5.5 Monitorear y 
+controlar el 
+funcionamiento de las 
+bases de datos para 
+asegurar la continuidad 
+del negocio, 
+cumpliendo los 
+requerimientos 
+establecidos. 
+CE5.5.1 Establecer alertas para las notificaciones del comportamiento de las 
+bases de datos en: - Los eventos del porcentaje de espacio libre en los archivos de datos. - Los eventos en el log. - Los bloqueos de las transacciones. - La falta de espacio en los discos. - El alto uso de recursos del sistema (CPU y Memoria). - El servicio del motor de bases de datos no disponible. 
+CE5.5.2 Monitorear las bases de datos utilizando las herramientas de manejo 
+de bases de datos: - Las consultas de larga duración. - Consultas que causan bloqueos. - Utilización de los recursos del sistema. - Espacio en disco. 
+CE5.5.3 En un supuesto práctico, debidamente caracterizado, automatizar los 
+procesos que respondan a las alertas generadas para minimizar los tiempos 
+de respuestas del monitoreo, que son: - Crecimiento automático de los archivos de datos. - La ejecución de limpieza de archivos de respaldos viejos. - Envío de alertas por correo electrónico o minimensajes. 
+RA5.6 Aplicar 
+mantenimiento y 
+actualizaciones de las 
+base de datos  para 
+asegurar la continuidad 
+del negocio, 
+cumpliendo los 
+requerimientos 
+establecidos. 
+CE5.6.1 Revisar periódicamente las actualizaciones disponibles del motor de 
+bases de datos y del sistema operativo. 
+CE5.6.2 Determinar la necesidad de aplicar las actualizaciones disponibles del 
+motor de bases de datos y del sistema operativo. 
+CE5.6.3 Analizar en cuál ambiente conviene realizar las actualizaciones del 
+motor de bases de datos o del sistema operativo. - De prueba. - De producción. 
+CE5.6.4 En un supuesto práctico, debidamente caracterizado: - Realizar pruebas de actualizaciones al motor de bases de datos y del 
+sistema operativo en ambientes de pruebas para asegurar el correcto 
+funcionamiento de las bases de datos y las aplicaciones que acceden a 
+ellas. - Aplicar las actualizaciones al motor de bases de datos y del sistema 
+operativo en ambientes de producción para asegurar el correcto 
+funcionamiento de las bases de datos y las aplicaciones que acceden a 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 32 
+ 
+ellas. 
+RA5.7 Realizar 
+mantenimiento 
+preventivo y correctivo 
+a las  base de datos  
+para asegurar la 
+continuidad del 
+negocio, cumpliendo 
+los requerimientos 
+establecidos. 
+CE5.7.1 Crear planes de mantenimiento para la ejecución del proceso de 
+reindexación/recreación de los índices, actualización de estadísticas y 
+ejecución de revisión de consistencia interna de las tablas. 
+CE5.7.2 Documentar los planes de mantenimientos creados para futuras 
+consultas. 
+CE5.7.3 Realizar revisiones de la comunicación entre los servidores de 
+aplicación y los servidores de bases de datos para asegurar que no existan 
+fallas en las redes.  
+CE5.7.4 Verificar los tiempos de respuestas entre los servidores para asegurar 
+la óptima calidad de la comunicación. 
+CE5.7.5 En un supuesto práctico, debidamente caracterizado: - Ejecutar comandos de recuperación de tablas. - Ejecutar comandos de eliminación de bloqueos. - Ejecutar comandos de actualización de estadísticas. - Hacer recuperación de data en un punto en el tiempo. - Verificar la consistencia de las tablas. - Verificar la consistencia de los discos. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Administración de base de datos. - Funciones del DBA. - Esquema conceptual.  - Esquema interno. - Documentos. 
+Diccionario de datos. 
+Usuarios y privilegios. - Usuarios  - Administradores de la base de 
+datos. - Especializados. - Programadores de aplicaciones. - Accesos normales. 
+Privilegios - Usuario. - Administrador. - Especiales. - Sistema. 
+ 
+Recursos y herramientas.     -Medios 
+de almacenamientos. - Sistemas operativos. - Gestores de bases de datos. - Conectividad. 
+Métodos de acceso. - ODBC. - ADO. 
+Funciones de un administrador de 
+base de datos. 
+Creación de bases de datos 
+debidamente estructurada. 
+Creación de los diccionarios de datos 
+para cada objeto de la base de datos. 
+Identificación de los diferentes 
+usuarios que puede crear. 
+Identificación de privilegios que 
+puede otorgar a cada usuario. 
+Identificación de los diferentes 
+recursos y herramientas que puede 
+utilizar en la administración de base 
+de datos. 
+Recursos que utilizará en la 
+administración de base de datos. 
+Administración del  Sistema 
+Manejador de Base de Datos  
+(estadísticas del sistema, problemas 
+potenciales, tiempo  
+de respuestas, precisión de los datos, 
+facilidad de uso, actividad de los 
+usuarios, etc). 
+Privilegios de Usuario (select, insert, 
+update, alter, create, drop). 
+Valoración de la 
+importancia de 
+automatizar tareas 
+administrativas.  
+ 
+Disposición a la 
+planificación de las 
+propias tareas y a la 
+autoevaluación de lo 
+conseguido. 
+ 
+Adopción de medidas 
+para mantener la 
+integridad y consistencia 
+de la información.  
+ 
+Interés por el 
+cumplimiento de los 
+requisitos de seguridad.  
+ 
+Adopción de medidas 
+para mantener la 
+integridad y consistencia 
+de la información.  
+ 
+Interés por atender la 
+demanda de los usuarios 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 33 
+ - DAO. - JDBC. - ISAPI. - CGI. - RDO. - RDS. - Entre otros. 
+ 
+Privilegios del Administrador (file, 
+process, reload, grant, revoke, 
+shutdown). 
+Privilegios Especiales (all, usage). 
+Privilegios de Sistema (create session, 
+create table, create sequence, create 
+view, create trigger, create 
+procedure, execute any procedure, 
+create user, create role, drop user). 
+Aplicación de distintos métodos de 
+acceso: 
+ODBC (Open Database Connectivity - 
+Conectividad abierta de bases de 
+datos). - ADO (ActiveX Data Objects 
+Objeto de datos activo). - DAO (Data Access Objects- 
+Objetos de acceso a datos) - JDBC (Java Data Base 
+Connectivity-Conectividad de 
+base de datos Java). - ISAPI (Internet Server Application 
+Programming Interface -Interfaz 
+de programación de aplicaciones 
+para servidores de Internet). - CGI (Common Gateway Interface -Interfaz de puerta de enlace 
+común). - RDO (Remote Data Object – 
+Objeto de dato remoto). - RDS (Remote Data Service – 
+Servicio de datos remoto). 
+referentes al monitoreo y 
+control de base de datos. 
+ 
+Valoración de la 
+importancia de registrar 
+por escritorio todas las 
+incidencias, así como las 
+soluciones aportadas. 
+ 
+Valoración de las normas 
+en la aplicación de 
+mantenimiento 
+preventivo y correctivo. 
+Estructura de una base de datos - Tipos de datos. - Campos. - Tablas. - Vistas. - Consultas 
+ 
+Estructuras de información:  
+Tablas. - Búsqueda de información en las 
+tablas y vistas. - Captura de datos para las 
+tablas: formularios. - Resumen de información: 
+informes. 
+ 
+Administración de las actividades de 
+los datos (vinculación con los 
+usuarios, seguridad e integridad, 
+respaldo  
+y recuperación,  desempeño y 
+cambios en los  
+requerimientos, estructura de 
+almacenamiento,  
+organización física, método de 
+acceso). 
+Asegurar la confiabilidad de la base 
+de datos. 
+Establecer el diccionario de datos. 
+Confirmar la seguridad de la base de 
+datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 34 
+ 
+ Lista de acciones: macros, 
+módulos, procedimientos 
+almacenados, trigger. - Rol. - Create role …  authorization … - Alter role.  - Alter authorization. - Drop role. - Create approle. - Alter approle. - Drop approle. 
+Esquema. - Conceptual. -  Lógico. -  Físico. -  Objeto. 
+Identificación de los diferentes 
+métodos de acceso a bases de datos. 
+Determinación de cuál método de 
+acceso utilizar dependiendo de la 
+configuración y el gestor de base de 
+datos instalado. 
+Creación de los documentos 
+necesarios para el método de acceso 
+seleccionado y la estructura de las 
+bases de datos. 
+Documentación de las actividades 
+que se realizaran con los datos, 
+dependiendo del uso. 
+Creación de usuarios y asignación de 
+diferentes roles dependiendo del 
+gestor de base de datos. 
+Reestructuración y eliminación de los 
+roles de los usuarios. 
+Documentos y actividades de los 
+datos. 
+Respaldo. - Completo. - Log. - Diferenciales. - Incrementales 
+Alertas y notificaciones. - Eventos en la base de datos. - Rendimiento de base de datos - Correo electrónico de base de 
+datos. - Asignar rol de correo 
+electrónico y permisos. 
+Respaldo y restauración de base de 
+datos. - Archivos a copiar. - Depósito del sistema de 
+ficheros. - Control de cambios. - Incremental a nivel de bloque. - Incremental o diferencial 
+binaria. - Copia de seguridad de datos  - en uso (ficheros abiertos, 
+ficheros bloqueados, bases de 
+datos en producción). - Redundancia. - Des-duplicación. - Limitaciones. 
+Identificación del esquema y  
+respaldo a utilizar según 
+requerimientos. 
+Identificación de las diferentes 
+alertas  y notificaciones que se 
+pueden crear en el gestor de base de 
+datos seleccionado. 
+Creación alertas y notificaciones 
+partiendo de las actividades de los 
+datos y los usuarios. 
+Identificación de los diferentes 
+respaldos (backup) que se pueden 
+realizar partiendo del sistema gestor 
+de base de datos seleccionado. 
+Diferentes respaldos que se pueden 
+realizar partiendo del sistema gestor 
+de base de datos seleccionado. 
+Selección del tipo de respaldo más 
+apropiado según necesidad. 
+Identificación de limitaciones que 
+puede tener al crear el respaldo. 
+Determinación de la mejor hora para 
+realizar el respaldo. 
+Creación de respaldo siguiendo los 
+estándares establecidos. 
+Restauración de copias de seguridad. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 35 
+ - Implementación. - Horarios. - Restauración de copias de 
+seguridad. 
+Arreglo de discos - Tipos. 
+ 
+Programas para la definición de 
+arreglos. 
+Servidor de base de datos. 
+ 
+Monitoreo y control de las bases de 
+datos. - Espacio libre en los archivos de 
+datos. - Eventos en el log. - Bloqueos de las transacciones. - Espacio en los discos. - Uso de recursos del sistema 
+(CPU, Memoria). - Servicio del motor de bases de 
+datos no disponible. - Consultas de larga duración. 
+Identificación de los diferentes 
+arreglos de discos que se pueden 
+utilizar: - Arreglo redundante de discos 
+independientes (RAID). - Tipos de arreglos. - Arreglo de Disco RAIDø (striping). - Arreglo de Disco RAID1 
+(Mirroring). - Arreglo de Disco RAID5 
+(distribuido con paridad). - Arreglo de Disco Raid10 (0+1) 
+(distribuido y espejo). 
+Identificación de programas usados 
+para la definición de arreglos de 
+disco. 
+Selección del tipo de arreglo de 
+discos más conveniente, según 
+disponibilidad de la empresa. 
+Configuración de bases de datos para 
+que utilicen los arreglos de discos: - Archivos de data en disco de 
+data. - Archivos log en disco de log. - Archivos temporales en disco 
+de temporal. - Archivos de respaldo en disco 
+de respaldo. 
+Configuración de los arreglos de 
+discos. 
+Configuración de la base de datos 
+para el uso de arreglos. 
+Revisión. - Sistema operativo. - Sistema gestor de base de 
+datos. - Antivirus. - Actualizaciones - Parchos. - Tipos de actualizaciones (de 
+prueba, de producción). - Herramientas para  
+mantenimiento de sistema 
+gestor de base de datos. 
+Mantenimiento preventivo y 
+correctivo. - Reindexación o recreación de 
+índices. 
+Identificación de las alertas sobre el 
+comportamiento de las bases de 
+datos. 
+Documentación de las alertas y 
+notificaciones que deben ser creadas. 
+Creación de las alertas y 
+notificaciones del comportamiento 
+de las bases de datos. 
+Utilización de las herramientas de 
+manejo de bases de datos para 
+monitorear. 
+Establecimientos de los períodos de 
+revisión de los servidores (hardware 
+y software). 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 36 
+ - Tiempo de respuesta. - Comandos de recuperación de 
+tablas. - Comandos de eliminación de 
+bloqueos. 
+ 
+ 
+Identificación del hardware y 
+software que requieren 
+mantenimiento o actualización. 
+Diferentes herramientas disponibles 
+para la aplicación de mantenimiento 
+y actualización. 
+Determinación de la necesidad de 
+aplicar el mantenimiento o 
+actualización disponible. 
+Determinación del ambiente en el 
+que se realizarán los mantenimientos 
+y actualizaciones. 
+Realización de mantenimiento y 
+actualizaciones a los servidores  
+(hardware y software): - Monitoreo constante del 
+sistema. - Documentación de las diferentes 
+actividades del sistema. - Reindexación o recreación de 
+índices. - Verificación de consultas. - Planes de nuevas consultas. - Comunicación entre servidores. - Tiempo de respuesta entre 
+servidores o estaciones de 
+trabajo. - Comandos de recuperación de 
+tablas. - Comandos de eliminación de 
+bloqueos. - Documentación de los 
+mantenimientos y 
+actualizaciones realizados. 
+Documentación constante de las 
+diferentes actividades del sistema. 
+Identificación de datos estadísticos 
+para determinar las acciones futuras 
+a realizar. 
+Verificación de los índices para 
+determinar si es necesario la 
+reindexación o la recreación de los 
+mismos. 
+Planeación de nuevas consultas para 
+uso futuro y buen funcionamiento del 
+sistema. 
+Aplicación de pruebas a los 
+servidores para comprobar si 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 37 
+ 
+mantienen comunicación y el tiempo 
+de respuesta. 
+Realización de correcciones de lugar 
+a partir de las pruebas realizadas. 
+Programación de análisis periódicos 
+de los datos estadísticos. 
+Actualización de los datos 
+estadísticos. 
+Documentación de las correcciones 
+hechas para uso futuro. 
+ 
+Estrategias Metodológicas: 
+ Explicación previa de las funciones y objetivos de la administración de la base de datos. 
+ Realización de prácticas donde el estudiante crea los parámetros de acceso y seguridad  para 
+apoyar la gestión de administración de bases de datos, tomando parámetros establecidos.  
+ Realización de prácticas en el laboratorio de informática en la configuración de base de datos en 
+donde el estudiante realice los respaldos en el disco o en los discos de respaldo. 
+ Realización de proyecto basado en la administración y modificación de bases de datos, siguiendo 
+parámetros establecidos. 
+ Estudio de casos, en relación con el mantenimiento y actualizaciones de las bases de datos,  
+siguiendo un orden establecidos. 
+ Retroalimentación positiva en cada sección de clase.   
+ 
+MÓDULO 6: ANALISIS Y DISEÑO DE REPORTE 
+Nivel: 3 
+Código: MF_058_3 
+Duración: 135 horas.  
+Asociado a la Unidad de Competencia: UC_058_3 Analizar, diseñar y producir reportes empresariales 
+haciendo uso de herramientas informáticas a fin de apoyar las funciones productivas de las 
+organizaciones. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA6.1: Clasificar los 
+requerimientos de 
+información de los 
+diversos usuarios  para 
+producir reportes 
+empresariales, 
+siguiendo  parámetros 
+establecidos. 
+ 
+CE6.1.1  Analizar los reportes empresariales, según la dimensión de tiempo 
+y espacio y las necesidades de información de los distintos usuarios.  
+CE6.1.2  En un supuesto práctico, analizar las informaciones requeridas para 
+determinar: - Tipo del reporte (internos o externos). - Métodos o tecnologías del reporte (impresos, información desplegada 
+en diversos tipos de pantallas, audio, micro formas, o para 
+almacenamiento). - Orden de las informaciones (cronológico y por costos). - Estructura general del reporte (títulos, líneas de detalles o valores 
+repetitivos, grupos de totales y subtotales y pie de páginas). 
+CE6.1.3 Clasificar las herramientas de diseño de reportes a fin de seleccionar 
+la más adecuada. 
+RA6.2: Aplicar los 
+conocimientos recibidos 
+CE6.2.1 En un supuesto práctico, realizar el proceso de creación y 
+estructuración del proyecto de reportes. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 38 
+ 
+para el proceso de 
+creación de reportes 
+empresariales 
+funcionales y oportunos, 
+según requerimientos 
+del usuario, siguiendo 
+parámetros 
+establecidos para 
+garantizar la gestión y 
+flujo de la información 
+en la organización. 
+CE6.2.2 Especificar el mecanismo a implementar para la conexión a la base 
+de datos (ActiveX Data Objects (ADO), Data Access Object (DAO), y Object 
+Linking and Embedding for Databases (OLE/DB)). 
+CE6.2.3 Agregar las tablas que contienen los datos a distribuir en el informe, 
+según las especificaciones y los requerimientos establecidos, para crear las 
+secciones de: - Encabezado de reporte. - Encabezados de páginas. - Línea de detalles. - Pie de páginas. - Pie de reportes. - Encabezados de grupos. - Pie de grupos. 
+CE6.2.4  Aplicar los formatos necesarios a los informes adjuntándolos a los 
+estilos de diseños definidos por la organización. 
+CE6.2.5 Realizar grupos de totales y subtotales según requerimientos de la 
+organización y resumen de datos. 
+RA6.3: Presentar o 
+entregar reportes que 
+cumplan los 
+requerimientos de 
+información, según 
+criterios definidos por la 
+organización, para 
+garantizar la 
+portabilidad de la 
+información contenida. 
+CE6.3.1  Crear los mecanismos que permitan el acceso a los reportes desde 
+los diversos medios disponibles en la organización, tales como impresión, 
+presentación, almacenamiento, publicación y grabación en discos 
+compactos. 
+CE6.3.2 Establecer la realización de la salida apropiada a los reportes, ya sea 
+para imprimirlos, mostrarlos en pantalla, publicarlos en la web, 
+almacenarlos. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Los reportes - Tipos.  - Partes. - Vistas.  - Ejecución. 
+Programas generadores de reportes - Características. - Compañías distribuidoras. - Descargas e instalación. 
+Gestión de reportes - Proyecto de reporte. - Conecta a la bases de datos. - Tablas y relaciones. - Métodos o tecnologías de 
+reportes. 
+Instalación de programas gestores 
+de reportes. 
+Creación de proyectos de 
+reportes. 
+Especificación de las 
+informaciones de conexión a las 
+bases de datos. 
+Creación de conjuntos de datos o 
+consultas para el informe. 
+Adición de tablas al proyecto de 
+reporte. 
+ 
+Valoración en la 
+importancia de gestión de 
+reportes en los procesos 
+empresariales. 
+ 
+Conciencia de la 
+responsabilidad del 
+diseñador de reportes, en 
+los procesos de 
+administración de las 
+informaciones en las 
+organizaciones. 
+ 
+Cuidado en el 
+aseguramiento de la 
+confidencialidad de la 
+información. 
+ 
+Secciones de un reporte - Encabezado de reporte. - Encabezados de páginas. 
+Generación de las diversas 
+secciones de los reportes según el 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 39 
+ - Línea de detalles.  - Pie de páginas. - Pie de reportes. - Encabezados de grupos. - Detalles del reporte. - Pie de grupos. - Formatos de reportes. - Grupos y totales. - Filtros de reportes. - Ordenar datos en el reporte. - Gráficos de datos. 
+Propiedades y funciones - Fórmulas. - Tipos de funciones.  - Mensajes. - Jerarquías. - Recursividad. - Procedimientos. 
+Matrices - Listas. 
+Accesos a los reportes - Mostrar los datos.  - Publicar el reporte. - Almacenar los datos del reporte. 
+tipo y la cantidad de información 
+deseada. 
+Aplicación de formatos de fechas, 
+números, monedas, estilos de 
+millares y porcentajes. 
+Diseño de estilos y formatos de 
+textos y ancho de columnas. 
+Generación de  grupos de datos en 
+un reporte. 
+Creación de totales diarios y 
+generales en un reporte. 
+Aplicación de filtros a los datos del 
+reporte. 
+Manipulación de datos del 
+reporte. 
+Creación de reportes gráficos. 
+Operación de fórmulas. 
+Manipulación de diversas 
+funciones. 
+Configuración de mensajes como 
+respuesta a diferentes eventos del 
+reporte. 
+Generación de los mecanismos de 
+accesos según el objetivo final de 
+los reportes (impresión, 
+publicación, almacenamiento). 
+Sensibilización por la 
+consecución de un medio 
+de recopilación  no 
+contaminado.  
+ 
+Adopción de medidas para 
+mantener la integridad y 
+consistencia de la 
+información.  
+ 
+ 
+ 
+ 
+Estrategias Metodológicas:  
+ Explicación previa en relación con los requerimientos de información de los diversos usuarios  
+para producir reportes empresariales.  
+ Realización de prácticas en grupos reducidos, en donde el estudiante clasifique herramientas 
+para el diseño de reportes teniendo como propósito seleccionar la más adecuada. 
+ Realización de proyecto basado en la creación de reportes empresariales apropiados, según 
+requerimientos del usuario, seguiendo parámetros establecidos.   
+ Realización de proyecto en el laboratorio de informática, en donde presente reportes que 
+cumplan con los requrimientos de informacion de una organización. 
+ Utilización del internet para publicar reportes en la web.  
+ 
+MÓDULO 7: DISEÑO DE PORTALES WEB Y RECURSOS MULTIMEDIA  
+ Nivel: 3 
+Código: MF_059_3 
+Duración: 270 horas   
+Asociado a la Unidad de Competencia: UC_059_3 Diseñar portales web y recursos multimedia haciendo 
+uso de herramientas informáticas de acuerdo con las necesidades presentadas por el cliente o negocio. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 40 
+ 
+RA7.1: Determinar las 
+herramientas de 
+desarrollo web  para el  
+diseño de la 
+aplicación, según 
+metodología definida 
+y requerimientos de la 
+institución. 
+CE7.1.1 Describir las necesidades del cliente, manejo y seguridad de la 
+información, actualización de los datos,  en base al diseño y al levantamiento 
+de la información. 
+CE7.1.2 Clasificar los objetivos para los que se está diseñando la página web, 
+imágenes y elementos que contendrá el diseño, según la naturaleza de la 
+organización o empresa.  
+CE7.1.3 Reconocer la capacidad de los equipos tecnológicos que servirán como 
+base para el manejo de las informaciones, según la magnitud de la 
+información. 
+CE7.1.4  Escoger las herramientas adecuadas para el diseño web, tales como 
+software y hardware, según requerimientos de los usuarios. 
+RA7.2: Elaborar 
+trabajos para medios 
+impresos, 
+audiovisuales y 
+digitales, según 
+criterios técnicos y 
+requerimientos de la 
+institución. 
+CE7.2.1 Reconocer y diseñar la apariencia de los elementos visuales o 
+impresos, tales como pantallas, documentos y formularios, de acuerdo con los 
+requerimientos establecidos. 
+CE7.2.2   En un caso práctico, identificar y diseñar las dimensiones de pantalla 
+e impresos, colores, márgenes y tipografía.  Además, realizar lo siguiente:  - Aplicar formato a la página. - Aplicar alineación al texto de una página. - Aplicar cambio de color. - Aplicar cambio de tamaño. - Utilizar tipos de letras.  - Aplicar fondo de color.  
+CE7.2.3 Modificar imágenes y animaciones adecuándolas a la utilidad para el 
+diseño, según la propuesta presentada. 
+CE7.2.4 En un caso práctico debidamente caracterizado, según la propuesta 
+presentada, realizar lo siguiente: - Inserción de imágenes: formatos y atributos.  - Incluir imágenes en las páginas. - Atributos de las imágenes. - Propiedades de ubicación de las imágenes. - Creación de un mapa con una imagen. - Establecer diferentes partes en la imagen. - Vincular las diferentes partes de la imagen. - Inserción de elementos multimedia: audio, video y programas.  - Recursos necesarios para el funcionamiento de los elementos 
+multimedia. - Etiquetas y propiedades para la inserción de audio. - Etiquetas y propiedades para la inserción de video. - Etiquetas y propiedades para la inserción de programas. - Configuración de los recursos para audio.  - Configuración de los recursos para video. 
+RA7.3: Jerarquizar y 
+diseñar la aplicación 
+web, para definir el 
+orden de inicio de la 
+aplicación, según los 
+requerimientos de la 
+institución. 
+CE7.3.1 Elaborar diagrama de navegación entre pantallas y accesos a las 
+mismas que permita el enlace entre los elementos de la web, según los 
+requerimientos del cliente. 
+CE7.3.2 Determinar la jerarquía de las ventanas del diseño, acceso, utilidades 
+e información. 
+CE7.3.3 En un caso práctico debidamente caracterizado, según prioridad 
+establecida o iniciación.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 41 
+ - Identificar la sintaxis a utilizar para asignar el estilo a las etiquetas.  - Probar las páginas utilizando varios navegadores web.  - Aplicar criterios de manejo y accesibilidad. - Documentar el fichero creado. - Accesibilidad web, ventajas de la accesibilidad. - Definición de accesibilidad. - Aplicabilidad de la accesibilidad. - Identificar las ventajas de la accesibilidad. - Facilidad de acceso. - Mejoras en la navegación. - Independencia de los navegadores - Importancia de la usabilidad.  - Definir usabilidad. - Interacción web-individuo. - Aplicabilidad de la usabilidad. - Recursos sobre usabilidad. - Aplicaciones para verificar la accesibilidad de sitios web (estándares). - Recursos web estándares. - Utilizar los recursos en las páginas web. - Comprobar la accesibilidad en las páginas web. - Diseñar sitios web usables.  - Describir sitios web usables. - Estudio de la estructura y diseño de los sitios web usables. - Adaptación de sitios web usables. - Utilizar sitios web usables. 
+CE7.3.4: Diseñar aplicaciones web, según los requerimientos de la institución. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+HTML y versiones. - DHTML.  - XML.  - XHTML.  - PHP.  - Java.  - JavaScript.  - Tecnología ASP. - Tecnologías de desarrollo de 
+Aplicaciones Web. - Caracteres especiales. 
+Identificación de las características 
+generales de programas de diseño 
+web. 
+Explicación de publicación y los 
+tipos.  
+Comparación de la característica de 
+la ventana trabajo de diseño. 
+Preparación de publicaciones a 
+partir de plantillas. 
+Aplicación de formato a publicación 
+y configuración de página. 
+Identificación de versiones, 
+editores y convertidores y 
+utilización de caracteres extendidos 
+en HTML y de control. 
+Valoración de la 
+importancia social del 
+software libre. 
+ 
+Toma de conciencia de las 
+implicaciones de licencias 
+y derechos de autor en el 
+uso de herramientas de 
+programación.  
+ 
+Valoración de los criterios 
+de calidad y seguridad en 
+la evaluación de 
+herramientas.  
+ 
+Valoración del efecto 
+negativo de un texto con 
+errores.  
+Estructura del documento. - Tags. - Enlaces.  - URLs. (Tipos). 
+Elaboración de la estructura básica 
+de una página web.  
+Utilización de tags y creación de 
+enlaces. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 42 
+ - Anclas (Tipos). - Listas.  - Imágenes. - Formato. - Formulario. - Controles avanzados para un 
+formulario. - Mapa.  - Tablas. - Videos. 
+Identificación tipos de URLs y 
+Anclas. 
+Identificación de tipos de listas y de 
+imágenes, alineación con respecto 
+al texto, aplicación de cambio de 
+color, tamaños, tipos de letras y 
+fondo de color e imagen. 
+Identificación de cajas de texto, 
+opciones. Además, utilización de 
+botones del formulario, otros 
+elementos. 
+Higiene y limpieza en la 
+entrega de los trabajos. 
+ 
+Rechazo al envío de 
+mensajes que no respeten 
+las normas ortográficas o 
+gramaticales. 
+ 
+Disposición e iniciativa 
+para la innovación y 
+aportación de ideas.  
+Sonidos y multimedia. - SWF. - Elementos multimedia. - Animación flash. - Formato de sonido.  - MP3, WAV, MIDI. 
+Manipulación de etiquetas, 
+elementos y desactivación de los 
+elementos. 
+Utilización de mapa, manipulación 
+de filas, celdas y título de la tabla. 
+Aplicación de recursos multimedia: 
+animaciones, sonido y video.  
+Identificación de ficheros externos, 
+multimedia online,  
+plugins y objetos incrustados. 
+ 
+Estrategias Metodológicas:  
+ Detección de conocimientos, capacidades y competencias sobre las herramientas de los 
+programas de aplicación para el diseño de páginas web.  
+ Realización de proyecto en el laboratorio de informática, en donde el estudiante elabore 
+páginas web, siguiendo parámetros establecidos. 
+ Visitas a empresa para realizar un levantamiento de información con el objetivo de diseñarle  
+página web.  
+ Utilización del internet, como herramienta de trabajo para la publicación de páginas web. 
+ Retroalimentación positiva en cada sección de clase.  
+ 
+MÓDULO 8: DESARROLLO E IMPLEMENTACIÓN DE SOLUCIONES WEB Y MULTIMEDIA  
+Nivel: 3 
+Código: MF_060_3 
+Duración: 360 horas.  
+ Asociado a la Unidad de Competencia: UC_060_3 Desarrollar e implementar soluciones web y recursos 
+multimedia haciendo uso de herramientas informáticas que respondan a las necesidades del cliente o 
+negocio. 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA8.1: Seleccionar e 
+instalar  herramientas 
+de desarrollo web para 
+facilitar el 
+funcionamiento de la 
+CE8.1.1 Seleccionar el lenguaje de programación web, de acuerdo a las 
+especificaciones del diseño. 
+CE8.1.2  Realizar pruebas de compatibilidad entre el sistema y el software, 
+según las indicaciones del desarrollador.  
+CE8.1.3 Instalar las aplicaciones necesarias (java, adds, plugins) para el 
+correcto funcionamiento de la aplicación, según las prescripciones del autor.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 43 
+ 
+aplicación, según 
+requerimientos. - Seleccionar varios navegadores. - Definir los entornos de prueba. - Identificar los parámetros a verificar. - Documentar los procesos realizados. 
+RA8.2: Desarrollar 
+aplicaciones web y 
+multimedia para 
+satisfacer las 
+necesidades del 
+cliente, según 
+requerimientos 
+establecidos. 
+CE8.2.1 Integra los elementos del diseño Web, consultas, búsquedas y  base 
+de datos, de acuerdo al diseño propuesto. 
+CE8.2.2  En un caso práctico, debidamente caracterizado, confirmar la 
+compatibilidad del diseño utilizando navegadores (Mozilla, Chrome, Explorer) 
+según requerimientos de los usuarios. Además, de: - Seleccionar los buscadores. - Incluir los descriptores en las páginas realizadas utilizando las etiquetas 
+apropiadas.  - Usar una aplicación de publicación automática para publicar las páginas 
+realizadas. - Publicar manualmente las páginas que no puedan publicarse con un 
+procedimiento automático. - Verificar periódicamente la funcionalidad de la página publicada. 
+CE8.2.3  Programar o configurar los elementos del sitio web, enlazando cada 
+uno según el diseño propuesto y los requerimientos del cliente.  
+CE8.2.4 En un caso práctico, verificar el funcionamiento de los componentes 
+añadidos al diseño, de acuerdo con las especificaciones del diseño y el 
+software utilizado. - Técnicas de verificación. - Verificar con base en criterios de calidad. - Verificar con base en criterios de usabilidad. - Herramientas de depuración para distintos navegadores. - Herramientas para Mozilla, Chrome, Internet Explorer, Opera y otros. - Creación y utilización de funciones de depuración. - Otras herramientas. - Navegadores: tipos y «plug-ins». - Descripción de complementos. - Complementos para imágenes. - Complementos para música. - Complementos para video. - Complementos para contenidos. - Máquinas virtuales. 
+RA8.3: Ejecutar las 
+soluciones web 
+propuestas según los 
+procedimientos 
+técnicos y de la 
+institución, para 
+cumplir con la etapa 
+final del desarrollo. 
+CE8.3.1  En un caso práctico, debidamente caracterizado, instalar en el 
+servidor el diseño web, según los criterios y determinaciones acordados entre 
+el cliente y el diseñador. - Establecer los requisitos de instalación y distribución de la aplicación. - Definir la estructura de directorios en el entorno servidor para ubicar los 
+documentos y componentes de software desarrollado en la aplicación 
+web. - Identificar los recursos afectados por el desarrollo realizado. - Indicar los servicios necesarios en el entorno servidor para poder 
+ejecutar la aplicación web. - Especificar los parámetros de configuración adecuados en el entorno del 
+servidor y cliente. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 44 
+ - Establecer los parámetros de seguridad de la aplicación web. - Crear y configurar los paquetes de instalación de manera adecuada. - Verificar el buen funcionamiento del proceso de instalación y 
+distribución. 
+CE8.3.2  Ejecutar el diseño web y realizar las pruebas de funcionamiento y 
+almacenamiento de la información en la base de datos, según los parámetros 
+establecidos. 
+CE8.3.3 Realizar entrenamiento o dar las instrucciones al personal competente 
+o usuario final del diseño para los fines de ejecución, de acuerdo con los 
+requerimientos de la institución. 
+RA8.4: Proponer 
+soluciones basadas en 
+las nuevas tecnologías  
+dentro del área de 
+desarrollo de 
+aplicaciones y 
+sistemas de 
+información. 
+CE8.4.1 Identificar las características en la gestión empresarial (meta, visión y 
+objetivos institucionales), así como las del área que requiere de una solución 
+informática para automatizar sus procesos. 
+CE8.4.2 Examinar los distintos medios de actualización tecnológica en el área 
+de desarrollo de aplicaciones y sistemas de información. En un caso práctico, 
+estos medios o fuentes pueden ser: - Manuales. - Búsquedas en Internet. - Participación en conferencia, charlas o talleres. - Entrevistas a otras organizaciones con experiencia. - Consultas a expertos. 
+CE8.4.3 Identificar o reconocer debilidades y amenazas en la implementación 
+tecnológica que requieren de la  solución informática. 
+CE8.4.4 Definir  nuevas tecnologías en función del tiempo dentro del área de 
+desarrollo de aplicaciones y sistemas de información aplicadas a la gestión 
+empresarial. 
+RA8.5: Proponer 
+mejoras o nuevas 
+soluciones basadas en 
+tendencias de usos de 
+la innovación 
+tecnológica,  
+adecuadas a la gestión 
+empresarial. 
+CE8.5.1 Demostrar conocimiento de participación en foros de intercambio de  
+temas sobre nuevas tecnologías, en el área de desarrollo de aplicaciones y 
+sistemas de información. 
+CE8.5.2 En un caso práctico, reproducir escenarios donde las nuevas 
+tecnologías en el área de desarrollo de aplicaciones y sistemas de información 
+ofrezcan mejora de los procesos de gestión empresarial. 
+CE8.5.3 Organizar la implementación de nuevas tecnologías en el área de 
+desarrollo de aplicaciones y sistemas de información. 
+RA8.6: Planear la 
+implementación de la 
+solución tecnológica  
+seleccionada para 
+mejorar la  gestión 
+empresarial. 
+CE8.6.1 Expresar en las reuniones de planificación la implementación de 
+nuevas soluciones tecnológicas seleccionadas. 
+CE8.6.2 Aplicar la tarea asignada en el cronograma de implementación  de la  
+solución tecnológica seleccionada. 
+CE8.6.3 Preparar reportes y minutas para informar a sus superiores del 
+avance de la implementación de la nueva solución tecnológica. 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Recursos de aplicación - Hojas de estilos. - Ficheros de configuración. - Imágenes. - Documentos. 
+Realización de políticas de 
+desarrollo y pruebas de 
+aplicaciones web (entorno de 
+desarrollo, entorno de pre
+Valoración de la 
+importancia social del 
+software libre. 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 45 
+ - Bibliotecas. 
+Componentes  - Librerías. - Seguridad web. - Niveles de seguridad.  
+producción o pruebas y entorno de 
+producción). 
+Organización de recursos en una 
+aplicación web y 
+programas (hojas de estilos, 
+ficheros de configuración, 
+imágenes, documentos, bibliotecas 
+de componentes (librerías), otros 
+archivos, seguridad en una 
+aplicación web y niveles de 
+seguridad).  
+Aplicación de estándares de 
+programación web. 
+Toma de conciencia de las 
+implicaciones de licencias y 
+derechos de autor en el uso 
+de herramientas de 
+programación.  
+ 
+Valoración del efecto 
+negativo de un texto con 
+errores.  
+ 
+Higiene y limpieza en la 
+entrega de los trabajos. 
+ 
+Disposición e iniciativa para 
+la innovación y aportación 
+de ideas. 
+Creatividad en las 
+aportaciones a la solución.  
+ 
+Interés por la producción 
+(exploración) de 
+soluciones técnicas ante 
+problemas que se 
+presenten y, también, 
+como elemento de mejora 
+del proceso.  
+ 
+Compromiso con los 
+plazos establecidos 
+(previstos) en la ejecución 
+de una tarea.  
+ 
+Resolución de problemas. 
+ 
+ 
+Dominios. - Jerarquía de dominios. - Servicios de identificación de 
+dominios: DNS. - Ámbitos: Intranet, Internet y 
+Extranet. Consideraciones de 
+seguridad.  - Cortafuegos. 
+Aplicación de técnicas de 
+identificación, autenticación y 
+autorización o control de acceso. 
+Identificación y autenticación 
+avanzada. Certificados digitales. 
+Realización de despliegue de 
+aplicaciones web. 
+Características del proceso de 
+despliegue. 
+Procedimientos empresariales y de 
+seguridad en la publicación de 
+páginas web.  
+Aplicación de herramientas de 
+transferencia y software específico 
+utilizado por la empresa para la 
+publicación de páginas web. 
+Documentación de los procesos de 
+acuerdo con los procedimientos de 
+la empresa. 
+Contexto histórico - Evolución de las TIC en las 
+últimas décadas. - Investigación para innovar. - Relación entre estrategia 
+empresarial y las TIC. 
+Gestión empresarial - Características y tipos. - Meta, visión, misión y objetivos 
+institucionales - Procesos. Institucionales. 
+Identificación de casos donde las 
+Tecnologías de la Información y la 
+Comunicación (TIC) fortalecieron 
+los servicios del negocio o 
+institución. 
+Innovación en un proceso producto 
+de la investigación. 
+Identificación de características y 
+tipos de gestión empresarial. 
+Diferencia entre meta, visión, 
+misión y objetivos institucionales. 
+Manipulación de los procesos 
+institucionales y sus requerimientos 
+de automatización. 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 46 
+ 
+Medios de actualización 
+tecnológica - Tipos. - Implementación de tecnología 
+de la  solución informática. 
+Propuesta de Nuevas Tecnologías - Proceso innovador en la 
+empresa actual. - Formulación de propuestas. 
+Aplicación de distintos medios de 
+actualización tecnológica en el área 
+de desarrollo de aplicaciones y 
+sistemas de información. 
+Distintos casos prácticos mostrando 
+las debilidades y amenazas 
+identificadas en la implementación 
+de nuevas tecnologías en la 
+informática. 
+Construcción y adaptación de los 
+procesos de innovación en la 
+empresa. 
+Establecimiento de la importancia 
+de la innovación para competir y 
+evolucionar. 
+Construcción y presentación de 
+métodos y procedimientos para la 
+formulación de propuestas. 
+Aplicaciones de gestión 
+administrativa - Procesos institucionales. - Sistemas de gestión 
+administrativa. - Portales de internet (CMS). - -Cloud Computing. - SaaS: Software como Servicio. - Aplicaciones Inteligencia de 
+Negocio. 
+ 
+ 
+ 
+ 
+Identificación y diferenciación de 
+los diferentes tipos de sistemas de 
+información para las empresas. 
+Realización de las aplicaciones de 
+gestión empresarial, entre ellos: - Procesos institucionales. - Sistemas de planificación de 
+recursos empresariales (ERP). - Sistemas de relación 
+administrativa del consumidor 
+o servicio al consumidor (CRM). - Gestión de las relaciones con 
+los proveedores (SRM). - Portales de internet (CMS). - Aplicaciones Inteligencia de 
+Negocio. 
+Identificación de las ventajas y 
+desventajas del Open Source, Cloud 
+Computing y SaaS (Software Como 
+Servicio). 
+Configuración de distintas 
+aplicaciones de gestión empresarial  
+y de apoyo a las TIC usadas para 
+fortalecer los servicios del negocio 
+o institución. 
+Aplicación de los distintos 
+escenarios de uso de las 
+aplicaciones de gestión 
+empresarial. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 47 
+ 
+Aplicación de la relación de las 
+herramientas con su entorno real 
+en forma concreta. 
+Estrategias Metodológicas:  
+ Detección de conocimientos, capacidades y competencias en relación con el desarrolla  e 
+implementación de soluciones web.  
+ Realización de prácticas en grupos reducidos, en la implementación de multimedias en 
+aplicaciones web.  
+ Visitas a empresa con la finalidad de plantear e implementar soluciones basadas en las nuevas 
+tecnologías  dentro del área de desarrollo de aplicaciones y sistemas de información.  
+ Retroalimentación positiva en cada sección de clase.  
+ 
+MÓDULO 9: FORMACIÓN EN CENTROS DE TRABAJO 
+Nivel: 3 
+Código: MF_061_3 
+Duración: 360 horas.  
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA9.1: Actuar de forma 
+responsable y 
+respetuosa en el 
+entorno de trabajo, 
+siguiendo las políticas y 
+normas de la empresa. 
+ 
+ 
+ 
+CE9.1.1 Analizar las repercusiones de su actividad en el sistema productivo y 
+en el centro de trabajo.  
+CE9.1.2 Interpretar y ejecutar con diligencia las instrucciones recibidas, 
+responsabilizándose del trabajo asignado y comunicándose eficazmente con 
+la persona adecuada en cada momento.  
+CE9.1.3 Organizar el propio trabajo de acuerdo con las instrucciones y 
+procedimientos establecidos, cumpliendo las tareas en orden de prioridad y 
+actuando bajo criterios de seguridad y calidad en las intervenciones.  
+CE9.1.4 Mantener área de trabajo con orden y limpieza, siguiendo normas de 
+higiene y seguridad en la empresa. 
+CE9.1.5 Cumplir con los requerimientos y normas de la empresa, 
+demostrando un buen hacer profesional y finalizando su trabajo en el tiempo 
+adecuado.  
+RA9.2: Participar a su 
+nivel en la creación de 
+bases de datos y en el 
+mantenimiento,  
+tomando en 
+consideración las 
+políticas establecidas 
+por la empresa. 
+CE9.2.1 Crear bases de datos, utilizando herramientas de tablas, índices, 
+funciones, procedimientos, siguiendo las especificaciones de diseño 
+recibidas, y documentar las actuaciones realizadas y los resultados 
+obtenidos.  
+CE9.2.2 Aplicar mantenimiento a la base de datos según los resultados de la 
+consulta (update, insert, delete, select). 
+CE9.2.3 Verificar el funcionamiento de la base de datos, tomando en 
+consideración las reglas de la empresa.  
+CE9.2.4 Interpretar la documentación técnica de la base de datos, 
+identificando sus características funcionales y la compatibilidad, siguiendo 
+políticas de la empresa.  
+CE9.2.5 Documentar el análisis de los resultados obtenidos de las pruebas 
+realizadas. Siguiendo las normas establecidas por la empresa. 
+CE9.2.6 Administrar las actividades de los datos para garantizar que los 
+usuarios trabajen en forma cooperativa y complementaria al procesar datos 
+en la base de datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 48 
+ 
+RA9.3: Participar a su 
+nivel en el 
+mantenimiento de 
+portales de 
+información, siguiendo 
+los procedimientos 
+establecidos.  
+ 
+ 
+CE9.3.1 Elaborar páginas web, utilizando herramientas editoras e integrando 
+textos, elementos gráficos, banners, elementos multimedia y scripts, 
+siguiendo las especificaciones de diseño recibidas y documentar las 
+actuaciones realizadas y los resultados obtenidos.  
+CE9.3.2 Comprobar que el funcionamiento de las aplicaciones de los sitios 
+móviles sea el correcto y que se ajustan a las guías de calidad establecidas 
+por la operadora, las actuaciones realizadas y los resultados obtenidos.  
+CE9.3.3 En el mantenimiento de portales de información, utilizando distintos 
+navegadores y versiones de los mismos:  - Verificar el funcionamiento de páginas web dinámicas, generadas a 
+partir de scripts de servidor en dichos navegadores.  - Interpretar la documentación técnica de los navegadores, 
+identificando sus características funcionales y la compatibilidad con los 
+scripts de servidor, además de los estándares soportados por cada 
+navegador.  
+CE9.3.4 Documentar el análisis de los resultados obtenidos de las pruebas 
+realizadas. 
+RA9.4: Realizar la 
+asistencia al usuario, 
+participando en la 
+resolución de los 
+problemas que se 
+presentan en la 
+operación de 
+aplicaciones ofimáticas, 
+siguiendo parámetros 
+de la empresa.  
+ 
+CE9.4.1 Interpretar guías de operación, repositorios y catálogos de averías de 
+un sistema informático. En la asistencia a un usuario final en la operación de 
+su equipo/sistema informático monousuario en el tiempo adecuado.  
+Realizar informe de la incidencia reportada siguiendo el protocolo de la 
+empresa.  
+CE9.4.2 Identificar el tipo de incidencia teniendo en cuenta las explicaciones 
+del usuario final y siguiendo el protocolo de comunicación interpersonal 
+establecido por la empresa.  
+CE9.4.3 Realizar la copia de seguridad de la información en caso necesario. 
+Identificar dónde se produce el fallo, mediante herramientas de diagnóstico. 
+Sustituir o reparar los componentes causantes del fallo de tipo hardware. 
+Reparar los componentes de la aplicación causantes del fallo de software.  
+CE9.4.4 Restaurar, si fuese necesario, las copias de seguridad de la 
+información. Realizar pruebas de funcionamiento.  
+CE9.4.5 Documentar las actuaciones realizadas y los resultados obtenidos, 
+tomando en consideración las políticas de la empresa. 
+RA9.5: Implementar y 
+ofrecer    soluciones 
+tecnológicas  requeridas 
+en la gestión 
+empresarial. 
+CE9.5.1 Aplicar la instalación e implementación de la herramienta 
+tecnológica seleccionada para la gestión de los procesos de negocio. 
+CE9.5.2 Reproducir escenarios donde las nuevas tecnologías en el área de 
+desarrollo de aplicaciones y sistemas de información ofrezcan mejora de los 
+procesos de gestión empresarial. 
+CE9.5.3 Configurar distintas aplicaciones de gestión empresarial  y de apoyo 
+a las TIC usadas para fortalecer los servicios del negocio o institución. 
+CE9.5.4 Elaborar documentación en los distintos procesos de copia de 
+seguridad realizados, para preservar la operación adecuada de las 
+herramientas tecnológicas implementadas para la gestión empresarial. 
+ 
+ 
+ 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 49 
+ 
+MODULOS COMUNES 
+ 
+MÓDULO: OFIMÁTICA  
+Nivel: 3 
+Código: MF_002_3 
+Duración: 135 horas.  
+ 
+Resultados de Aprendizaje Criterios de Evaluación 
+RA1: Comprobar el 
+funcionamiento del 
+equipo informático 
+garantizando su 
+operatividad, tomando en 
+cuenta los procedimientos 
+para facilitar el buen 
+funcionamiento del 
+equipo.  
+ 
+CE1.1 Describir el hardware del equipo informático indicando las funciones 
+básicas. 
+CE1.2 Explicar la diferencia entre software y hardware, tomando en cuenta 
+las características de cada uno. 
+CE1.3 Describir software, y distinguir entre software de sistema y software 
+de aplicación. 
+CE1.4 Utilizar las aplicaciones fundamentales proporcionadas por el 
+sistema operativo, y configurar las opciones básicas del entorno de 
+trabajo. 
+CE1.5 Distinguir los periféricos que forman parte del computador. 
+CE1.6 Realizar correctamente las tareas de conexión/desconexión y utilizar 
+correctamente los periféricos de uso frecuente. 
+CE1.7 Distinguir las partes de la interfaz de sistema operativo, así como su 
+utilidad. 
+CE1.8 En un caso práctico, suficientemente caracterizado, para el cual se 
+dispone de la documentación básica, manuales o archivos de ayuda 
+correspondientes al sistema operativo y el software ya instalado: - Poner en marcha el equipamiento informático disponible. - Mediante un examen del equipamiento informático, identificar, sus 
+funciones, el sistema operativo y los componentes de ese sistema 
+operativo. 
+CE1.9 Identificar las herramientas de los programas antivirus y 
+cortafuegos. 
+CE1.10. Explicar la distinción de las diferentes barras pertenecientes al 
+sistema operativo, con base en sus características. 
+CE1.11 Ante un supuesto práctico, debidamente caracterizado: - Utilizar las funciones del sistema operativo. - Manipular las herramientas del sistema operativo siguiendo como 
+parámetro el uso correcto. - Realizar las diferentes configuraciones de los periféricos del equipo 
+informático, atendiendo las características de sus funcionalidades. 
+RA2: Elaborar 
+documentos de uso 
+frecuente, utilizando 
+aplicaciones informáticas 
+de procesadores de 
+textos y/o de 
+autoedición, a fin de 
+entregar la información 
+requerida en los plazos y 
+CE2.1 Ante un supuesto práctico, debidamente caracterizado: - Organizar los elementos y espacios de trabajo. - Mantener la posición corporal correcta. - Identificar la posición correcta de los dedos en las filas del teclado 
+alfanumérico. - Precisar las funciones de puesta en marcha del terminal informático. - Emplear coordinadamente las líneas del teclado alfanumérico y las 
+teclas de signos y puntuación. - Utilizar el método de escritura al tacto en párrafos de dificultad 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 50 
+ 
+forma establecidos; 
+tomar en cuenta la 
+postura correcta.  
+ 
+progresiva y en tablas sencillas. - Controlar la velocidad —mínimo 200 p.p.m.— y la precisión —una 
+falta por minuto como máximo— con la ayuda de un programa 
+informático. - Aplicar las normas de presentación de los distintos documentos de 
+texto. - Localizar y corregir errores ortográficos. 
+CE2.2 Identificar las prestaciones, procedimientos y asistentes de los 
+procesadores de textos y de autoedición describiendo sus características y 
+utilidades.  
+CE2.3 Utilizar los asistentes y plantillas que contiene la aplicación; o, a 
+partir de documentos en blanco, generar plantillas de documentos como 
+informes, cartas, oficios, saludos, certificados, memorandos, 
+autorizaciones, avisos, circulares, comunicados, notas interiores, 
+solicitudes u otros. 
+CE2.4 Explicar la importancia de los efectos que causan un color y un 
+formato adecuados, a partir de distintos documentos y de los parámetros 
+o manual de estilo de una organización tipo, así como en relación con 
+criterios medioambientales definidos. 
+CE2.5 Ante un supuesto práctico debidamente determinado, elaborar 
+documentos usando las posibilidades que ofrece la herramienta ofimática 
+de procesador de textos. - Utilizar la aplicación y/o el entorno que permita y garantice la 
+integración de textos, tablas, gráficos e imágenes. - Utilizar las funciones, procedimientos y asistentes necesarios para la 
+elaboración de la documentación tipo requerida, así como, en su caso, 
+los manuales de ayuda disponibles. - Recuperar la información almacenada y utilizada con anterioridad —
+siempre que sea posible, necesario y aconsejable—, con objeto de 
+evitar errores de trascripción.  - Corregir las posibles inexactitudes cometidas al introducir y manipular 
+los datos con el sistema informático, comprobando el documento 
+creado manualmente o con la ayuda de alguna prestación de la propia 
+aplicación, como corrector ortográfico, buscar y reemplazar u otra.  - Aplicar las utilidades de formato al texto, de acuerdo con las 
+características del documento propuesto en cada caso.  - Insertar objetos en el texto, en el lugar y forma adecuados, utilizando 
+los asistentes o utilidades disponibles y logrando la agilidad de lectura.  
+CE2.6 Añadir encabezados, pies de página, numeración, saltos u otros 
+elementos de configuración de página en el lugar adecuado; y establecer 
+las distinciones precisas en primera página, secciones u otras partes del 
+documento. 
+CE2.7 Ante un supuesto práctico, debidamente determinado, personalizar 
+la herramienta del procesador de texto. - Cambiar las opciones de programa determinadas.  - Personalizar la cinta de opciones. - Personalizar la barra de herramientas de acceso rápido. - Crear métodos abreviados personalizados del teclado. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 51 
+ - Utilizar los diferentes cuadros de diálogos y las tareas de teclas de 
+función. 
+CE2.8 Utilizar las funciones, procedimientos y asistentes necesarios para la 
+combinación de correspondencia. 
+RA3: Manipular 
+elementos gráficos y 
+aplicar combinación de 
+correspondencia, 
+tomando en cuenta la 
+utilización de los 
+procesadores de textos, 
+siguiendo parámetros 
+establecidos.  
+CE3.1 Utilizar la aplicación y/o el entorno que permita y garantice la 
+integración de textos, tablas, gráficos e imágenes. 
+CE3.2 Insertar y modificar imágenes en la aplicación de formato a 
+documentos. 
+CE3.3 En un caso práctico debidamente caracterizado, elaborar 
+documentos, utilizando las siguientes herramientas. - Cambiar el fondo a un documento e insertar bloques de creación. - Añadir texto con la herramienta de arte procesador. - Insertar y modificar gráficos de arte inteligente, además de crear 
+diagramas con imágenes.  - Manipular información existente en gráficos para ser utilizada en 
+documentos.  - Agregar marcas de agua en un documento. - Insertar símbolos y ecuaciones matemáticas en un texto. - Dibujar y modificar diferentes tipos de formas, insertarlos en un 
+documento y agregar capturas de pantalla. -  Reorganizar el esquema de un documento. - Organizar objetos en la página y utilizar tablas para controlar el diseño 
+de la misma.  
+CE3.4 Manipular los datos eficazmente para la combinación de 
+correspondencia.  
+CE3.5  Combinar un modelo de carta con su origen de datos, de manera 
+que haga más fácil la tramitación y comunicación de documentos. 
+CE3.6 Enviar mensajes personalizados de correo electrónico a múltiples 
+destinatarios. 
+CE3.4 Crear e imprimir etiquetas, que se utilizan en un documento para el 
+envío de información. 
+CE3.5 En un supuesto práctico debidamente caracterizado, realizar las 
+siguientes prácticas con la ayuda de documentos. - Colaborar con otros autores en un documento. - Enviar documentos directamente desde el procesador de texto. - Añadir y revisar comentarios. - Controlar y gestionar cambios en el documento. - Comparar y combinar documentos. - Proteger documentos con contraseña. 
+RA4: Crear documentos 
+con el objetivo de 
+utilizarlos en otras 
+aplicaciones informáticas.  
+CE4.1 Guardar archivos en formatos diferentes. 
+CE4.2 Crear y modificar documentos Web, para utilizarlos en un 
+documento. 
+CE4.3  Crear y publicar entradas de blog, en la presentación de un texto. 
+CE4.4  En un caso práctico, siguiendo parámetros establecidos: - Agregar hipervínculos, en un documento. - Insertar campos en un texto. - Añadir marcadores y referencias cruzadas. - Crear y modificar tablas de contenidos para documentos largos. 
+- Crear y modificar índices en documentos extensos. - Añadir fuentes y compilar bibliografías.  
+RA5: Operar con hojas de 
+cálculo con habilidad, 
+utilizando las funciones 
+habituales 
+en 
+las 
+actividades que requieran 
+tabulación y tratamiento 
+aritmético-lógico 
+y/o 
+estadístico de datos e 
+información, así como su 
+presentación en gráficos. 
+RA6: Operar con las 
+herramientas de listas y 
+filtros, siguiendo como 
+parámetro las normas 
+establecidas, tomando en 
+CE5.1 Identificar las prestaciones, procedimientos y asistentes de la hoja 
+de cálculo, y describir sus características. 
+CE5.2 Describir las características de protección y seguridad en hojas de 
+cálculo, siguiendo parámetros establecidos. 
+CE5.3 En casos prácticos de confección de documentación administrativa, 
+científica y económica, a partir de medios y aplicaciones informáticas de 
+reconocido valor en el ámbito empresarial:  - Crear hojas de cálculo y agruparlas por el contenido de sus datos en 
+libros convenientemente identificados, localizados y con el formato 
+preciso para la utilización del documento. - Aplicar el formato preciso a los datos y celdas de acuerdo con el tipo 
+de información que contienen, facilitando su tratamiento posterior. - Aplicar fórmulas y funciones sobre las celdas o rangos de celdas, 
+nombrados o no, de acuerdo con los resultados buscados, 
+comprobando su funcionamiento y el resultado que se prevé.  - Utilizar títulos representativos, encabezados, pies de página y otros 
+aspectos de configuración del documento en las hojas de cálculo, de 
+acuerdo con las necesidades de la actividad que se va a desarrollar o 
+al documento que se va a presentar.  - Imprimir hojas de cálculo con la calidad, presentación de la 
+información y copias requeridas. 
+CE5.4 Elaborar plantillas con la hoja de cálculo, de acuerdo con la 
+información facilitada.  
+CE5.5 Elaborar gráficos estándar y/o dinámicos, a partir de rangos de celdas 
+de la hoja de cálculo, optando por el tipo que permita la mejor 
+comprensión de la información y de acuerdo con la actividad por 
+desarrollar, a través de los asistentes disponibles en la aplicación.  
+CE5.6  En un supuesto práctico debidamente caracterizado: - Filtrar datos a partir de la tabla elaborada en la hoja de cálculo. - Aplicar los criterios de protección, seguridad y acceso a la hoja de 
+cálculo. - Elaborar y ajustar diagramas en documentos y utilizar con eficacia 
+todas aquellas prestaciones que permita la aplicación de la hoja de 
+cálculo.  - Importar y/o exportar datos a las aplicaciones de procesamiento de 
+texto, bases de datos y presentaciones.  
+CE5.7 Aplicar las funciones y utilidades de movimiento, copia o eliminación 
+de ficheros que garanticen las normas de seguridad, integridad y 
+confidencialidad de los datos. 
+CE5.8 Utilizar los manuales o la ayuda disponible en la aplicación, en la 
+resolución de incidencias o dudas planteadas. 
+CE6.1  En un supuesto práctico debidamente caracterizado: - Activar el autofiltro. - Utilizar autofiltro para filtrar una lista. - Eliminar criterios del autofiltro. - Crear un autofiltro personalizado; desactivar el autofiltro. 
+Página 52 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 53 
+ 
+cuenta la aplicación que 
+se requiere.  
+CE6.2 Manipular autofiltro para filtrar una lista. 
+CE6.3 Utilizar datos externos de tablas y las opciones de estilo de tablas, a 
+través de los asistentes disponibles en la aplicación.  
+CE6.4 Manipular filtros avanzados y crear un rango de criterios. Utilizar 
+rango de criterios de comparación, condición avanzada; y extraer registros 
+filtrados, garantizando la calidad y seguridad de los datos. 
+CE6.5 Utilizar los diferentes tipos de funciones, búsquedas y referencias 
+matemáticas y trigonométricas.       
+CE6.6 Crear y revisar las tablas y gráficos dinámicos siguiendo parámetros 
+establecidos.      
+RA7: Elaborar 
+presentaciones de forma 
+eficaz, utilizando 
+aplicaciones informáticas 
+e integrando objetos de 
+distinta naturaleza, 
+además de utilizar 
+multimedia, tomando en 
+consideración parámetros 
+establecidos. 
+CE7.1 Explicar la importancia de la presentación de un documento para la 
+imagen que transmite la entidad, consiguiendo que la información se 
+muestre de forma clara y persuasiva, a partir de distintas exposiciones de 
+carácter profesional de organizaciones tipo. 
+CE7.2 Advertir sobre la necesidad de guardar las presentaciones según los 
+criterios de organización de archivos marcados por la empresa, facilitando 
+el cumplimiento de las normas de seguridad, integridad y confidencialidad 
+de los datos. 
+CE7.3 Señalar la importancia que tiene la comprobación de los resultados 
+y la subsanación de errores, antes de poner a disposición de las personas o 
+entidades a quienes se destina la presentación, así como el respeto de los 
+plazos previstos en la forma establecida de entrega. 
+CE7.4 Identificar las prestaciones, procedimientos y asistentes de un 
+programa de presentaciones gráficas; y describir sus características.  
+CE7.5 En casos prácticos, debidamente caracterizados, en los que se 
+requiere elaboración y presentación de documentación de acuerdo con 
+unos estándares de calidad tipo: - Aplicar el formato más adecuado a cada tipo de información para su 
+presentación final. - Utilizar los medios de presentación de la documentación más 
+adecuados a cada caso —sobre el monitor, en red, con diapositivas, 
+animada con ordenador y sistema de proyección, en papel, 
+transparencia u otros soportes—. - Utilizar, de forma integrada y conveniente, gráficos, textos y otros 
+objetos, consiguiendo una presentación correcta y adecuada a la 
+naturaleza del documento. 
+CE7.6 Utilizar los manuales o ayudas disponibles en la aplicación en la 
+resolución de incidencias o dudas planteadas. 
+CE7.7 A partir de información suficientemente caracterizada, y de acuerdo 
+con unos parámetros facilitados para su presentación en soporte digital: - Insertar la información proporcionada en la presentación. - Animar los distintos objetos de la presentación de acuerdo con los 
+parámetros facilitados y utilizando los asistentes disponibles.  - Temporalizar la aparición de los distintos elementos y diapositivas de 
+acuerdo con el tiempo asignado a cada uno de ellos, utilizando los 
+asistentes disponibles.  - Asegurar la calidad de la presentación, ensayando y corrigiendo los 
+defectos detectados y proponiendo los elementos o parámetros de 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 54 
+ 
+mejora. - Guardar las presentaciones en los formatos adecuados, preparadas 
+para su fácil utilización y protegidas de modificaciones no deseadas. 
+CE7.8 Insertar sonidos, videoclips, tablas y conectores, tomando en cuenta 
+parámetros establecidos.   
+CE7.9 Elaborar diferentes tipos de notas del orador; y agregar comentarios 
+y animaciones de diapositivas y de objetos, de una manera eficaz. 
+CE7.10 Utilizar transiciones y muestras personalizadas; crear videos y 
+configurar presentaciones, de manera que puedan ser utilizados como 
+medios de comunicación en las exposiciones. 
+RA8: Aplicar las 
+herramientas de 
+búsqueda, recuperación y 
+organización de la 
+información en el sistema 
+y en la red —intranet o 
+Internet— de forma 
+precisa y eficiente, 
+atendiendo a las 
+especificaciones técnicas 
+recibidas. 
+CE8.1 Distinguir entre un navegador y un buscador de red —Internet y/o 
+intranet—, relacionando sus utilidades y características.  
+CE8.2 Identificar los distintos riesgos y niveles de seguridad de un 
+navegador de Internet describiendo sus características. 
+CE8.3 Identificar los diferentes tipos de buscadores y metabuscadores, y 
+comprobar sus ventajas e inconvenientes. 
+CE8.4 Explicar las características básicas de la normativa vigente reguladora 
+de los derechos de autor. 
+CE8.5  Ante un supuesto práctico en el que se proporcionan las pautas para 
+la organización de la información, y utilizando las herramientas de 
+búsqueda del sistema operativo: - Identificar las utilidades disponibles en el sistema, adecuadas a cada 
+operación que se va a realizar. - Crear los distintos archivos o carpetas de acuerdo con las indicaciones 
+recibidas. - Nombrar o renombrar los archivos o carpetas según las indicaciones. - Crear los accesos directos necesarios a aquellas carpetas o archivos 
+que serán de uso habitual según las indicaciones recibidas. 
+CE8.6 Ante un supuesto práctico en el que se enumeren las necesidades de 
+información de una organización o departamento tipo: - Identificar el tipo de información requerida en el supuesto práctico.  - Identificar y localizar las fuentes de información —intranet o 
+Internet— adecuadas al tipo de información requerida. - Realizar las búsquedas aplicando los criterios adecuados de 
+restricción.  - Obtener y recuperar la información de acuerdo con el objetivo de la 
+misma. - Identificar, si fuera necesario, los derechos de autor de la información 
+obtenida. - Registrar y guardar la información utilizada en los formatos y 
+ubicaciones requeridos por el tipo y uso de la información. - Organizar las fuentes de información desde Internet para una rápida 
+localización posterior y su reutilización en los soportes disponibles: 
+favoritos, historial y vínculos.  - Aplicar las funciones y utilidades de movimiento, copia o eliminación 
+de la información, que garanticen las normas de seguridad, integridad 
+y confidencialidad de los datos. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 55 
+ 
+RA9: Utilizar aplicaciones 
+de correo electrónico con 
+el propósito de 
+comunicarse de una 
+manera eficaz, siguiendo 
+procedimientos y 
+normativa establecidos. 
+CE9.1 Identificar las prestaciones, procedimientos y asistentes de las 
+aplicaciones de correo electrónico y de agendas electrónicas; y distinguir 
+su utilidad en los procesos de recepción, emisión y registro de información. 
+CE9.2 Explicar la importancia de respetar las normas de seguridad y 
+protección de datos en la gestión del correo electrónico; y describir las 
+consecuencias de la infección del sistema mediante virus, gusanos u otros 
+elementos. 
+CE9.3 Organizar y actualizar la libreta de contactos de correo y agenda 
+electrónica mediante las utilidades de la aplicación y a partir de las 
+direcciones de correo electrónico usadas en el aula.  
+CE9.4 En un supuesto práctico, en el que se incluirán los procedimientos 
+internos de emisión-recepción de correspondencia e información de una 
+organización: - Abrir la aplicación de correo electrónico. - Identificar el o los emisores o emisoras y el contenido en la recepción 
+de correspondencia.  - Comprobar la entrega del mensaje en la recepción de 
+correspondencia.  - Insertar el o los destinatarios o destinatarias y el contenido, 
+asegurando su identificación en la emisión de correspondencia.  - Leer y/o redactar el mensaje de acuerdo con la información que se 
+quiere transmitir.  - Adjuntar los archivos requeridos de acuerdo con el procedimiento 
+establecido por la aplicación de correo electrónico.  - Distribuir la información a todos los implicados, asegurando la 
+recepción de la misma.  
+CE9.5 Ante un supuesto práctico, en el que se incluirán los procedimientos 
+internos y normas de registro de correspondencia de una organización 
+tipo: - Registrar la entrada y salida de toda la información, cumpliendo las 
+normas y procedimientos que se proponen. - Utilizar las prestaciones de las diferentes opciones de carpeta que 
+ofrece el correo electrónico. - Imprimir y archivar los mensajes de correo, de acuerdo con las 
+normas facilitadas de economía y de impacto medioambiental.  - Guardar la correspondencia de acuerdo con las instrucciones de 
+clasificación recibidas. - Aplicar las funciones y utilidades de movimiento, copia o eliminación 
+de la aplicación que garanticen las normas de seguridad, integridad y 
+confidencialidad de los datos. 
+CE9.6 Utilizar los manuales de ayuda, disponibles en la aplicación, en la 
+resolución de incidencias o dudas planteadas. 
+ 
+ 
+MÓDULO: EMPRENDIMIENTO 
+Nivel: 3 
+Código: MF_004_3 
+Duración: 120 horas 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 56 
+ 
+ 
+Resultados de 
+Aprendizaje 
+Criterios de Evaluación 
+RA1: Analizar las 
+capacidades 
+relacionadas con la 
+iniciativa 
+emprendedora, 
+tomando en cuenta los 
+requerimientos 
+derivados del mundo 
+laboral y de las 
+actividades 
+empresariales. 
+ 
+CE1.1 Identificar los factores necesarios para desarrollar una actividad 
+empresarial.  
+CE1.2 Explicar las principales habilidades humanas, sociales, técnicas y 
+directivas que debe tener el perfil de emprendedor o emprendedora.  
+CE1.3 Analizar la cultura emprendedora como alternativa de creación de 
+empleo y bienestar social.  
+CE1.4 Relacionar la importancia de la iniciativa, la creatividad y la buena 
+actitud en el desempeño laboral o empresarial.   
+CE1.5 Valorar la actitud positiva ante el riesgo de un emprendimiento. 
+CE1.6 Explicar las variables de un pequeño negocio o microempresa exitoso.  
+CE1.7 A partir de un supuesto práctico, en el que se necesita representar el 
+futuro en diferentes ámbitos de la vida productiva: - Identificar cualidades y habilidades emprendedoras propias. - Relacionar las ventajas y desventajas de ser empleado(a) y ser 
+empresario(a).  - Trazar un plan de vida, revelando creatividad, iniciativa y espíritu 
+emprendedor al valorar sus aspiraciones futuras en la búsqueda de 
+empleo o en el autoempleo.  - Explicar los factores que contribuyen a favorecer la iniciativa 
+emprendedora de los y las jóvenes. - Analizar las perspectivas futuras del sector productivo referente a 
+micro y pequeña empresa. - Puntualizar las condiciones que requiere la implementación de un 
+pequeño negocio o microempresa. 
+RA2: Determinar una 
+idea de negocio y su 
+viabilidad, la cual servirá 
+como punto de apoyo 
+para el plan de empresa, 
+y evaluar el impacto 
+sobre el entorno de 
+actuación, a partir de 
+valores éticos. 
+ 
+CE2.1 Explicar cómo surgen las ideas de negocio. 
+CE2.2 Reconocer ideas innovadoras de iniciativas empresariales de pequeño 
+negocio o microempresa en el entorno profesional y socio productivo. 
+CE2.3 Indicar técnicas para la selección de ideas de negocio. 
+CE2.4 Explicar la responsabilidad social de la empresa y su importancia como 
+estrategia de negocio. 
+CE2.5 En un supuesto práctico, donde se implementa una idea viable de 
+negocio:  - Aplicar técnicas para seleccionar la idea del negocio. - Definir la viabilidad de la idea. - Detallar las características de la idea del negocio, sus expectativas, 
+actividad económica, producto o servicio, costo de operaciones, 
+objetivos, valores, visión y misión. - Investigar información básica de mercado: el producto o servicio, 
+precio, promoción, plaza, clientes, competencia, proveedores, 
+entorno.  - Reconocer instituciones que apoyan el desarrollo de 
+emprendimientos.  - Clasificar los recursos básicos de inversión inicial que se entiendan 
+necesarios para la implantación de la idea, así como las fuentes de 
+financiamiento más convenientes, a partir de los cálculos e 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 57 
+ 
+información disponible.  - Ordenar la información y presentarla mediante el uso de las 
+aplicaciones informáticas.  - Escoger el formato de plan de empresa e incluir datos recogidos. 
+RA3: Realizar el plan de 
+mercadeo que impulse 
+los objetivos 
+comerciales y el 
+desarrollo óptimo del 
+pequeño negocio o 
+microempresa. 
+CE3.1 Explicar los fundamentos del marketing. 
+CE3.2 Reconocer la importancia de la estrategia de marketing. 
+CE3.3 Relacionar los elementos del mercado. 
+CE3.4 En un caso práctico en el que se necesita precisar la estrategia de 
+comercialización del pequeño negocio o microempresa: - Elegir la estructura del plan de marketing.  - Definir objetivos, misión y visión del plan. - Describir de manera detallada el producto o servicio a comercializar. - Identificar los posibles clientes a quien va dirigido el producto y/o 
+servicio. - Identificar los proveedores. - Indagar sobre los competidores, sus fortalezas y debilidades. - Expresar las ventajas competitivas, fortalezas y debilidades del 
+pequeño negocio.  - Establecer estrategias de marketing para: 
+o Presentación el producto y/o servicio ofertado. 
+o Fijación de precios.   
+o Fidelización de clientes.  
+o Comunicación que especifique los canales de distribución del 
+producto y/o servicio (cómo, cuándo, en qué tiempo y condiciones).  
+o Organizar la información y colocarla en el plan de la empresa. 
+RA4: Determinar la 
+estructura de 
+organización del 
+pequeño negocio o 
+microempresa, de 
+acuerdo con los 
+objetivos planteados. 
+CE4.1 Explicar los diferentes aspectos de la estructura organizativa de un 
+pequeño negocio o microempresa: organigrama, manual de funciones, 
+descripción de puestos, controles internos. 
+CE4.2 Definir el proceso de selección y contratación de personal. 
+CE4.3 Indicar las obligaciones laborales según la legislación vigente. 
+CE4.4 En un supuesto práctico debidamente orientado a las decisiones de 
+organización del pequeño negocio o microempresa: - Determinar la estructura organizativa, fijando las áreas funcionales y 
+actividades que se derivan de cada puesto, conforme a los objetivos 
+previstos.  - Representar la estructura en el organigrama, y enumerar la cantidad 
+de personal en cada departamento. - Especificar los recursos humanos necesarios, según la estructura 
+organizativa y las funciones por desarrollar en cada puesto.  - Determinar la forma de contratación de personal más idónea en 
+función de los objetivos previstos y optimización de recursos. - Especificar la logística de compra, ventas y atención al cliente. - Definir las políticas de higiene, calidad y seguridad que se van a 
+implementar en función del producto o servicio que se ofrece. - Idear la ubicación y el espacio físico adecuados a los objetivos y al 
+presupuesto disponible.  - Definir la logística necesaria para el alquiler de espacio físico. - Establecer la distribución del espacio físico conforme al tipo y 
+naturaleza del negocio. - - 
+RA5: 
+Realizar 
+actividades de gestión 
+administrativa 
+y 
+financiera, básicas para 
+poner en marcha un 
+pequeño negocio o 
+microempresa, 
+delimitando 
+las 
+principales obligaciones 
+laborales, contables y 
+fiscales, de acuerdo con 
+la legislación vigente. 
+Detallar el estilo de decoración del local, utilizando los elementos de 
+lugar, según la idea y los recursos disponibles para generar ambiente 
+agradable y crear identidad institucional. 
+Realizar la documentación de los procesos realizados e incluir en el 
+plan de empresa. 
+CE5.1 Identificar las obligaciones laborales, contables, fiscales y los 
+impuestos que se derivan de la actividad empresarial. 
+CE5.2 Reconocer la legislación mercantil que regula los documentos de pago 
+y los requisitos que debe cumplir la documentación e impresos (cheques, 
+pagarés, etc.) en las operaciones mercantiles.  
+CE5.3 Relacionar conceptos básicos de contabilidad, técnicas de registro de 
+la información contable y elementos patrimoniales necesarios para el 
+desarrollo de la actividad de pequeños negocios o microempresas. 
+CE5.4 Precisar las diferencias entre inversión, gasto y pago, y entre ingreso y 
+cobro. 
+CE5.5 Identificar las fuentes y formas más habituales de financiamiento. 
+CE5.6 Explicar el costo de inversión y de producción en la planificación 
+económica para inicio del pequeño negocio. 
+CE5.7 En un supuesto práctico en el que se pretende definir el proceso de 
+gestión administrativa y financiera de un pequeño negocio o microempresa: - Preparar un archivo documental y guardar todo documento (entradas y 
+salidas), aplicando técnicas de archivo y organización de documentos.  - Decidir el medio de pago que se va a utilizar, según la legislación 
+vigente. - Aplicar los procedimientos para tramitar la solicitud de un préstamo. - Identificar el proceso de gestión para el registro de altas y bajas 
+laborales de empleados(as) en la Tesorería de la Seguridad Social y en 
+el Ministerio de Trabajo. - Utilizar correctamente formularios para liquidaciones sencillas de 
+impuestos, aplicando la legislación vigente.  -      
+Elaborar la documentación e incluir en el plan de empresas.  
+CE5.8 A partir de un supuesto práctico, en el que se pretende caracterizar la 
+planificación económico-financiera del pequeño negocio o microempresa:  - 
+Identificar las necesidades básicas de pre inversión e inversión inicial 
+de operaciones, especificando las fuentes de financiamiento.  - - - - - 
+RA6: 
+Precisar 
+los 
+procedimientos para la 
+Establecer la composición del patrimonio inicial.  
+Determinar el costo de producción.  
+Plantear el formato adecuado para los documentos básicos 
+comerciales y contables —pedidos, recibos y facturas, libro diario, 
+libro de banco, libro de inventario—, especificando el flujo de procesos 
+de dicha documentación; y realizar las cotizaciones correspondientes 
+para su impresión. 
+Preparar el presupuesto especificando el flujo de ingresos y gastos 
+mensuales, ventas, beneficios o resultados y balance general. 
+Realizar la documentación e incluir en el plan de empresa. 
+CE6.1 Definir las distintas formas de incursionar en la actividad empresarial. 
+CE6.2 Relacionar las diferentes formas jurídicas de la empresa; e identificar, 
+Página 58 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 59 
+ 
+constitución legal del 
+pequeño negocio o 
+microempresa, de 
+acuerdo con la 
+legislación vigente. 
+ 
+en cada caso, el grado de responsabilidad, ventajas, desventajas y los 
+requisitos legales para su constitución. 
+CE6.3 Puntualizar los trámites exigidos por la legislación vigente para la 
+constitución y establecimiento de un pequeño negocio o microempresa, 
+especificando los documentos requeridos, los organismos en los que se 
+tramitan, el costo, la forma y el plazo requeridos. 
+CE6.4 A partir de un supuesto práctico en el que se requiere la constitución 
+legal del pequeño negocio o microempresa de acuerdo con la legislación 
+vigente: - Describir la actividad económica y objetivos de la empresa. - Decidir el nombre comercial y la forma jurídica conforme a la 
+naturaleza del negocio y objetivos. - Identificar las vías de asesoría externa existente. - Determinar la imagen corporativa.  - Redactar correctamente los documentos constitutivos requeridos: 
+estatutos, acta de asamblea, determinación de aportes, lista de 
+suscriptores, etc. - Esquematizar detalladamente el proceso de trámites legales para la 
+constitución, especificando costo, duración de cada uno e institución 
+responsable. - Establecer las obligaciones contables, detallando la información 
+requerida, la vía, el plazo y las instituciones competentes para 
+formalizarlo. - Realizar la documentación de los procesos realizados e incluir en plan 
+de empresa. 
+RA7: Presentar el 
+proyecto utilizando 
+eficazmente las 
+competencias, técnicas 
+y personales, adquiridas 
+durante la realización 
+del proyecto de 
+aprendizaje en el 
+módulo formativo. 
+CE7.1 Formalizar el documento memoria del proyecto.  
+CE7.2 Preparar una presentación del mismo en una feria, con el uso de 
+medios tecnológicos. 
+CE7.3 Exponer el proyecto, destacando sus objetivos y principales 
+contenidos, y justificando la elección de las diferentes propuestas de acción 
+contenidas en el mismo.  
+CE7.4 Utilizar un estilo de comunicación adecuado en la exposición, haciendo 
+que esta sea organizada, clara, amena y eficaz.  
+CE7.5 Realizar la defensa adecuada del proyecto durante la exposición, 
+respondiendo razonadamente a posibles preguntas relativas al mismo, 
+planteadas por el equipo evaluador.  
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+Iniciativa emprendedora  - Cultura emprendedora y 
+empleo. - Generalidades. Importancia. - Perspectivas futuras.  - Cultura emprendedora como 
+necesidad social.  
+Emprendedor(a) - Tipos. Cualidades.  
+Relación cultura emprendedora 
+y empleo.  
+Identificación de las cualidades, 
+perfil y factores estimulantes del 
+espíritu emprendedor.  
+Análisis del alcance personal, 
+familiar y social de los 
+emprendimientos. 
+Análisis de las perspectivas 
+Valoración del carácter 
+emprendedor y la ética del 
+emprendimiento.  
+ 
+Valoración de la iniciativa, 
+creatividad y 
+responsabilidad como 
+motores del 
+emprendimiento.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 60 
+ - Factores estimulantes. - Perfil.  - Colaboración entre 
+emprendedores y 
+emprendedoras.  
+Emprendimiento  - Tipos. - Importancia. - ¿Cómo nace un 
+emprendimiento?  - El éxito de un emprendimiento. - Ventajas y desventajas. - Emprendimiento e innovación. - Riesgo y emprendimiento. 
+Empresario(a)  - Tipos. - Ventajas y desventajas.  - Función.  - Cualidades. - Actuación de emprendedores(as) 
+como empleados(as) de una 
+empresa. 
+Factores para tomar en cuenta al 
+emprender 
+futuras de los emprendimientos 
+en la Rep. Dom. Definición del 
+plan de vida.  
+Evaluación del riesgo en la 
+actividad emprendedora.  
+Análisis de los factores clave del 
+éxito de un emprendimiento.  
+Análisis de los principales 
+aportes de la innovación en la 
+actividad del sector relacionado 
+con el título: materiales, 
+tecnología, organización del 
+proceso, etc. 
+ 
+Valoración de la actitud 
+emprendedora y la ética en 
+la actividad productiva. 
+Disposición al trabajo en 
+equipo.  
+ 
+Reconocimiento y 
+valoración social de la 
+empresa. 
+Valoración de la ética 
+empresarial.  
+ 
+Rigor en la evaluación de la 
+viabilidad técnica y 
+económica del proyecto. 
+ 
+Disposición a la sociabilidad 
+y el trabajo en equipo. 
+ 
+Respeto a las normas y 
+procedimientos. 
+Valoración de la ética en el 
+manejo de la información. 
+Pensamiento analítico y 
+crítico en la interpretación 
+de los datos obtenidos.  
+Autoconfianza en la 
+realización del trabajo de 
+campo.  
+Creatividad y autoconfianza 
+en la presentación del plan. 
+ 
+Valoración de la formalidad 
+en la organización.  
+ 
+Respeto por la igualdad de 
+género. 
+ 
+Valoración de las 
+disposiciones legales en 
+relación a las políticas de 
+personal. 
+Objetivo, en la toma de 
+Ideas empresariales, el entorno y su 
+desarrollo  - Concepto de idea de negocio. - Fuentes. - Características de una buena 
+idea de negocio. - La idea de negocio en el ámbito 
+del perfil profesional.  - La idea de negocio en el ámbito 
+del entorno social y familiar. - Técnicas para la selección de 
+ideas de negocio. 
+Oportunidades de negocio - Fuentes. - Criterios de selección.  - La innovación como fuente de 
+oportunidad.  
+La empresa y su entorno - Concepto jurídico y económico - Tipos. Clasificación. - Áreas funcionales. - Responsabilidad social 
+empresarial. - El entorno.  
+Identificación de ideas de 
+negocio en la actividad 
+económica asociada:  - A la familia profesional 
+del título.  - Al ámbito local. 
+Aplicación de herramientas para 
+la determinación de la idea de 
+negocio.  
+Búsqueda de datos de empresas 
+del sector por medio de Internet. 
+Identificación de fortalezas, 
+debilidades, amenazas y 
+oportunidades de la idea 
+seleccionada. 
+Realización de ejercicios de 
+innovación sobre la idea 
+determinada. 
+Realización del estudio de 
+viabilidad de la idea de negocio:  - Selección de fuentes de 
+información.    - Diseño de formatos para 
+la recolección de datos.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 61 
+ 
+Viabilidad de idea de negocio - Importancia. - Criterios.  - Aspectos fundamentales. 
+Análisis FODA - Importancia. 
+El plan de empresa - Importancia. - Aspectos relevantes. - Recomendaciones básicas para 
+escribir y presentar un buen plan 
+de empresa. 
+Definición de la estructura del 
+estudio. 
+Interpretación de la información 
+recogida en el estudio de 
+mercado y definición del modelo 
+de negocio que se va a 
+desarrollar. 
+Identificación de instituciones 
+que apoyan el desarrollo de 
+emprendimientos. 
+Identificación de los recursos 
+básicos de inversión inicial 
+necesarios para la implantación 
+de la idea, así como las fuentes 
+de financiamiento más 
+convenientes. 
+Presentación del plan de 
+viabilidad utilizando 
+herramientas ofimáticas.  
+Diseño del formato para el plan 
+de empresa. 
+Establecimiento del modelo de 
+negocio partiendo de las 
+conclusiones del estudio de 
+mercado. 
+Iniciar la redacción del plan de 
+empresa, definiendo los datos 
+generales: actividad, ubicación, 
+misión, visión, objetivos, valores. 
+decisiones administrativas. 
+Orientado a resultados 
+Valoración de la 
+organización y orden en 
+relación con la 
+documentación 
+administrativa generada. 
+Respeto por el 
+cumplimiento de los 
+trámites administrativos y 
+legales. 
+Valoración de la 
+responsabilidad social y la 
+ética empresarial. 
+Valoración de la 
+asociatividad para el 
+desarrollo de la empresa. 
+Respeto por el 
+cumplimiento de los 
+trámites administrativos y 
+legales. 
+Seguridad en sí mismo(a) en 
+el contacto con la audiencia. 
+Valoración por la 
+organización y limpieza del 
+entorno. 
+Creatividad máxima en la 
+organización de los espacios 
+para la feria. 
+Dinámico y extrovertido en 
+su afán por convencer sobre 
+el proyecto en la 
+celebración de la feria. 
+Plan de comercialización  - Investigación de mercados. 
+ Objetivos. 
+ Importancia. 
+ Fases.  
+ El mercadeo y la 
+competencia.  
+ Clasificación del mercado.        
+ El consumidor. 
+El mercadeo y las ventas - El producto.  - Características - Ciclo de vida  
+Publicidad - Estrategia comercial - Políticas de ventas. 
+El plan de marketing - Funciones. - Importancia. 
+Diseñar el esquema del estudio 
+de mercado. 
+Determinación y aplicación de 
+las estrategias de 
+comercialización del pequeño 
+negocio o microempresa:  - Definición de misión, 
+visión y objetivos de la 
+estrategia.  - Definición detallada del 
+producto o servicio.  
+Identificación de los posibles 
+clientes, los proveedores, la 
+competencia. 
+Definición de políticas de precio 
+y distribución. 
+Estrategias de publicidad. 
+Identificación de fortalezas, 
+debilidades, amenazas y 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 62 
+ - Elementos. oportunidades. 
+Determinación del costo de la 
+estrategia comercial. 
+Determinación del valor 
+agregado e innovación que se 
+debe incluir en el modelo de 
+negocio. 
+Diseño del catálogo de 
+productos. 
+Presentación del plan. 
+Aspectos organizacionales 
+La organización. 
+Estructura. 
+Políticas. 
+El personal  - Funciones. - Selección. - Perfiles de puestos. - Políticas de incentivo y 
+motivación. - Aspectos legales en la 
+contratación de personal.    
+Decisiones organizacionales:  - Imagen corporativa: nombre 
+comercial, logo, marca, 
+eslogan.  - Diseño de estructura 
+organizativa. - Descripción de puestos y 
+manual de funciones. - Determinación de la forma de 
+selección del personal. - Políticas organizacionales.  - Delimitación del espacio 
+físico, determinación de la 
+ubicación, fachada, ambiente 
+y decoración, equipamiento y 
+mobiliario necesario para el 
+emprendimiento.  
+Gestión administrativa y financiera - Documentación administrativa.  - Servicios bancarios para PYMES. - Cuentas corrientes.  - Liquidación de ITBIS.     - Logística de compraventa y 
+alquiler de bienes inmuebles. - Contabilidad y libros de registros. - Obligaciones fiscales. - Impuestos que afectan la 
+actividad de la empresa. - Calendario fiscal. - Liquidaciones de impuestos. 
+Gestión financiera  - Fundamentos contables. - El patrimonio. - Cuentas de balances y de 
+resultados  - Fuentes de financiamiento. - Préstamos bancarios a corto y 
+largo plazo. 
+Preparación de archivo 
+documental. 
+Gestión de servicios bancarios. 
+Proceso de liquidación de 
+impuestos. 
+Definición de logística de compra 
+y venta. 
+Análisis del patrimonio inicial del 
+pequeño negocio o 
+microempresa. 
+Distribución de la inversión.  
+Gestión del financiamiento. 
+Realizar cotizaciones de los 
+activos, de materia prima y/o 
+productos. 
+Estimación del costo. 
+Análisis básico de viabilidad 
+económico-financiera  
+Proyección de ventas 
+Proyección del flujo ingresos y 
+egresos 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 63 
+ - El leasing. - El factoring. - Ayudas y subvenciones a las 
+PYMES. 
+El costo del producto o servicio - Tipos. - Clasificación. 
+Planificación financiera 
+La inversión - Gasto de pre inversión. - Inversión inicial. - Gasto de operaciones. 
+Proyecciones financieras - Finalidades. - Aspectos fundamentales. - Tipos. 
+Proyección del Estado de 
+Resultados y Balance General. 
+Identificación de gastos y 
+utilidades conforme a las 
+proyecciones económicas. 
+ 
+Constitución de pequeño negocio o 
+microempresa en R.D. - Requisitos para el ejercicio de la 
+actividad empresarial. - Importancia y ventajas. - Formas jurídicas. - Tipos y requisitos. - Lo que se debe saber antes de 
+constituir la empresa. - Documentos constitutivos. - Trámites oficiales. - Licencias y permisos. - Instituciones facultadas. - La asesoría y capacitación 
+continua. - Importancia. - Áreas importantes de 
+capacitación. 
+Elección de la forma jurídica. 
+Proceso de gestión de la 
+constitución y puesta en marcha 
+del pequeño negocio.  
+Trámites oficiales y documentos 
+constitutivos de un pequeño 
+negocio o microempresa: 
+Elaboración de documentos: 
+estatutos, registro mercantil, 
+asamblea constitutiva, acta de 
+asamblea, certificados de 
+aportes u otros. 
+Registro de nombre e imagen 
+corporativa. 
+Solicitud de licencias y permisos. 
+Pago de impuestos. 
+Técnicas para la presentación de un 
+plan de empresa - La dicción. - El lenguaje corporal. - La empatía.  
+Preparación de la presentación 
+mediante técnica expositiva. 
+Ejecución de la exposición. 
+Montaje y realización de feria. 
+ 
+Estrategias Metodológicas: 
+ Detección de conocimientos previos, capacidades y competencias sobre la actividad empresarial y la 
+cultura emprendedora. 
+ Explicaciones del(de la) docente relacionadas con la iniciativa emprendedora y los fundamentos del 
+marketing orientado a pequeños negocios o microempresas. 
+ Realización de debates, lluvia de ideas, mesas redondas y actividades de análisis sobre factores claves 
+del éxito empresarial y la organización de un pequeño negocio o micro empresa. 
+ Utilización de internet como herramienta de comunicación y para la búsqueda de información, y 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 64 
+ 
+realización de cine foro con videos de motivación y crecimiento personal. 
+ Estudio de caso, mediante el análisis de un hecho relacionado con los factores claves del éxito o el 
+fracaso empresarial, reflexionando y planteando posibles alternativas de soluciones.  
+ Organización de grupos de trabajo, para el desarrollo de actividades en las que los alumnos trabajan 
+en equipo y todos son responsables de un rol o una actividad para lograr determinados resultados 
+comunes.   
+ Realización de visitas guiadas, tanto a instituciones relacionadas con los trámites legales para la 
+creación de empresas para conocer los procedimientos y requisitos establecidos, así como visitas a 
+ferias profesionales e intercambio de experiencias con otros politécnicos. 
+ Realización y exposición de un proyecto de emprendimiento en un tiempo determinado, incluyendo 
+las etapas de planificación y realización de una serie de actividades e integrando los elementos del 
+plan de empresa, a partir de la aplicación de los aprendizajes adquiridos.   
+ Retroalimentación positiva en cada sección de clase, en la que se evalúa el aprendizaje de los 
+estudiantes. 
+ 
+MÓDULO: FORMACIÓN Y ORIENTACIÓN LABORAL 
+Nivel: 3 
+Código: MF_006_3  
+Duración: 90 horas   
+ 
+Resultados de  
+Aprendizaje 
+Criterios de Evaluación 
+RA1: Ejercer los 
+derechos y cumplir las 
+obligaciones que se 
+derivan de las 
+relaciones laborales, 
+reconociéndolas en los 
+diferentes contratos 
+de trabajo. 
+ 
+CE1.1 Identificar los conceptos básicos del derecho del trabajo. 
+CE1.2 Identificar los principales organismos que intervienen en las relaciones 
+entre empleadores(as) y trabajadores(as): OIT, MT, empresas, sindicatos. 
+CE1.3 Identificar los derechos y obligaciones derivados de la relación laboral. 
+CE1.4 Identificar los tipos de contratos según su naturaleza. 
+CE1.5 Reconocer las medidas establecidas por la legislación vigente para la 
+conciliación de la vida laboral y familiar. 
+CE1.6 Identificar las causas y efectos de la modificación, así como la 
+suspensión de los efectos del contrato de trabajo. 
+CE1.7 Determinar las condiciones de trabajo de las diferentes modalidades de 
+contratos. 
+CE1.8 Identificar las principales causas de la terminación del contrato de 
+trabajo. 
+RA2: Determinar la 
+cobertura del Sistema 
+Dominicano de 
+Seguridad Social, 
+identificando las 
+distintas clases de 
+prestaciones.  
+CE2.1 Identificar las principales características del Sistema Dominicano de 
+Seguridad Social (SDSS).  
+CE2.2 Valorar el papel de la Seguridad Social como pilar esencial para la mejora 
+de la calidad de vida de los ciudadanos. 
+CE2.3 Identificar los regímenes de financiamiento existentes en el Sistema 
+Dominicano de Seguridad Social. 
+CE2.4 Identificar las prestaciones que cubre el Sistema Dominicano de 
+Seguridad Social. 
+CE2.5 Identificar los requisitos necesarios para acceder a cada uno de los 
+componentes del Sistema Dominicano de Seguridad Social. 
+CE2.6 Identificar las obligaciones del empleador o empleadora y el trabajador 
+o trabajadora dentro del Sistema Dominicano de Seguridad Social. 
+CE2.7 En un supuesto práctico correspondiente al Sistema Dominicano de 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 65 
+ 
+Seguridad Social, requerir: - Las bases de cotización de cada uno de los componentes del sistema.  - Las cuotas correspondientes a empleadores(as) y trabajadores(as).    
+RA3: Reconocer un 
+sistema de gestión de 
+seguridad y salud de 
+una empresa u 
+organización, e 
+identificar las 
+responsabilidades de 
+los agentes implicados.   
+CE3.1 Identificar la legislación y los organismos relacionados con la seguridad 
+y salud en el trabajo. 
+CE3.2 Valorar la importancia de la cultura preventiva en todos los ámbitos y 
+actividades de la empresa, los trabajadores y la organización. 
+CE3.3 Identificar los elementos del sistema de gestión de seguridad y salud 
+ocupacional. 
+CE3.4 Identificar los mecanismos internos de vigilancia para la implementación 
+del sistema de gestión de higiene y seguridad en el trabajo. 
+CE3.5 Identificar las obligaciones del empleador o empleadora y del trabajador 
+o trabajadora en materia de seguridad y salud en el trabajo.  
+CE3.6 Explicar los factores de riesgos laborales en el ambiente de trabajo 
+relacionados con el perfil profesional.  
+C.3.7 Identificar las medidas preventivas aplicables para eliminar, minimizar o 
+controlar los riesgos presentes en su ambiente de trabajo, relacionadas con el 
+perfil profesional. 
+CE3.8 Usos de las herramientas y equipos de prevención de accidentes 
+laborales. 
+RA4: Aplicar las 
+técnicas de 
+comunicación para 
+recibir y transmitir 
+instrucciones e 
+informaciones dentro 
+del ambiente laboral. 
+ 
+CE4.1 Identificar las técnicas y elementos de un proceso de comunicación. 
+CE4.2 Clasificar y caracterizar las etapas del proceso de comunicación. 
+CE4.3 Identificar las barreras e interferencias que dificultan la comunicación 
+dentro del ámbito laboral. 
+CE4.4 Identificar los factores para manipular los datos de la percepción. 
+CE4.5 En un supuesto práctico correspondiente a la recepción de 
+instrucciones, establecer:  - Objetivo fundamental de la instrucción;  - El grado de autonomía para su realización;  - Los resultados que se deben obtener; - Las personas a las que se debe informar; - Quién, cómo y cuándo se debe controlar el cumplimiento de la 
+instrucción. 
+CE4.6 Recibir y transmitir instrucciones para la ejecución práctica de ciertas 
+tareas, operaciones o movimientos para comprobar la eficacia de la 
+comunicación.  
+RA5: Contribuir a la 
+resolución de 
+conflictos que se 
+originen en el ámbito 
+laboral. 
+CE5.1 Identificar los tipos de conflictos en el trabajo y sus fuentes. 
+CE5.2 Determinar las técnicas para la resolución pacífica de conflictos. 
+CE5.3 Diferenciar entre datos y opiniones en el ámbito laboral. 
+CE5.4 En un supuesto práctico correspondiente a la resolución de conflictos: - Identificar el problema.  - Presentar ordenada y claramente el proceso seguido y los resultados 
+obtenidos en la resolución de un problema.  - Superar equilibrada y armónicamente las presiones e intereses entre los 
+distintos miembros de un grupo.  
+CE5.5 Explicar las diferentes posturas e intereses que pueden existir entre los 
+trabajadores y la dirección de una organización. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 66 
+ 
+RA6: Aplicar las 
+estrategias del trabajo 
+en equipo; y valorar su 
+eficacia y eficiencia, 
+para la consecución de 
+los objetivos de la 
+organización. 
+CE6.1 Identificar los elementos fundamentales del funcionamiento de un 
+grupo y los factores que pueden modificar su dinámica. 
+CE6.2 Valorar las ventajas del trabajo en equipo en situaciones de trabajo, en 
+relación con el título.  
+CE6.3 Identificar las características del equipo de trabajo eficaz. 
+CE6.4 En un supuesto práctico correspondiente al trabajo en equipo:  - Describir el proceso de toma de decisiones en equipo: la participación, 
+el consenso y el liderazgo.  - Adaptarse e integrarse a un equipo, colaborando, dirigiendo o 
+cumpliendo las órdenes, según el caso.  - Aplicar técnicas de dinamización de grupos de trabajo. 
+RA7: Analizar las 
+oportunidades de 
+empleo, y las 
+alternativas de 
+aprendizaje a lo largo 
+de la vida. 
+CE7.1 Valorar la importancia de la formación permanente como factor clave 
+para la empleabilidad y la adaptación a las exigencias del proceso productivo. 
+CE7.2 Identificar los itinerarios formativos profesionales relacionados con el 
+perfil. 
+CE7.3 Identificar las principales fuentes de empleo y de inserción laboral 
+relacionadas con el título. 
+CE7.4 Identificar alternativas de autoempleo en los sectores profesionales 
+relacionados con el título.  
+CE7.5 Realizar la valoración de la personalidad, aspiraciones, actitudes y 
+formación propia para la toma de decisiones.  
+RA8: Aplicar las 
+técnicas de búsqueda 
+de empleo.  
+CE8.1 Determinar las técnicas utilizadas en el proceso de búsqueda de empleo: 
+Internet, redes sociales, entrevistas, prensa, bolsas de empleo, visitas a 
+Oficinas Territoriales de Empleo (OTE), etc.  
+CE8.2 Elaborar su currículum vitae y prepararse para asistir a una entrevista 
+de trabajo. 
+CE8.3 Identificar los elementos clave para una entrevista de trabajo.  
+CE8.4 Identificar las diferentes pruebas utilizadas en el proceso de 
+reclutamiento y selección dentro de una empresa u organización. 
+CE8.5 En un supuesto práctico correspondiente a la entrevista de trabajo, 
+cumplir con los siguientes requisitos: - Preparar el currículo y sus anexos - Carta de presentación - Aspectos personales  - Objetivos profesionales claros - Comunicación verbal, no verbal y escrita - Puntualidad y vestimenta adecuada - Manejo de información sobre el puesto solicitado 
+ 
+Contenidos 
+Conceptuales Procedimentales Actitudinales 
+El contrato de trabajo - Código de Trabajo.  - Elementos del contrato. - Tipos de contrato de trabajo y 
+características más 
+importantes. 
+Definición de los derechos, 
+deberes y protección a la mujer, 
+presentes en el código de trabajo.  
+Valoración de la necesidad 
+de la regulación laboral.  
+ 
+Respeto hacia las normas 
+del trabajo.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 67 
+ - Jornada laboral: características 
+de los tipos de jornada. - Salario: partes y estructura del 
+salario. - Definición de los derechos, 
+deberes y protección a la mujer, 
+presentes en el Código de 
+Trabajo. 
+Manejo de los requisitos y 
+elementos que caracterizan a los 
+contratos. 
+Identificación de las ventajas que, 
+para empleadores(as) y 
+trabajadores(as), tiene cada tipo 
+de contrato. 
+Identificación de las principales 
+características de los tipos de 
+jornada. 
+Identificación de las partes, 
+estructura y los tipos de salarios. 
+Manejo de las garantías salariales y 
+prestaciones laborales a las que 
+tiene derecho el trabajador. 
+Interpretación de la nómina. 
+ 
+Interés por conocer las 
+normas que se aplican en 
+las relaciones laborales de 
+su sector de actividad 
+profesional.  
+ 
+Reconocimiento de los 
+cauces legales previstos 
+como vía para resolver 
+conflictos laborales. 
+ 
+ Rechazo de prácticas poco 
+éticas e ilegales en la 
+contratación de 
+trabajadores o 
+trabajadoras, 
+especialmente en los 
+colectivos más 
+desprotegidos. 
+ 
+Reconocimiento del papel 
+de la Seguridad Social en la 
+mejora de la calidad de 
+vida de los trabajadores y 
+la ciudadanía.  
+ 
+Rechazo hacia las 
+conductas fraudulentas 
+tanto en cotización como 
+en las prestaciones de la 
+Seguridad Social.  
+ 
+Valoración de la 
+prevención en salud e 
+higiene en el trabajo.  
+ 
+Valoración de la cultura 
+preventiva en todas las 
+fases de la actividad.  
+Valoración de la relación 
+Sistema Dominicano de Seguridad 
+Social - Campo de aplicación. - Estructura. - Régimen. - Entidades gestoras y 
+colaboradoras. - Obligaciones. - Acción protectora. - Clases y requisitos de las 
+prestaciones. 
+Análisis de la estructura del 
+Sistema de la Seguridad Social. 
+Determinación de las principales 
+obligaciones de empleadores(as) y 
+trabajadores(as) en materia de 
+Seguridad Social, afiliación y 
+cotización. 
+Análisis de la importancia del 
+sistema general de la Seguridad 
+Social. 
+Conocimiento de los diferentes 
+sub-sistemas de la Seguridad 
+Social: contributivo, subsidiado y 
+contributivo –subsidiado. 
+Resolución de casos prácticos 
+sobre prestaciones de la Seguridad 
+Social.  
+Seguridad, salud e higiene en el 
+trabajo - Riesgo profesional. - Medidas de prevención y 
+protección. - Planes de emergencia y de 
+evacuación. - Primeros auxilios. - Ley que aplica al sector, 
+reglamentos y normativas. 
+Leyes que aplican al sector y sus 
+reglamentos y normativas. 
+Análisis de factores de riesgo. 
+Análisis de la evaluación de riesgos 
+en la empresa como elemento 
+básico de la actividad preventiva. 
+Análisis de riesgos ligados a las: - Condiciones de seguridad.  - Condiciones ambientales. 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 68 
+ - Equipo de protección personal 
+(EPP). - Condiciones ergonómicas y 
+psicosociales. 
+Determinación de los posibles 
+daños a la salud del trabajador que 
+pueden derivarse de las 
+situaciones de riesgo detectadas.  
+Análisis y determinación de las 
+condiciones de trabajo. 
+Establecimiento de un protocolo 
+de riesgos según la función 
+profesional. 
+Distinción entre accidente de 
+trabajo y enfermedad profesional. 
+Determinación de las medidas de 
+prevención y protección individual 
+y colectiva. 
+Protocolo de actuación ante una 
+situación de emergencia.  
+entre trabajo y salud.  
+ 
+Interés en la adopción de 
+medidas de prevención.  
+ 
+Valoración de la formación 
+preventiva en la empresa.  
+ 
+Compromiso con la higiene 
+y la seguridad. 
+ 
+Valoración de la 
+comunicación como factor 
+clave en el trabajo en 
+equipo.  
+Valoración del aporte de 
+las personas para la 
+consecución de los 
+objetivos empresariales.  
+ 
+Valoración de las ventajas 
+e inconvenientes del 
+trabajo de equipo para la 
+eficacia de la organización. 
+  
+Actitud participativa en la 
+resolución de conflictos 
+que se puedan generar en 
+los equipos de trabajo.  
+ 
+Ponderación de los 
+distintos sistemas de 
+solución de conflictos. 
+ 
+Valoración de la formación 
+permanente como factor 
+clave para la empleabilidad 
+y el desarrollo profesional. 
+ 
+Identificación del itinerario 
+formativo y profesional 
+Comunicación en la empresa - Técnicas de comunicación. - Tipos de comunicación. - Etapas de un proceso de 
+comunicación. - Redes de comunicación, canales 
+y medios. - Dificultades y barreras en la 
+comunicación. - Recursos para manipular los 
+datos de la percepción. - Información como función de 
+dirección. - Negociación: conceptos, 
+elementos y estrategias de 
+negociación. 
+Caracterización de las técnicas y 
+tipos de comunicación. 
+Utilización de las redes de 
+comunicación, canales y medios, 
+para la consecución de los 
+objetivos de la empresa. 
+ 
+Trabajo en equipo - Clases de equipos en la industria 
+del sector según las funciones 
+que desempeñan.  - Características de los equipos de 
+trabajo. - Estructuras organizativas de una 
+empresa como conjunto de 
+personas para la consecución de 
+un fin. 
+Identificación de las características 
+de un equipo de trabajo eficaz. 
+Análisis de la formación de los 
+equipos de trabajo. 
+Selección del tipo de equipo ideal 
+para cada situación de trabajo. 
+Análisis de los posibles roles de 
+cada uno de los integrantes de un 
+equipo de trabajo. 
+Reconocimiento e identificación de 
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 69 
+ 
+las distintas fases por las que pasa 
+un equipo de trabajo. 
+Reconocimiento de la influencia de 
+las actitudes de cada individuo en 
+el equipo. 
+Puesta en práctica de distintas 
+técnicas de trabajo en equipo. 
+más adecuado de acuerdo 
+con el perfil y expectativas. 
+ 
+Valoración del autoempleo 
+como alternativa para la 
+inserción profesional.  
+ 
+Respeto hacia las normas y 
+reglamentos del trabajo. 
+Responsabilidad respecto a 
+sus funciones y a las 
+normas. 
+ 
+Compromiso con la higiene 
+y la seguridad. 
+ 
+Orden en el trabajo y el 
+espacio laboral. 
+ 
+Honradez e integridad en 
+todos los actos en la 
+empresa. 
+ 
+Disciplina en el 
+cumplimiento de las 
+responsabilidades y 
+horario.  
+ 
+Tolerancia y respeto con 
+sus compañeros de trabajo 
+y superiores. 
+Resolución de conflictos - Conflicto: definición, 
+característica, fuentes y etapas 
+del conflicto. - Proceso para la resolución o 
+supresión de un conflicto: 
+mediación, conciliación y 
+arbitraje. - Factores que influyen en la toma 
+de decisión. - Métodos para la toma de 
+decisión. - Fases para la toma de decisión. 
+Análisis del surgimiento de los 
+conflictos en las organizaciones: 
+compartir espacios, ideas y 
+propuestas. 
+Identificación de distintos tipos de 
+conflictos, quienes intervienen y 
+sus posiciones de partida. 
+Reconocimiento de las principales 
+fases de solución de conflictos, la 
+intermediación y los buenos 
+oficios. 
+Resolución de situaciones 
+conflictivas originadas como 
+consecuencia de las relaciones en 
+el entorno de trabajo. 
+Identificación de las principales 
+variables que influyen en el 
+proceso de solución de conflictos. 
+Análisis de las principales 
+características de los medios 
+pacíficos de solución de conflictos. 
+Inserción laboral y aprendizaje a lo 
+largo de la vida  - Oportunidades de empleo. - Toma de decisión. - Oportunidades de aprendizaje. - Proceso de búsqueda de empleo 
+en pequeñas, medianas y 
+grandes empresas del sector. 
+Análisis de los intereses, aptitudes 
+y motivaciones personales para la 
+carrera profesional.  
+Identificación de itinerarios 
+formativos relacionados con el 
+título.  
+Definición y análisis del sector 
+profesional del título. 
+Planificación de la propia carrera: 
+establecimiento de objetivos 
+laborales a medio y largo plazo, 
+compatibles con necesidades y 
+preferencias.  
+ Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas Página 70 
+ 
+Objetivos realistas y coherentes 
+con la formación actual y la 
+proyectada.  
+Establecimiento de una lista de 
+comprobación personal de 
+coherencia entre plan de carrera, 
+formación y aspiraciones.  
+Técnicas de búsqueda de empleo - Técnicas e instrumentos de 
+búsqueda de empleo. - Carta de presentación y 
+currículum vitae. - Pruebas y entrevistas de 
+selección. - Elementos clave de una 
+entrevista de trabajo. 
+Cumplimiento de los documentos 
+necesarios para la inserción 
+laboral: carta de presentación, 
+currículum vitae, anexos, etc.  
+Realización de test para selección 
+de personal y entrevistas 
+simuladas. 
+Manejo de información sobre el 
+puesto solicitado. 
+Búsqueda de empleo de manera 
+eficaz utilizando los mecanismos 
+existentes para tales fines: (bolsas 
+electrónicas de empleo como 
+www.empleateya.gob.do, 
+anuncios en medios de 
+comunicación, etc.  
+ 
+Estrategias Metodológicas: 
+ Detección de conocimientos previos y actividades de motivación al aprendizaje relacionadas con las 
+competencias que el joven pueda presentar en el tema de formación y orientación laboral. 
+ Transmisión de conocimientos a través de socialización, debates, actividades de descubrimientos de 
+temas relacionados al ambiente laboral.  
+ Resolución de ejercicios y problemas donde se ponga en práctica los conocimientos adquirido para 
+la resolución de situaciones laborales, como serian el recibir y transmitir instrucciones, la resolución 
+de algún conflicto, trabajo en equipo entre otras. 
+ Utilización de material audiovisual con la asistencia del computador donde se exponga al estudiante 
+a través de videos, presentaciones, internet, plataformas, entre otras, las diferentes técnicas 
+relacionada a la búsqueda de información relativa al tema laboral.  
+ Resolución de problemas a través de una situación laboral planteada por el profesor los estudiantes 
+apliquen de forma ordenada y coordinada las fases que implican la resolución de dicha situación. 
+ Realización de un proyecto donde el estudiante pueda resolver un problema o aborda una tarea 
+mediante la planificación, diseño y realización de una serie de actividades, donde el resultado sea la 
+inserción efectiva en el ambiente laboral.  
+ Aprendizaje individual y cooperativo donde el estudiante pone de manifiesto las competencias 
+blandas (habilidades sociales) y aquellas relacionadas al ambiente laboral.  
+ Aprendizaje mediante evaluación donde se pone de manifiesto lo aprendido en el transcurso del 
+módulo. 
+ 
+4. PERFIL DEL Y LA DOCENTE DE LOS MÓDULOS FORMATIVOS 
+Requisitos para el ejercicio de la función docente:  
+1. Poseer los conocimientos y competencias requeridas para el ejercicio de la función 
+docente, acreditada mediante los mecanismos de selección que en cada caso se 
+establezcan, asegurando el principio de igualdad en el acceso a la función docente. 
+a. Para los módulos asociados a unidades de competencia: Poseer un Grado académico de 
+Licenciado en el área del conocimiento de Tecnologías de la Información y la 
+Comunicación. 
+b. Para los módulos comunes:  
+ Para el módulo de Ofimática: poseer un grado académico de Licenciado en el área del 
+conocimiento de Tecnologías de la Información y la Comunicación. 
+ Para el módulo de Formación y Orientación Laboral: poseer un grado académico de 
+Licenciado en el área del conocimiento de Administración, Economía, Negocios y 
+Ciencias Sociales o de Humanidades. 
+ Para el módulo de Emprendimiento: poseer un grado académico de Licenciado en el 
+área del conocimiento de Administración, Economía, Negocios y Ciencias Sociales o 
+de Humanidades.  
+2. Competencia pedagógica acreditada por el Ministerio de Educación  (habilitación 
+docente). 
+3. Sin ser un requisito imprescindible, se valorará poseer experiencia profesional de un 
+mínimo de 3 años en el campo de sistemas de computación e infraestructuras 
+informáticas. 
+5 REQUISITOS MÍNIMOS DE ESPACIOS, INSTALACIONES Y EQUIPAMIENTO: 
+Espacio Formativo 
+Superficie m2 
+20 alumnos 
+Aula polivalente 
+Superficie m2 
+30 alumnos 
+Laboratorio de informática 
+30 
+40 
+Módulos 
+MF1 
+45 
+60 
+MF2 MF3 MF4 MF5 MF6 MF7 MF8 
+Aula polivalente 
+X 
+X 
+X 
+X  
+X   
+X   
+Laboratorio de 
+Informática 
+X 
+X  
+X 
+Espacio Formativo 
+Equipamiento 
+X - 
+Aula polivalente - - 
+Mesa y silla para el formador 
+Mesa y sillas para alumnos  
+Pizarra para escribir con rotulador - - 
+Laboratorio de informática - 
+Material de aula 
+PC instalados en red, proyector e internet 
+Software específico de la especialidad - 
+Pizarra para escribir con rotulador 
+Página 71 
+Bachillerato Técnico en Desarrollo y Administración de Aplicaciones Informáticas 
+- - - - - - - - - - 
+PC para el profesor.  
+Escáner.  
+Impresora.  
+Mobiliario de aula.  
+Reproductor audiovisual.  
+Pizarra electrónica.  
+Rotafolio. 
+Material de aula 
+Mesa y silla para el formador 
+Mesa y sillas para alumnos 
+Los diversos espacios formativos específicos identificados, así como las instalaciones y equipamientos 
+deberán cumplir con la normativa industrial y de seguridad y salud en el trabajo vigente y responderán a 
+medidas de accesibilidad universal y seguridad de los estudiantes. 
+El equipamiento (equipos, máquinas, etc.) dispondrá de la instalación necesaria para su correcto 
+funcionamiento. La cantidad y características del equipamiento deberán estar en función del número de 
+estudiantes matriculados y permitir la adquisición de los resultados de aprendizaje, teniendo en cuenta 
+los criterios de evaluación y los contenidos que se incluyen en cada uno de los módulos que se impartan 
+en los referidos espacios. 
+El Ministerio de Educación velará para que las instalaciones y el equipamiento sean los adecuados en 
+cantidad y características para el desarrollo de los módulos correspondientes y garantizar así la calidad de 
+estas enseñanzas. 
+En el caso de que la formación se dirija a personas con Necesidades Específicas de Apoyo Educativo (NEAE) 
+se realizarán las adaptaciones y los ajustes razonables a la infraestructura, para asegurar su participación 
+en condiciones de igualdad. 
+Los equipamientos que se incluyan en cada espacio de enseñanza aprendizaje han de ser los necesarios y 
+suficientes para garantizar a los estudiantes la adquisición de los resultados de aprendizaje y la calidad de 
+la enseñanza. 
