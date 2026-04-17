@@ -2,6 +2,11 @@
 const SUPABASE_URL = 'https://nanjqnyvcgxovghwfbgb.supabase.co'; 
 const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5hbmpxbnl2Y2d4b3ZnaHdmYmdiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYzNzM3MTgsImV4cCI6MjA5MTk0OTcxOH0.yXx-6A4lpYPqh3dLdSGXpjq7Cp3C6QYDb1C72mYuVIg'; 
 
+// Configuración de Puter (Elimina el pop-up de login)
+if (typeof puter !== 'undefined') {
+    puter.setToken('sb_publishable_0-1n73nBE8fZEZvPWQagug_32ixmW7a');
+}
+
 let supabaseClient = null;
 
 // Intentamos inicializar Supabase solo si las credenciales no son las de marcador de posición
